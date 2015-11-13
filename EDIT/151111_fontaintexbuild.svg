@@ -16,7 +16,6 @@
    width="1024"
    height="768"
    sodipodi:docname="151111_fontaintexbuild.svg"
-   
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -34,22 +33,22 @@
   <defs
      id="defs6" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#f0f0f0"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="73.841979"
-     inkscape:cy="561.51217"
-     inkscape:current-layer="svg2"
+     inkscape:zoom="0.66736628"
+     inkscape:cx="242.24997"
+     inkscape:cy="495.19175"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true" />
   <g
@@ -61,11 +60,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190247.png"
-       width="1024"
-       height="768"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="768"
+       width="1024" />
     <path
        id="path3025"
        style="fill:#eaeaea;fill-opacity:1;stroke:none;display:inline"
@@ -1505,11 +1504,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190331.png"
-       y="0"
-       x="0"
-       id="image3270"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image3270"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1604,11 +1603,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190411.png"
-       width="1024"
-       height="768"
-       id="image3458"
+       y="0"
        x="0"
-       y="0" />
+       id="image3458"
+       height="768"
+       width="1024" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3137,11 +3136,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190423.png"
-       y="0"
-       x="0"
-       id="image5096"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image5096"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3200,11 +3199,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190440.png"
-       width="1024"
-       height="768"
-       id="image5156"
+       y="0"
        x="0"
-       y="0" />
+       id="image5156"
+       height="768"
+       width="1024" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3329,11 +3328,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190454.png"
-       y="0"
-       x="0"
-       id="image6043"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image6043"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3425,11 +3424,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190526.png"
-       width="1024"
-       height="768"
-       id="image6128"
+       y="0"
        x="0"
-       y="0" />
+       id="image6128"
+       height="768"
+       width="1024" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4274,11 +4273,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190540.png"
-       y="0"
-       x="0"
-       id="image6896"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image6896"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4343,11 +4342,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190610.png"
-       width="1024"
-       height="768"
-       id="image6958"
+       y="0"
        x="0"
-       y="0" />
+       id="image6958"
+       height="768"
+       width="1024" />
   </g>
   <g
      style="opacity:0.8;display:none"
@@ -4926,11 +4925,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190656.png"
-       y="0"
-       x="0"
-       id="image7285"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image7285"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5185,11 +5184,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190736.png"
-       width="1024"
-       height="768"
-       id="image3938"
+       y="0"
        x="0"
-       y="0" />
+       id="image3938"
+       height="768"
+       width="1024" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6888,11 +6887,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190752.png"
-       y="0"
-       x="0"
-       id="image5591"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image5591"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6933,11 +6932,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190816.png"
-       width="1024"
-       height="768"
-       id="image5767"
+       y="0"
        x="0"
-       y="0" />
+       id="image5767"
+       height="768"
+       width="1024" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7152,11 +7151,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190915.png"
-       y="0"
-       x="0"
-       id="image6759"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image6759"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8241,11 +8240,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110190942.png"
-       width="1024"
-       height="768"
-       id="image4650"
+       y="0"
        x="0"
-       y="0" />
+       id="image4650"
+       height="768"
+       width="1024" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8565,11 +8564,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110191103.png"
-       y="0"
-       x="0"
-       id="image4758"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image4758"
+       x="0"
+       y="0" />
   </g>
   <g
      style="opacity:0.8;display:none"
@@ -9830,11 +9829,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110191120.png"
-       width="1024"
-       height="768"
-       id="image5716"
+       y="0"
        x="0"
-       y="0" />
+       id="image5716"
+       height="768"
+       width="1024" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -9970,11 +9969,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110191147.png"
-       y="0"
-       x="0"
-       id="image6326"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image6326"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -10395,11 +10394,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110191443.png"
-       width="1024"
-       height="768"
-       id="image7590"
+       y="0"
        x="0"
-       y="0" />
+       id="image7590"
+       height="768"
+       width="1024" />
   </g>
   <g
      style="opacity:0.8;display:none"
@@ -10940,11 +10939,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110191721.png"
-       y="0"
-       x="0"
-       id="image8089"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image8089"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -11154,11 +11153,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110191814.png"
-       width="1024"
-       height="768"
-       id="image8413"
+       y="0"
        x="0"
-       y="0" />
+       id="image8413"
+       height="768"
+       width="1024" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12815,11 +12814,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110191858.png"
-       y="0"
-       x="0"
-       id="image9918"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image9918"
+       x="0"
+       y="0" />
   </g>
   <g
      style="opacity:0.8;display:none"
@@ -13029,11 +13028,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110191937.png"
-       width="1024"
-       height="768"
-       id="image10004"
+       y="0"
        x="0"
-       y="0" />
+       id="image10004"
+       height="768"
+       width="1024" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -13246,11 +13245,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110191955.png"
-       y="0"
-       x="0"
-       id="image12299"
+       width="1024"
        height="768"
-       width="1024" />
+       id="image12299"
+       x="0"
+       y="0" />
   </g>
   <g
      style="opacity:0.8;display:none"
@@ -14030,11 +14029,11 @@
     <image
        
        xlink:href="../src/screenshot/20151110192049.png"
-       width="1024"
-       height="768"
-       id="image12979"
+       y="0"
        x="0"
-       y="0" />
+       id="image12979"
+       height="768"
+       width="1024" />
   </g>
   <g
      style="opacity:0.8;display:none"
