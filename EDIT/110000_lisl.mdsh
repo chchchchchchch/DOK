@@ -1,0 +1,56 @@
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+    |        |             ..'''' |
+    |        |          .''       |
+    |        |       ..'          |
+    |_______ | ....''             |_______
+ 
+ 
+     Ludic Interfaces for Scrabble Lovers
+     ------------------------------------
+     Workshop Linz 2011
+     ------------------------------------
+     Text-driven Tools for Graphic Design
+ 
+     28.10. + 29.10.2011
+     11.11. + 12.11.2011
+     ------------------------------------
+
+  The GNU/Linux commandline is a **ludic interface**,
+  _playful, user-generated and user-driven, flexible, low-cost
+  and cooperative[*](http://en.wikipedia.org/wiki/Ludic_Interfaces)_.
+  _Nothing but a bunch of plug-ins to be promiscuously plugged into
+  each other. The application can be built, and the solution invented,
+  by users themselves_. _**On the command line, usage seamlessly extends
+  into programming**_.[@cramer:0000:clipoetics]
+  It provides _functions, not applications; methods,
+  not solutions_.[@cramer:0000:clipoetics]
+  GNU/Linux _system utilities are a sort of Lego construction set
+  for word-smiths.Pipes and filters connect one utility to the next,
+  text flows invisibly between. **Working with a shell [...]
+  is literally a word dance**[*](http://theody.net/elements.html)_.
+
+
+  You shouldn't expect out-of-the-box solutions, for free, like beer and speech,
+  politically more correct than the
+  Creative SuiteTM (--> http://en.wikipedia.org/wiki/Monoculture#Disease)
+  and by the way the next hot shit for human-computer interaction.
+  This workshop will **NOT** provide you with a newer and better
+  [Processing](http://www.processing.org) for
+  [Typesetting](http://en.wikipedia.org/wiki/Typesetting)
+  or [Desktop Publishing](http://en.wikipedia.org/wiki/Desktop_publishing).
+  
+  **This is  an introduction, especially for non-programmers, to the world of
+  quick hacks, workarounds and almost-good-enough solutions.
+  Searching, finding and replacing, fundamental principles for computer based
+  text processing and frequently used in [forkable](http://www.forkable.eu) tools,
+  becomes here a style of working. Search for a tool, the almost-good-enough
+  solution, hopefully find it and replace what does not fit your needs.**
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
