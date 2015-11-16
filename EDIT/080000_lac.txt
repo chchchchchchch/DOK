@@ -1,0 +1,1477 @@
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  In 2008 the *visual key element* for the Linux Audio Conference
+  was an absurd and highly interconnected musical instrument,
+  invented and plugged together by _LAFKON_. We wrote some code for
+  the bash and Processing that generates a multitude of the so called
+  _LAC Machine_ from a pool of [micro illustrations](http://vektordb.lafkon.net/2007/pipemusic/).
+
+
+  [The Edition](http://www.forkable.eu/generators/lacmachine/SELFPRINT)
+  [Follow Research & Development](http://www.forkable.eu/memo/2008/lac/)
+  [Explore Development and Production Tree](http://www.forkable.eu/generators/lacmachine)
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account1
+  X-UIDL: UID5415-1148071373
+  X-Mozilla-Status: 0003
+  X-Mozilla-Status2: 00000000
+  Return-Path: <nruter@rumori.de>
+  X-Original-To: hpotsirhc@listen.lafkon.net
+  Delivered-To: hpotsirhc@listen.lafkon.net
+  Received: from florenz231.server4you.de (static-ip-217-172-183-231.inaddr.intergenia.de [217.172.183.231])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 1AD4C380203
+  	for <hpotsirhc@listen.lafkon.net>; Fri, 20 Jul 2007 14:21:30 +0200 (CEST)
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 96BAE16603E;
+  	Fri, 20 Jul 2007 12:11:49 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new, port 10024)
+  	with ESMTP id 08425-01; Fri, 20 Jul 2007 12:11:44 +0200 (CEST)
+  Received: from damaia.tejo (dslb-084-063-113-246.pools.arcor-ip.net [84.63.113.246])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 8D8E7166034;
+  	Fri, 20 Jul 2007 12:11:44 +0200 (CEST)
+  Received: from rumori by damaia.tejo with local (masqmail 0.2.21) id
+   1IBpbA-8HH-00; Fri, 20 Jul 2007 12:20:36 +0200
+  Date: Fri, 20 Jul 2007 12:20:36 +0200
+  From: martin rumori <iromur@khm.de>
+  To: Christoph Haag <hpotsirhc@listen.lafkon.net>
+  Cc: Frank Barknecht <rabf@footils.org>
+  Subject: CD linux audio 2008
+  Message-ID: <08713DG.63020102707002@benfica.tejo>
+  MIME-Version: 1.0
+  Content-Type: multipart/signed; micalg=pgp-sha1;
+  	protocol="application/pgp-signature"; boundary="VV4b6MQE+OnNyhkM"
+  Content-Disposition: inline
+  User-Agent: Mutt/1.5.16 (2007-06-11)
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at florenz231.server4you.de
+
+
+  hi christoph nochmal,
+
+  kaum ist das pd-paper weg, geht es gleich um die nächste baustelle:
+  linux audio 2008 und ihr CD!  frank und ich würden uns sehr freuen,
+  wenn du weiterhin interesse hättest, da was zu machen!
+
+  inzwischen stehen die daten fest (noch nicht offiziell bekanntgegeben):
+  28.2.-2.3.2008.
+
+  was denkst du, können wir uns mal per skype zusammenschalten für ein
+  erstes brainstorming?  wie ist es bei dir am kommenden montag
+  vormittag (23. juli), so gegen 12 uhr? treffe mich da mit frank an
+  der khm, da könnten wir dich dann anskypen und hätten eine konferenz
+  zu dritt.
+
+  viele grüße,
+
+  martin
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID3213-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 00000000
+  Return-Path: <secnuob-agro-cal@khm-lists.rumori.de>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from florenz231.server4you.de (static-ip-217-172-183-231.inaddr.intergenia.de [217.172.183.231])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 8C5BC380203
+  	for <hpotsirhc@lafkon.net>; Thu, 26 Jul 2007 21:28:49 +0200 (CEST)
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 1BCE8166044;
+  	Thu, 26 Jul 2007 19:18:52 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new, port 10024)
+  	with ESMTP id 15157-09; Thu, 26 Jul 2007 19:18:48 +0200 (CEST)
+  Received: from florenz231.server4you.de (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 8B57316603B;
+  	Thu, 26 Jul 2007 19:18:48 +0200 (CEST)
+  X-Original-To: agro-cal@khm-lists.rumori.de
+  Delivered-To: agro-cal@florenz231.server4you.de
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id C2BC916603B
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Thu, 26 Jul 2007 19:18:40 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new,
+  	port 10024)
+  	with ESMTP id 15074-10 for <agro-cal@khm-lists.rumori.de>;
+  	Thu, 26 Jul 2007 19:18:37 +0200 (CEST)
+  Received: from 213-146-165-197.kunde.vdserver.de
+  	(vd130026.korypet-solutions.com [88.198.130.26])
+  	by florenz231.server4you.de (Postfix) with ESMTP id B4A17166038
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Thu, 26 Jul 2007 19:18:37 +0200 (CEST)
+  Received: from xdsl-81-173-184-20.netcologne.de ([81.173.184.20]
+  	helo=fliwatut.scifi)
+  	by 213-146-165-197.kunde.vdserver.de with esmtpa (Exim 4.50)
+  	id 1IE77l-0002rz-9u
+  	for agro-cal@khm-lists.rumori.de; Thu, 26 Jul 2007 19:27:41 +0200
+  Received: from freak by fliwatut.scifi with local (Exim 4.63)
+  	(envelope-from <rabf@footils.org>) id 1IE77k-0003is-Ga
+  	for agro-cal@khm-lists.rumori.de; Thu, 26 Jul 2007 19:27:40 +0200
+  Date: Thu, 26 Jul 2007 19:27:40 +0200
+  From: Frank Barknecht <rabf@footils.org>
+  To: agro-cal@khm-lists.rumori.de
+  Subject: Re: [lac-orga] LAC-Website: lac.linuxaudio.org
+  Message-ID: <79262AG.04727162707002@fliwatut.scifi>
+  References: <05461BG.12018062707002@fliwatut.scifi>
+  	<0020703.69FB8A64@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=iso-8859-15
+  Content-Disposition: inline
+  Content-Transfer-Encoding: 8bit
+  In-Reply-To: <0020703.69FB8A64@lafkon.net>
+  User-Agent: Mutt/1.5.13 (2006-08-11)
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at
+  	florenz231.server4you.de
+  X-BeenThere: agro-cal@khm-lists.rumori.de
+  X-Mailman-Version: 2.1.5
+  Precedence: list
+  List-Id: "lac2008@khm organizational team" <lac-orga.khm-lists.rumori.de>
+  List-Unsubscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=unsubscribe>
+  List-Archive: <https://khm-lists.rumori.de:4434/mailman/private/lac-orga>
+  List-Post: <mailto:agro-cal@khm-lists.rumori.de>
+  List-Help: <mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=help>
+  List-Subscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=subscribe>
+  Sender: secnuob-agro-cal@khm-lists.rumori.de
+  Errors-To: secnuob-agro-cal@khm-lists.rumori.de
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at florenz231.server4you.de
+
+
+  Hallo,
+  Christoph Haag hat gesagt: // Christoph Haag wrote:
+
+  >> hier ein 2 schnelle html-platzhalter mit blindtext.
+  >> 
+  >> http://christoph.lofilabs.mine.nu/LAC2008/html_dummy/index_genskript.html
+  >> http://christoph.lofilabs.mine.nu/LAC2008/html_dummy/index_logo.html
+  >> 
+  >> wie auf index_logo.html zu sehen ist, hab ich nochmal wegen einem logo 
+  >> probiert.
+  >> bin mir da selber nicht ganz sicher: zum einen pinguin , zum anderen mit 
+  >> dem wappen sehr köln-patriotisch, in kombination aber nicht so bierernst 
+  >> wie einzeln, aber vielleicht schon zu wenig ernsthaft. anmerkungen, 
+  >> anregungen erwünscht,
+
+  Cool, das hat was! Sogar das Wappen sieht im Bild gar nicht so aus,
+  wie die Beschreibung klingt, finde ich ganz gut. Vielleicht statt
+  Schwert noch ein Geigenbogen oder so in die Krallen. Ob man das
+  Köln-Wappen einfach so verwenden darf, da bin ich mir aber gar nicht
+  so sicher. Wappen haben da ja manchmal juristische Fallstricke. 
+
+  Ciao
+  --
+   Frank Barknecht                     _ ______footils.org_ __goto10.org__ 
+
+
+  _______________________________________________
+  lac-orga mailing list
+  agro-cal@khm-lists.rumori.de
+  https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID3229-1147951776
+  X-Mozilla-Status: 0013
+  X-Mozilla-Status2: 10000000
+  Return-Path: <secnuob-agro-cal@khm-lists.rumori.de>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from florenz231.server4you.de (static-ip-217-172-183-231.inaddr.intergenia.de [217.172.183.231])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 0759E380203
+  	for <hpotsirhc@lafkon.net>; Fri, 27 Jul 2007 17:18:23 +0200 (CEST)
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 2AE6D16603A;
+  	Fri, 27 Jul 2007 15:08:23 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new, port 10024)
+  	with ESMTP id 11827-04; Fri, 27 Jul 2007 15:08:18 +0200 (CEST)
+  Received: from florenz231.server4you.de (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 4559E16603B;
+  	Fri, 27 Jul 2007 15:08:18 +0200 (CEST)
+  X-Original-To: agro-cal@khm-lists.rumori.de
+  Delivered-To: agro-cal@florenz231.server4you.de
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id B478216603B
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Fri, 27 Jul 2007 15:08:15 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new,
+  	port 10024)
+  	with ESMTP id 11827-03 for <agro-cal@khm-lists.rumori.de>;
+  	Fri, 27 Jul 2007 15:08:11 +0200 (CEST)
+  Received: from mail.khm.de (mail.khm.de [194.95.160.44])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 1976C16603A
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Fri, 27 Jul 2007 15:08:11 +0200 (CEST)
+  Received: from damaia.tejo (ft.khm.de [194.95.160.24])
+  	by mail.khm.de (8.12.11.20060308/8.12.10/SuSE Linux 0.7) with ESMTP id
+  	l6RDHGpv019528
+  	for <agro-cal@khm-lists.rumori.de>; Fri, 27 Jul 2007 15:17:16 +0200
+  Received: from rumori by damaia.tejo with local (masqmail 0.2.21) id
+  	1IEPgy-3J6-00 for <agro-cal@khm-lists.rumori.de>; Fri, 27 Jul 2007
+  	15:17:16 +0200
+  Date: Fri, 27 Jul 2007 15:17:16 +0200
+  From: martin rumori <iromur@khm.de>
+  To: agro-cal@khm-lists.rumori.de
+  Subject: Re: [lac-orga] LAC-Website: lac.linuxaudio.org
+  Message-ID: <8946CG.61713172707002@benfica.tejo>
+  Mail-Followup-To: agro-cal@khm-lists.rumori.de
+  References: <05461BG.12018062707002@fliwatut.scifi>
+  	<0020703.69FB8A64@lafkon.net>
+  	<79262AG.04727162707002@fliwatut.scifi>
+  MIME-Version: 1.0
+  In-Reply-To: <79262AG.04727162707002@fliwatut.scifi>
+  User-Agent: Mutt/1.5.16 (2007-06-11)
+  X-Virus-Scanned: ClamAV 0.91.1/3781/Fri Jul 27 13:24:10 2007 on mail.khm.de
+  X-Virus-Status: Clean
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at
+  	florenz231.server4you.de
+  X-BeenThere: agro-cal@khm-lists.rumori.de
+  X-Mailman-Version: 2.1.5
+  Precedence: list
+  List-Id: "lac2008@khm organizational team" <lac-orga.khm-lists.rumori.de>
+  List-Unsubscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=unsubscribe>
+  List-Archive: <https://khm-lists.rumori.de:4434/mailman/private/lac-orga>
+  List-Post: <mailto:agro-cal@khm-lists.rumori.de>
+  List-Help: <mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=help>
+  List-Subscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=subscribe>
+  Content-Type: multipart/mixed; boundary="===============1434799818=="
+  Mime-version: 1.0
+  Sender: secnuob-agro-cal@khm-lists.rumori.de
+  Errors-To: secnuob-agro-cal@khm-lists.rumori.de
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at florenz231.server4you.de
+
+
+  hi christoph,
+
+  finde ich auch sehr witzig, das wappen, super!  geigenbogen wäre auch
+  nicht schlecht -- oder drumstick oder dirigentenstab...
+
+  ein problem bei mir, von dem ich denke, daß es nicht so sein
+  sollte: die datumsangabe "köln 28.2--..." verdeckt zur hälfte die
+  textzeile drüber "conference, ...", weiß nicht, ob das mit
+  unterschiedlichen typos etc. zu tun hat, die auf verschiedenen
+  systemen verwendet werden?
+
+  zur rechte-problematik weiß ich auch nichts -- notfalls müßte man die
+  adlerflügel evtl. noch weiter entstellen bzw. aus leicht anders
+  geformten elementen neu zusammensetzen, dann dürfte die
+  bildmarken-problematik doch beseitigt sein?
+
+  viele grüße,
+  
+  martin
+
+
+  On Thu, Jul 26, 2007 at 07:27:40PM +0200, Frank Barknecht wrote:
+  >> Hallo,
+  >> Christoph Haag hat gesagt: // Christoph Haag wrote:
+  >> 
+  >>>> hier ein 2 schnelle html-platzhalter mit blindtext.
+  >>>> 
+  >>>> http://christoph.lofilabs.mine.nu/LAC2008/html_dummy/index_genskript.html
+  >>>> http://christoph.lofilabs.mine.nu/LAC2008/html_dummy/index_logo.html
+  >>>> 
+  >>>> wie auf index_logo.html zu sehen ist, hab ich nochmal wegen einem logo 
+  >>>> probiert.
+  >>>> bin mir da selber nicht ganz sicher: zum einen pinguin , zum anderen mit 
+  >>>> dem wappen sehr köln-patriotisch, in kombination aber nicht so bierernst 
+  >>>> wie einzeln, aber vielleicht schon zu wenig ernsthaft. anmerkungen, 
+  >>>> anregungen erwünscht,
+  >> 
+  >> Cool, das hat was! Sogar das Wappen sieht im Bild gar nicht so aus,
+  >> wie die Beschreibung klingt, finde ich ganz gut. Vielleicht statt
+  >> Schwert noch ein Geigenbogen oder so in die Krallen. Ob man das
+  >> Köln-Wappen einfach so verwenden darf, da bin ich mir aber gar nicht
+  >> so sicher. Wappen haben da ja manchmal juristische Fallstricke. 
+  >> 
+  >> Ciao
+
+
+  _______________________________________________
+  lac-orga mailing list
+  agro-cal@khm-lists.rumori.de
+  https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga
+
+
+  Attachments:
+  signature.asc	189 bytes
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID3437-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 10000000
+  Return-Path: <secnuob-agro-cal@khm-lists.rumori.de>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from florenz231.server4you.de (static-ip-217-172-183-231.inaddr.intergenia.de [217.172.183.231])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id D6F0F380203
+  	for <hpotsirhc@lafkon.net>; Thu,  2 Aug 2007 14:03:17 +0200 (CEST)
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 1B0B4166038;
+  	Thu,  2 Aug 2007 11:53:03 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new, port 10024)
+  	with ESMTP id 21532-08; Thu, 2 Aug 2007 11:52:56 +0200 (CEST)
+  Received: from florenz231.server4you.de (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 5108616603B;
+  	Thu,  2 Aug 2007 11:52:56 +0200 (CEST)
+  X-Original-To: agro-cal@khm-lists.rumori.de
+  Delivered-To: agro-cal@florenz231.server4you.de
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 23BA4166038
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Thu,  2 Aug 2007 11:52:54 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new,
+  	port 10024)
+  	with ESMTP id 21532-07 for <agro-cal@khm-lists.rumori.de>;
+  	Thu, 2 Aug 2007 11:52:49 +0200 (CEST)
+  Received: from mail.khm.de (mail.khm.de [194.95.160.44])
+  	by florenz231.server4you.de (Postfix) with ESMTP id C919F16603B
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Thu,  2 Aug 2007 11:52:49 +0200 (CEST)
+  Received: from damaia.tejo (ft.khm.de [194.95.160.24])
+  	by mail.khm.de (8.12.11.20060308/8.12.10/SuSE Linux 0.7) with ESMTP id
+  	l72A28vZ016337
+  	for <agro-cal@khm-lists.rumori.de>; Thu, 2 Aug 2007 12:02:08 +0200
+  Received: from rumori by damaia.tejo with local (masqmail 0.2.21) id
+  	1IGXVP-2oF-00 for <agro-cal@khm-lists.rumori.de>; Thu, 02 Aug 2007
+  	12:02:07 +0200
+  Date: Thu, 2 Aug 2007 12:02:07 +0200
+  From: martin rumori <iromur@khm.de>
+  To: agro-cal@khm-lists.rumori.de
+  Subject: Re: [lac-orga] LAC-Website: lac.linuxaudio.org
+  Message-ID: <46662RG.70200120807002@benfica.tejo>
+  Mail-Followup-To: agro-cal@khm-lists.rumori.de
+  References: <05461BG.12018062707002@fliwatut.scifi>
+  	<0020703.69FB8A64@lafkon.net>
+  	<79262AG.04727162707002@fliwatut.scifi>
+  	<8946CG.61713172707002@benfica.tejo> <9080805.74270B64@lafkon.net>
+  MIME-Version: 1.0
+  In-Reply-To: <9080805.74270B64@lafkon.net>
+  User-Agent: Mutt/1.5.16 (2007-06-11)
+  X-Virus-Scanned: ClamAV 0.91.1/3846/Wed Aug  1 09:27:07 2007 on mail.khm.de
+  X-Virus-Status: Clean
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at
+  	florenz231.server4you.de
+  X-BeenThere: agro-cal@khm-lists.rumori.de
+  X-Mailman-Version: 2.1.5
+  Precedence: list
+  List-Id: "lac2008@khm organizational team" <lac-orga.khm-lists.rumori.de>
+  List-Unsubscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=unsubscribe>
+  List-Archive: <https://khm-lists.rumori.de:4434/mailman/private/lac-orga>
+  List-Post: <mailto:agro-cal@khm-lists.rumori.de>
+  List-Help: <mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=help>
+  List-Subscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=subscribe>
+  Content-Type: multipart/mixed; boundary="===============1160313665=="
+  Mime-version: 1.0
+  Sender: secnuob-agro-cal@khm-lists.rumori.de
+  Errors-To: secnuob-agro-cal@khm-lists.rumori.de
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at florenz231.server4you.de
+
+
+  hallo christoph,
+
+  danke für die weiteren mühen!
+
+  On Wed, Aug 01, 2007 at 01:45:11PM +0200, Christoph Haag wrote:
+  >> ich habe mal die insignien ausgetauscht. jetzt geigenstock und tröte. wegen 
+  >> der schriftüberschneidung habe ich mal was am .css geändert, evtl. gehts, 
+  >> ansonsten muss ich das mal gründlich checken.
+  >> http://christoph.lofilabs.mine.nu/LAC2008/html_dummy/index_logo.html
+
+  schriftüberschneidung/css ist zumindest bei mir jetzt in ordnung,
+  diese positionierung geht inzwischen tatsächlich allein mit css, und
+  das bei allen gängigen browsern und narrensicher???
+
+  peinlich, peinlich, peinlich, aber ich bin wohl wirklich nicht mehr
+  auf dem stand in diesem geschäft...
+
+  neues logo ist super!  die t-shirts werden der absolute renner, soviel
+  ist jetzt schon sicher.
+
+  >> ich hab mal noch an der plakatgenerierung weitergemacht.
+  >> hier 2 beispiele wie es so in etwa aussehen kann:
+  >> http://christoph.lofilabs.mine.nu/LAC2008/out_05.pdf
+  >> http://christoph.lofilabs.mine.nu/LAC2008/out_08.pdf
+
+  wunderbar, gefällt mir sehr gut!
+
+  zwei dinge, bevor sie sich zementieren und dann auf einmal auf dem
+  fertigen plakat stehen:
+
+  adresse sollte vielleicht filzengraben 2 sein, der neubau.
+
+  url könnte man auf http://lac.linuxaudio.org setzen, das ist unsere
+  direkte subdomain, zumal (zumindest noch) kein direkter und ins auge
+  stechender link von der www.linuxaudio.org -hauptseite existiert.  was
+  denkst du, frank?
+
+  >> bei den einzelteilen wäre es jetzt an der zeit linuxaudiospezifischer zu 
+  >> werden, wenn ihr mir was schicken wollt (screenshots, etcpp., soweit ich 
+  >> weiß kann man aus puredata postscript-patches exportieren, geht das bei 
+  >> anderen programmen auch?), nur zu.
+
+  muß da bis september leider passen, das schaffe ich vor dem urlaub
+  nicht mehr, würde dann danach schauen.  vektor-export könnte je nach
+  programm tatsächlich schwierig werden, müßte man mal in ruhe
+  nachdenken.
+
+  erstmal vielen dank an alle, und bis september!
+
+  viele grüße,
+
+  martin
+
+
+
+  _______________________________________________
+  lac-orga mailing list
+  agro-cal@khm-lists.rumori.de
+  https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga
+
+
+  Attachments:
+  signature.asc	189 bytes
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID3541-1147951776
+  X-Mozilla-Status: 0001
+  X-Mozilla-Status2: 00000000
+  Return-Path: <secnuob-agro-cal@khm-lists.rumori.de>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from florenz231.server4you.de (static-ip-217-172-183-231.inaddr.intergenia.de [217.172.183.231])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 618EC380067
+  	for <hpotsirhc@lafkon.net>; Sun,  5 Aug 2007 15:03:56 +0200 (CEST)
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id CE2C516603A;
+  	Sun,  5 Aug 2007 12:53:32 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new, port 10024)
+  	with ESMTP id 26527-06; Sun, 5 Aug 2007 12:53:18 +0200 (CEST)
+  Received: from florenz231.server4you.de (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id B99DD16603F;
+  	Sun,  5 Aug 2007 12:53:16 +0200 (CEST)
+  X-Original-To: agro-cal@khm-lists.rumori.de
+  Delivered-To: agro-cal@florenz231.server4you.de
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 0FC4616603D
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Sun,  5 Aug 2007 12:53:12 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new,
+  	port 10024)
+  	with ESMTP id 26527-05-2 for <agro-cal@khm-lists.rumori.de>;
+  	Sun, 5 Aug 2007 12:53:08 +0200 (CEST)
+  Received: from 213-146-165-197.kunde.vdserver.de
+  	(vd130026.korypet-solutions.com [88.198.130.26])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 270DD166045
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Sun,  5 Aug 2007 12:53:01 +0200 (CEST)
+  Received: from xdsl-81-173-238-100.netcologne.de ([81.173.238.100]
+  	helo=fliwatut.scifi)
+  	by 213-146-165-197.kunde.vdserver.de with esmtpa (Exim 4.50)
+  	id 1IHdsP-0005c2-3A
+  	for agro-cal@khm-lists.rumori.de; Sun, 05 Aug 2007 13:02:25 +0200
+  Received: from freak by fliwatut.scifi with local (Exim 4.63)
+  	(envelope-from <rabf@footils.org>) id 1IHdsO-0001KP-Iw
+  	for agro-cal@khm-lists.rumori.de; Sun, 05 Aug 2007 13:02:24 +0200
+  Date: Sun, 5 Aug 2007 13:02:24 +0200
+  From: LAC2008 <rabf@footils.org>
+  To: agro-cal@khm-lists.rumori.de
+  Message-ID: <36381GG.42201150807002@fliwatut.scifi>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=iso-8859-15
+  Content-Disposition: inline
+  Content-Transfer-Encoding: 8bit
+  User-Agent: Mutt/1.5.13 (2006-08-11)
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at
+  	florenz231.server4you.de
+  Subject: [lac-orga] [ANN] Linux Audio Conference 2008
+  X-BeenThere: agro-cal@khm-lists.rumori.de
+  X-Mailman-Version: 2.1.5
+  Precedence: list
+  List-Id: "lac2008@khm organizational team" <lac-orga.khm-lists.rumori.de>
+  List-Unsubscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=unsubscribe>
+  List-Archive: <https://khm-lists.rumori.de:4434/mailman/private/lac-orga>
+  List-Post: <mailto:agro-cal@khm-lists.rumori.de>
+  List-Help: <mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=help>
+  List-Subscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=subscribe>
+  Sender: secnuob-agro-cal@khm-lists.rumori.de
+  Errors-To: secnuob-agro-cal@khm-lists.rumori.de
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at florenz231.server4you.de
+
+
+  Linux Audio Conference 2008
+  Lectures / Demos / Workshops / Concerts / Linux Soundnight
+  Köln/Cologne, 28.2.-2.3.2008
+
+  The 6th Linux Audio Conference is taking place in Cologne (Germany) Feb 28th to
+  March 2nd 2008.
+
+  The Academy of Media Arts[1], Cologne, is proud to host the Linux Audio Conference
+  2008[2], where once a year programmers and artists, musicians, composers and
+  practioneers gather to discuss and explore new and important developments in
+  making music and sounds with Linux and Open Source software.
+
+  The Linux Audio Conference is both a meeting of developers writing audio
+  software for Linux as it is a music festival, where artists from all over the
+  world show how free software can create fresh and exciting new sounds.
+
+  A wide range of workshops, talks and presentations will once again prove, how
+  Tux, the friendly penguin, spreads its little wings into areas, that no longer
+  are the realm for the big fish alone - like computer music, sound engineering
+  and audio distribution. The LAC aims at bringing together developers and users
+  of Linux and open source audio software with the goal of information sharing,
+  project discussions, making (and dancing to) music.
+
+  Each day of the conference there will be a concert which features music
+  composed and created with open source software.
+
+  Stay tuned for the various calls for Papers, Music and Workshops bound to
+  appear on the new LAC website - http://lac.linuxaudio.org - right after the
+  summer break.
+
+  The team of LAC2008 is working hard to make the LAC Cologne again a successful
+  and most of all fun event for all visitors and participants. If you have
+  further questions, want to cooperate with us or just cannot wait anymore, you
+  can always contact us by email: cal@linuxaudio.org
+
+  Hear you in 2008!
+  Frank Barknecht and Martin Rumori
+  LAC2008
+
+  Mail: cal@linuxaudio.org
+  Web: http://lac.linuxaudio.org
+
+  [1] http://www.khm.de
+  [2] http://lac.linuxaudio.org
+  _______________________________________________
+  lac-orga mailing list
+  agro-cal@khm-lists.rumori.de
+  https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID5768-1147951776
+  X-Mozilla-Status: 0001
+  X-Mozilla-Status2: 10000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <secnuob-agro-cal@khm-lists.rumori.de>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from florenz231.server4you.de (static-ip-217-172-183-231.inaddr.intergenia.de [217.172.183.231])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 8FB7A380009
+  	for <hpotsirhc@lafkon.net>; Mon,  1 Oct 2007 15:37:57 +0200 (CEST)
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id B987B16604A;
+  	Mon,  1 Oct 2007 15:26:36 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new, port 10024)
+  	with ESMTP id 05924-04; Mon, 1 Oct 2007 15:26:28 +0200 (CEST)
+  Received: from florenz231.server4you.de (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id E6EF8166044;
+  	Mon,  1 Oct 2007 15:26:27 +0200 (CEST)
+  X-Original-To: agro-cal@khm-lists.rumori.de
+  Delivered-To: agro-cal@florenz231.server4you.de
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 1408516603B
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Mon,  1 Oct 2007 15:26:26 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new,
+  	port 10024)
+  	with ESMTP id 05924-03 for <agro-cal@khm-lists.rumori.de>;
+  	Mon, 1 Oct 2007 15:26:19 +0200 (CEST)
+  Received: from mail.khm.de (mail.khm.de [194.95.160.44])
+  	by florenz231.server4you.de (Postfix) with ESMTP id B48A6166044
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Mon,  1 Oct 2007 15:26:19 +0200 (CEST)
+  Received: from damaia.tejo (ft.khm.de [194.95.160.24])
+  	by mail.khm.de (8.12.11.20060308/8.12.10/SuSE Linux 0.7) with ESMTP id
+  	l91DbZOA025606
+  	for <agro-cal@khm-lists.rumori.de>; Mon, 1 Oct 2007 15:37:35 +0200
+  Received: from rumori by damaia.tejo with local (masqmail 0.2.21) id
+  	1IcLSp-3Ln-00 for <agro-cal@khm-lists.rumori.de>; Mon, 01 Oct 2007
+  	15:37:35 +0200
+  Date: Mon, 1 Oct 2007 15:37:35 +0200
+  From: martin rumori <iromur@khm.de>
+  To: agro-cal@khm-lists.rumori.de
+  Message-ID: <9554NG.53733110017002@benfica.tejo>
+  Mail-Followup-To: agro-cal@khm-lists.rumori.de
+  MIME-Version: 1.0
+  User-Agent: Mutt/1.5.16 (2007-06-11)
+  X-Virus-Scanned: ClamAV 0.91.2/4443/Mon Oct  1 00:16:01 2007 on mail.khm.de
+  X-Virus-Status: Clean
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at
+  	florenz231.server4you.de
+  Subject: [lac-orga] Linux Audio Conference #6 (LAC2008): Call for Papers,
+  	Music, etc.
+  X-BeenThere: agro-cal@khm-lists.rumori.de
+  X-Mailman-Version: 2.1.5
+  Precedence: list
+  List-Id: "lac2008@khm organizational team" <lac-orga.khm-lists.rumori.de>
+  List-Unsubscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=unsubscribe>
+  List-Archive: <https://khm-lists.rumori.de:4434/mailman/private/lac-orga>
+  List-Post: <mailto:agro-cal@khm-lists.rumori.de>
+  List-Help: <mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=help>
+  List-Subscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=subscribe>
+  Content-Type: multipart/mixed; boundary="===============0966680146=="
+  Mime-version: 1.0
+  Sender: secnuob-agro-cal@khm-lists.rumori.de
+  Errors-To: secnuob-agro-cal@khm-lists.rumori.de
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at florenz231.server4you.de
+
+
+  Dear all,
+
+  we are happy to announce the call for papers, music and installations
+  for the 6th International Linux Audio Conference (LAC2008).  LAC2008
+  will take place in Cologne (Germany) Feb 28th to March 2nd 2008.
+
+  The Academy of Media Arts, Cologne, is proud to host the 2008 issue of
+  this event, where once a year programmers and artists, musicians,
+  composers and practioneers gather to discuss and explore new and
+  important developments in making music and sounds with Linux and Open
+  Source software.
+
+  The Linux Audio Conference is both a meeting of developers writing
+  audio software for Linux as it is a music festival, where artists from
+  all over the world show how free software can create fresh and
+  exciting new sounds.
+
+  Find the various calls for papers, music and installations attached to
+  this mail.  Further informations and an overview over all calls can be
+  found at
+
+  http://lac.linuxaudio.org
+
+  As mentioned in the calls in detail, the deadline for both paper and
+  music submissions is December 1st 2007, while the deadline for
+  installations is already October 19th 2007.
+
+  We are looking forward to many interesting submissions for the 6th
+  International Linux Audio Conference 2008 and we hope to see you in
+  Cologne 2008!
+
+  Please feel free to forward this e-mail to anybody who might be
+  interested.
+
+  On behalf of the LAC2008 organisation team,
+
+  Frank Barknecht and Martin Rumori
+
+
+
+  _______________________________________________
+  lac-orga mailing list
+  agro-cal@khm-lists.rumori.de
+  https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga
+
+
+  Attachments:
+  lac2008_callforpapers.txt		2.2 KB
+  lac2008_callformusic.txt		2.4 KB
+  lac2008_callforinstallations.txt	3.1 KB
+  signature.asc				189 bytes
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID5801-1147951776
+  X-Mozilla-Status: 0001
+  X-Mozilla-Status2: 10000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <secnuob-agro-cal@khm-lists.rumori.de>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from florenz231.server4you.de (static-ip-217-172-183-231.inaddr.intergenia.de [217.172.183.231])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 41A5F380009
+  	for <hpotsirhc@lafkon.net>; Tue,  2 Oct 2007 11:19:17 +0200 (CEST)
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id ACBF716603A;
+  	Tue,  2 Oct 2007 11:07:54 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new, port 10024)
+  	with ESMTP id 22987-07; Tue, 2 Oct 2007 11:07:50 +0200 (CEST)
+  Received: from florenz231.server4you.de (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 170DB16603B;
+  	Tue,  2 Oct 2007 11:07:50 +0200 (CEST)
+  X-Original-To: agro-cal@khm-lists.rumori.de
+  Delivered-To: agro-cal@florenz231.server4you.de
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id BF9F816603B
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Tue,  2 Oct 2007 11:07:47 +0200 (CEST)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new,
+  	port 10024)
+  	with ESMTP id 22987-06 for <agro-cal@khm-lists.rumori.de>;
+  	Tue, 2 Oct 2007 11:07:44 +0200 (CEST)
+  Received: from mail.khm.de (mail.khm.de [194.95.160.44])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 2213916603A
+  	for <agro-cal@khm-lists.rumori.de>;
+  	Tue,  2 Oct 2007 11:07:44 +0200 (CEST)
+  Received: from damaia.tejo (ft.khm.de [194.95.160.24])
+  	by mail.khm.de (8.12.11.20060308/8.12.10/SuSE Linux 0.7) with ESMTP id
+  	l929J5mm027458
+  	for <agro-cal@khm-lists.rumori.de>; Tue, 2 Oct 2007 11:19:05 +0200
+  Received: from rumori by damaia.tejo with local (masqmail 0.2.21) id
+  	1IcduD-1sP-00 for <agro-cal@khm-lists.rumori.de>; Tue, 02 Oct 2007
+  	11:19:05 +0200
+  Date: Tue, 2 Oct 2007 11:19:05 +0200
+  From: martin rumori <iromur@khm.de>
+  To: agro-cal@khm-lists.rumori.de
+  Message-ID: <8696JG.50919020017002@benfica.tejo>
+  Mail-Followup-To: agro-cal@khm-lists.rumori.de
+  MIME-Version: 1.0
+  User-Agent: Mutt/1.5.16 (2007-06-11)
+  X-Virus-Scanned: ClamAV 0.91.2/4452/Tue Oct  2 07:03:17 2007 on mail.khm.de
+  X-Virus-Status: Clean
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at
+  	florenz231.server4you.de
+  Subject: [lac-orga] calls draussen
+  X-BeenThere: agro-cal@khm-lists.rumori.de
+  X-Mailman-Version: 2.1.5
+  Precedence: list
+  List-Id: "lac2008@khm organizational team" <lac-orga.khm-lists.rumori.de>
+  List-Unsubscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=unsubscribe>
+  List-Archive: <https://khm-lists.rumori.de:4434/mailman/private/lac-orga>
+  List-Post: <mailto:agro-cal@khm-lists.rumori.de>
+  List-Help: <mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=help>
+  List-Subscribe: <https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga>, 
+  	<mailto:tseuqer-agro-cal@khm-lists.rumori.de?subject=subscribe>
+  Content-Type: multipart/mixed; boundary="===============0791148592=="
+  Mime-version: 1.0
+  Sender: secnuob-agro-cal@khm-lists.rumori.de
+  Errors-To: secnuob-agro-cal@khm-lists.rumori.de
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at florenz231.server4you.de
+
+
+  hallo lac-organisatoren,
+
+  eine kurze info zum zwischenstand der lac-organisation:
+
+  - seit gestern sind die calls auf dem weg, wie ihr ja alle mitbekommen
+    habt.  gefragt sind papers für das konferenzprogramm, musikbeiträge
+    für die konzerte, und installation für die ausstellung, wobei es
+    gelungen ist, kmw-fellowgeld in 2 realisationsstipendien für die
+    ausstellung umzuwidmen.
+
+  - auf der webseite gibt es momentan statische seiten, die die calls
+    enthalten.  mit dem endgültigen blog-system und auch dem
+    konferenztool müssen wir noch warten, weil der linuxaudio.org-server
+    demnächst noch einmal umzieht und dabei das betriebssystem wechselt
+    (von den bösen zu den guten).
+
+  - das design von plakaten und informationsmaterial ist dank christoph
+    sehr weit fortgeschritten -- im moment fehlen noch die inhalte für
+    die flyer.
+
+  - für die proceedings steht eine schön designte druckversion in
+    aussicht, dank johannes haben wir dafür eine graphikerin gefunden.
+
+  ansonsten werden sich die aktivitäten in den nächsten wochen
+  verdichten, die heiße phase wird nicht mehr lange auf sich warten
+  lassen.  wir melden uns dann bei euch wegen treffen,
+  im plenum oder auch individuell, arbeitsaufteilung und take-off.
+
+  einstweilen herzliche grüße und die runde und einen herzlichen dank an
+  alle für ihren bisherigen einsatz!
+
+  martin
+
+
+
+  _______________________________________________
+  lac-orga mailing list
+  agro-cal@khm-lists.rumori.de
+  https://khm-lists.rumori.de:4434/mailman/listinfo/lac-orga
+
+
+  Attachments:
+  signature.asc	189 bytes
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID6088-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <rabf@footils.org>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from 213-146-165-197.kunde.vdserver.de (vd130026.korypet-solutions.com [88.198.130.26])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id CF05D380009
+  	for <hpotsirhc@lafkon.net>; Mon,  8 Oct 2007 12:18:00 +0200 (CEST)
+  Received: from xdsl-81-173-156-109.netcologne.de ([81.173.156.109] helo=fliwatut.scifi)
+  	by 213-146-165-197.kunde.vdserver.de with esmtpa (Exim 4.50)
+  	id 1IepgT-00004u-8J; Mon, 08 Oct 2007 12:17:57 +0200
+  Received: from freak by fliwatut.scifi with local (Exim 4.63)
+  	(envelope-from <rabf@footils.org>)
+  	id 1IepgS-0005zO-Kc; Mon, 08 Oct 2007 12:17:56 +0200
+  Date: Mon, 8 Oct 2007 12:17:56 +0200
+  From: Frank Barknecht <rabf@footils.org>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Cc: martin rumori <iromur@khm.de>
+  Subject: Re: update
+  Message-ID: <43622AG.65710180017002@fliwatut.scifi>
+  References: <6459BG.92907190907002@benfica.tejo>
+  	<2000904.92F86E64@lafkon.net>
+  	<61181NG.41120121907002@benfica.tejo>
+  	<3020708.C5570F64@lafkon.net>
+  	<1010308.ED7F9074@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=iso-8859-15
+  Content-Disposition: inline
+  Content-Transfer-Encoding: 8bit
+  In-Reply-To: <1010308.ED7F9074@lafkon.net>
+  User-Agent: Mutt/1.5.13 (2006-08-11)
+
+
+  Hallo,
+  Christoph Haag hat gesagt: // Christoph Haag wrote:
+
+  >> wollte eigentlich nur kurz von mir hören lassen, für alle sachen gilt 
+  >> ich habs nur so eilig wie eilig ihrs habt. trotzdem stellte sich beim 
+  >> briefkopf folgende frage: wie heißt denn die veranstaltung eigentlich 
+  >> bzw. was für einen text verwenden wir auf den drucksachen? in der 
+  >> kopfzeile vom musicagreement ist die rede von:
+  >> 
+  >> 6th International Linux Audio Conference
+  >> LAC 2008, Köln, 28. 02.???02. 03. 2008
+  >> http://lac.linuxaudio.org
+
+  Ich wäre für "Linux Audio Conference 2008" und "LAC 2008", analog zu
+  "ICMC 2008" etc. Dass sie international ist, braucht man nicht immer
+  zu betonen, dass es die 6. ist eigentlich auch nicht, zumindest nicht
+  im Namen. Also insgesamt so:
+
+  Linux Audio Conference 2008
+  Köln, 28.2.-2.3.2008
+
+  Keine Spaces im Datum, Datum "deutsch", weil mit 28. ist ja klar, was
+  der Monat ist.
+
+  Ciao
+  --
+   Frank Barknecht                                     _ ______footils.org__
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID6594-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <rabf@footils.org>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from 213-146-165-197.kunde.vdserver.de (vd130026.korypet-solutions.com [88.198.130.26])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 7CC9A38000C
+  	for <hpotsirhc@lafkon.net>; Wed, 17 Oct 2007 14:11:11 +0200 (CEST)
+  Received: from xdsl-81-173-159-205.netcologne.de ([81.173.159.205] helo=fliwatut.scifi)
+  	by 213-146-165-197.kunde.vdserver.de with esmtpa (Exim 4.50)
+  	id 1Ii7jy-0005U0-IW; Wed, 17 Oct 2007 14:11:10 +0200
+  Received: from freak by fliwatut.scifi with local (Exim 4.63)
+  	(envelope-from <rabf@footils.org>)
+  	id 1Ii7jx-0004Hc-Sw; Wed, 17 Oct 2007 14:11:09 +0200
+  Date: Wed, 17 Oct 2007 14:11:09 +0200
+  From: Frank Barknecht <rabf@footils.org>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Cc: martin rumori <iromur@khm.de>, Johannes Amorosa <sennahoj@amorosa.us>
+  Subject: Re: LAC-Website (war: kochen)
+  Message-ID: <45192FG.90112171017002@fliwatut.scifi>
+  References: <68A0FC480654-6CFB-C364-8BC1-05401133@hamze.de>
+	<E44065A1C937-627B-EEE4-2EEA-F0FF6621@amorosa.us>
+	<2928IG.72259011017002@benfica.tejo> <81722QG.22354111017002@fliwatut.scifi>
+	<8090905.FD75E074@lafkon.net> <45192GG.34909041017002@fliwatut.scifi>
+	<5444FG.81144151017002@benfica.tejo> <8070107.75FE5174@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=iso-8859-15
+  Content-Disposition: inline
+  Content-Transfer-Encoding: 8bit
+  In-Reply-To: <8070107.75FE5174@lafkon.net>
+  User-Agent: Mutt/1.5.13 (2006-08-11)
+
+
+  Hallo,
+  Christoph Haag hat gesagt: // Christoph Haag wrote:
+
+  >> ich habe jetzt mal testweise den plakatgenerator angeworfen und eine 
+  >> downloadseite (http://lac.linuxaudio.org/?page_id=11) eingerichtet.
+
+  Ah, interessant. Prima Idee, vielleicht bringen ja Leute ihre eigenen
+  Plakate mit oder hängen die in aller Welt aus. 
+
+  Zu den Icons noch eine Kleinigkeit: Mir gefällt das "bang"-Zeichen
+  nicht so. Die Schrift ist etwas ungewöhnlich. Hängst du daran oder
+  könnte man das gegen eine "Programmiererschrift" wie Courier oder so
+  austauschen?
+
+  Ciao
+  --
+   Frank Barknecht                                     _ ______footils.org__
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID6911-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <rabf@footils.org>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from 213-146-165-197.kunde.vdserver.de (vd130026.korypet-solutions.com [88.198.130.26])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 2E0A3380241
+  	for <hpotsirhc@lafkon.net>; Mon, 22 Oct 2007 18:25:58 +0200 (CEST)
+  Received: from xdsl-81-173-180-229.netcologne.de ([81.173.180.229] helo=fliwatut.scifi)
+  	by 213-146-165-197.kunde.vdserver.de with esmtpa (Exim 4.50)
+  	id 1Ik06H-0006WA-DQ
+  	for hpotsirhc@lafkon.net; Mon, 22 Oct 2007 18:25:57 +0200
+  Received: from freak by fliwatut.scifi with local (Exim 4.63)
+  	(envelope-from <rabf@footils.org>)
+  	id 1Ik06G-00036n-Ku
+  	for hpotsirhc@lafkon.net; Mon, 22 Oct 2007 18:25:56 +0200
+  Date: Mon, 22 Oct 2007 18:25:56 +0200
+  From: Frank Barknecht <rabf@footils.org>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Subject: Re: LAC-Website (war: kochen)
+  Message-ID: <32471SG.65526122017002@fliwatut.scifi>
+  References: <68A0FC480654-6CFB-C364-8BC1-05401133@hamze.de>
+	<E44065A1C937-627B-EEE4-2EEA-F0FF6621@amorosa.us>
+	<2928IG.72259011017002@benfica.tejo> <81722QG.22354111017002@fliwatut.scifi>
+	<8090905.FD75E074@lafkon.net> <45192GG.34909041017002@fliwatut.scifi>
+	<5444FG.81144151017002@benfica.tejo> <8070107.75FE5174@lafkon.net>
+	<45192FG.90112171017002@fliwatut.scifi> <9010206.53106174@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=iso-8859-15
+  Content-Disposition: inline
+  Content-Transfer-Encoding: 8bit
+  In-Reply-To: <9010206.53106174@lafkon.net>
+  User-Agent: Mutt/1.5.13 (2006-08-11)
+
+
+  Hallo,
+  Christoph Haag hat gesagt: // Christoph Haag wrote:
+
+  >> war auch so meine idee. man könnte auch noch gezielt mails verschicken 
+  >> für aushänge an unis etcpp.
+
+  Das habe ich mir danna auch gedacht, ist auf der Someday-Liste für
+  später. ;)
+
+  >>>> Zu den Icons noch eine Kleinigkeit: Mir gefällt das "bang"-Zeichen
+  >>>> nicht so. Die Schrift ist etwas ungewöhnlich. Hängst du daran oder
+  >>>> könnte man das gegen eine "Programmiererschrift" wie Courier oder so
+  >>>> austauschen?
+  >> da hast du vollkommen recht. bei den postscripts direkt aus pd ist die 
+  >> schrift gerastert drum hab ich da irgendeine schrift genommen. aber es 
+  >> sollte ja schon originalgetreu wie möglich aussehen. so ist besser, oder?
+
+  Ja, perfekt, das ist mein bang, wie ich ihn mag!
+
+  Ciao
+  --
+   Frank Barknecht                                     _ ______footils.org__
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID13893-1147951776
+  X-Mozilla-Status: 0013
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <rabf@footils.org>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from vd.footils.org (vd130026.korypet-solutions.com [88.198.130.26])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 9EC2138000C
+  	for <hpotsirhc@lafkon.net>; Fri, 11 Jan 2008 15:24:50 +0100 (CET)
+  Received: from xdsl-81-173-188-15.netcologne.de ([81.173.188.15] helo=fliwatut.scifi)
+  	by vd.footils.org with esmtpa (Exim 4.50)
+  	id 1JDKoU-0007S3-4F; Fri, 11 Jan 2008 15:24:50 +0100
+  Received: from freak by fliwatut.scifi with local (Exim 4.63)
+  	(envelope-from <rabf@footils.org>)
+  	id 1JDKoT-0006lF-Ma; Fri, 11 Jan 2008 15:24:49 +0100
+  Date: Fri, 11 Jan 2008 15:24:49 +0100
+  From: Frank Barknecht <rabf@footils.org>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Cc: 'LAC-Orgateam' <cal@linuxaudio.org>
+  Subject: Re: Noch ein wenig LAC, =?iso-8859-15?Q?ge?=
+  	=?iso-8859-15?Q?f=E4llig=3F?=
+  Message-ID: <74322JG.94424111108002@fliwatut.scifi>
+  Reply-To: 'LAC-Orgateam' <cal@linuxaudio.org>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=iso-8859-15
+  Content-Disposition: inline
+  Content-Transfer-Encoding: 8bit
+  User-Agent: Mutt/1.5.13 (2006-08-11)
+
+  In-Reply-To: <0000206.F9C47874@lafkon.net>
+
+
+  Hallo,
+  Christoph Haag hat gesagt: // Christoph Haag wrote:
+
+  >>>> allerdings finde
+  >>>> ich keine Version, die auch den Schriftzug (also "Linux Audio
+  >>>> Conference 2008 Köln - Lectures/Demos/...") enthält
+  >> zwei ideen. wenn eine gefällt kurz bescheid sagen, dann schick ich die 
+  >> einzeln.
+
+  Ich glaube, ich finde das eckige oben besser.
+
+  Bisschen spät, aber mir fiel noch eine Sache zum Logo ein: Man könnte
+  ja die Tröpchen/Tränen im Wappen gegen Nullen und Einsen austauschen,
+  also etwa so:
+
+   0 1 1 1 0
+    1 0 1 0
+     0   1
+
+  (Die Einsen aber dann ohne Serifen, also nur Striche)
+
+  Ciao
+  --
+   Frank Barknecht                                     _ ______footils.org__
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID14013-1147951776
+  X-Mozilla-Status: 0013
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <rabf@footils.org>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from vd.footils.org (vd130026.korypet-solutions.com [88.198.130.26])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 627FFDE0001
+  	for <hpotsirhc@lafkon.net>; Sat, 12 Jan 2008 08:16:29 +0100 (CET)
+  Received: from xdsl-81-173-149-168.netcologne.de ([81.173.149.168] helo=fliwatut.scifi)
+  	by vd.footils.org with esmtpa (Exim 4.50)
+  	id 1JDabT-0006pW-PQ; Sat, 12 Jan 2008 08:16:27 +0100
+  Received: from freak by fliwatut.scifi with local (Exim 4.63)
+  	(envelope-from <rabf@footils.org>)
+  	id 1JDabT-0004WF-8q; Sat, 12 Jan 2008 08:16:27 +0100
+  Date: Sat, 12 Jan 2008 08:16:27 +0100
+  From: Frank Barknecht <rabf@footils.org>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Cc: 'LAC-Orgateam' <cal@linuxaudio.org>
+  Subject: Re: Noch ein wenig LAC, =?iso-8859-15?Q?ge?=
+  	=?iso-8859-15?Q?f=E4llig=3F?=
+  Message-ID: <88361AG.72617021108002@fliwatut.scifi>
+  References: <74322JG.94424111108002@fliwatut.scifi> <9020905.9AD87874@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=iso-8859-15
+  Content-Disposition: inline
+  Content-Transfer-Encoding: 8bit
+  In-Reply-To: <9020905.9AD87874@lafkon.net>
+  User-Agent: Mutt/1.5.13 (2006-08-11)
+
+
+  Hallo,
+  Christoph Haag hat gesagt: // Christoph Haag wrote:
+
+  >> find ich gut.
+  >> 
+  >> Frank Barknecht schrieb:
+  >>>> Bisschen spät, aber mir fiel noch eine Sache zum Logo ein: Man könnte
+  >>>> ja die Tröpchen/Tränen im Wappen gegen Nullen und Einsen austauschen,
+  >>>> also etwa so:
+
+  Jo, gefällt mir auch gut. LAC bietet sich auch für die Kronen an,
+  cool. Evtl auch ohne Serifen? (Wie Bitstream Vera Sans Mono, die ist recht
+  beliebt bei Programmierern, weil frei).
+
+  Dann noch: Gestern habe ich am Bus mit Stift und Notitzblock auch mal
+  die Jahreszahl 2008 in binär umgewandelt, und siehe da: Das würde
+  perfekt ins Wappen passen! ;)
+
+  Ciao
+  --
+   Frank Barknecht                                     _ ______footils.org__
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID14227-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <nruter@rumori.de>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from florenz231.server4you.de (florenz231.server4you.de [217.172.183.231])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 51ED8380009
+  	for <hpotsirhc@lafkon.net>; Sun, 13 Jan 2008 15:38:30 +0100 (CET)
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 233241660D0;
+  	Sun, 13 Jan 2008 15:38:30 +0100 (CET)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new, port 10024)
+  	with ESMTP id 29515-06; Sun, 13 Jan 2008 15:38:26 +0100 (CET)
+  Received: from benfica.tejo (xdsl-213-196-254-57.netcologne.de [213.196.254.57])
+  	by florenz231.server4you.de (Postfix) with ESMTP id CF2551660F6;
+  	Sun, 13 Jan 2008 15:38:23 +0100 (CET)
+  Received: from rumori by benfica.tejo with local (masqmail 0.2.21) id
+   1JE3yh-3Gc-00; Sun, 13 Jan 2008 15:38:23 +0100
+  Date: Sun, 13 Jan 2008 15:38:23 +0100
+  From: Martin Rumori <iromur@khm.de>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Cc: Frank Barknecht <rabf@footils.org>
+  Subject: Re: Noch ein wenig LAC, =?iso-8859-1?Q?gef?=
+  	=?iso-8859-1?B?5GxsaWc/?=
+  Message-ID: <6213BG.32834131108002@benfica.tejo>
+  Reply-To: cal@linuxaudio.org
+  References: <74322JG.94424111108002@fliwatut.scifi> <9020905.9AD87874@lafkon.net>
+	<88361AG.72617021108002@fliwatut.scifi> <40503.EB31A874@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: multipart/signed; micalg=pgp-sha1;
+  	protocol="application/pgp-signature"; boundary="CFO0SFgG+t1lcV5s"
+  Content-Disposition: inline
+  In-Reply-To: <40503.EB31A874@lafkon.net>
+  User-Agent: Mutt/1.5.17 (2007-11-01)
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at florenz231.server4you.de
+
+
+  hallo christoph,
+
+  super!
+
+  On Sun, Jan 13, 2008 at 02:35:58PM +0100, Christoph Haag wrote:
+  >> hoffe die binäre Jahreszahl stimmt ;)
+
+  sie stimmt:
+
+  11111 0110 00
+
+  = 2^10 + 2^9 + 2^8 + 2^7 + 2^6 + 2^4 + 2^3
+  = 1024 + 512 + 256 + 128 + 64 + 16 + 8
+  = 2008
+
+  da die einzelnen zeilen palindrome sind ist auch egal, ob man von
+  links nach rechts oder umgekehrt liest.  wenn man allerdings von unten
+  anfängt, kommt man auf 223.  für dieses jahr habe ich noch kein gutes
+  ereignis gefunden, ein paar urkunden, krieg,  römisches zeugs,
+  undsoweiter.  allerdings wurde in china ein philosoph und musiker
+  geboren, der jedoch vermutlich nicht mit dem abakus komponierte:
+
+  http://de.wikipedia.org/wiki/Xi_Kang
+
+  immerhinque.
+
+  bests,
+
+  m
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID14861-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <nruter@rumori.de>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from florenz231.server4you.de (florenz231.server4you.de [217.172.183.231])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id C2C8238000D
+  	for <hpotsirhc@lafkon.net>; Thu, 17 Jan 2008 16:43:51 +0100 (CET)
+  Received: from localhost (localhost [127.0.0.1])
+  	by florenz231.server4you.de (Postfix) with ESMTP id A923B166086;
+  	Thu, 17 Jan 2008 16:43:51 +0100 (CET)
+  Received: from florenz231.server4you.de ([127.0.0.1])
+  	by localhost (florenz231.server4you.de [127.0.0.1]) (amavisd-new, port 10024)
+  	with ESMTP id 24255-08-4; Thu, 17 Jan 2008 16:43:46 +0100 (CET)
+  Received: from damaia.tejo (pc-nomade-140.ircam.fr [129.102.72.140])
+  	by florenz231.server4you.de (Postfix) with ESMTP id 1C6661660F2;
+  	Thu, 17 Jan 2008 16:43:24 +0100 (CET)
+  Received: from rumori by damaia.tejo with local (masqmail 0.2.21) id
+   1JFSLW-6PU-00; Thu, 17 Jan 2008 11:51:42 +0100
+  Date: Thu, 17 Jan 2008 11:51:42 +0100
+  From: Martin Rumori <iromur@khm.de>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Cc: cal@linuxaudio.org
+  Subject: Re: Noch ein wenig LAC, =?iso-8859-1?Q?gef?=
+  	=?iso-8859-1?B?5GxsaWc/?=
+  Message-ID: <36381RG.24150171108002@benfica.tejo>
+  Reply-To: cal@linuxaudio.org
+  References: <74322JG.94424111108002@fliwatut.scifi> <9020905.9AD87874@lafkon.net>
+	<88361AG.72617021108002@fliwatut.scifi> <40503.EB31A874@lafkon.net> 
+	<6184CG.15545131108002@fliwatut.scifi> <0010909.8FB2D874@lafkon.net>
+	<79772JG.85551161108002@fliwatut.scifi> <9030001.9D9FD874@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: multipart/signed; micalg=pgp-sha1;
+  	protocol="application/pgp-signature"; boundary="JHjDRUnf1JOMxzko"
+  Content-Disposition: inline
+  In-Reply-To: <9030001.9D9FD874@lafkon.net>
+  User-Agent: Mutt/1.5.17 (2007-11-01)
+  X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at florenz231.server4you.de
+
+
+  hallo christoph nochmal,
+
+  On Wed, Jan 16, 2008 at 01:34:33PM +0100, Christoph Haag wrote:
+  >> ) sollte von der qualität hoffentlich auch ok sein. dann steht der goldenen 
+  >> nase nichts mehr im weg ;)
+
+  danke für die t-shirt-recherche.
+
+  wo wir bei der goldenen nase sind: hatten wir dir schon geschrieben,
+  daß sich abzeichnet, daß wir für den chefgestalter-posten 400 EUR im
+  budget unterkriegen (damit du endlich schwarz auf weiß hast, daß sich
+  opensource nicht lohnt, aber das wußten Sie ja)?  goldene zusatznasen
+  sind für dich voraussichtlich aus dem hilfskräftebudget entnehmbar,
+  für diverse plackereien während der lac selbst...
+
+  hast du eigentlich schon das ticket gebucht?  sparpreis oder gar ein
+  dauer-spezial?  übernachtung sollten wir ja hinkriegen.
+
+  viele grüße,
+
+  martin
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID19229-1147951776
+  X-Mozilla-Status: 0003
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <rabf@footils.org>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from vd.footils.org (vd130026.korypet-solutions.com [88.198.130.26])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 6582238000C
+  	for <hpotsirhc@lafkon.net>; Thu, 14 Feb 2008 12:06:47 +0100 (CET)
+  Received: from xdsl-81-173-159-128.netcologne.de ([81.173.159.128] helo=fliwatut.scifi)
+  	by vd.footils.org with esmtpa (Exim 4.50)
+  	id 1JPbvS-0002Pk-FE; Thu, 14 Feb 2008 12:06:46 +0100
+  Received: from freak by fliwatut.scifi with local (Exim 4.63)
+  	(envelope-from <rabf@footils.org>)
+  	id 1JPbvS-0003zZ-23; Thu, 14 Feb 2008 12:06:46 +0100
+  Date: Thu, 14 Feb 2008 12:06:46 +0100
+  From: Frank Barknecht <cal@linuxaudio.org>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Cc: LAC2008 <cal@linuxaudio.org>
+  Subject: LAC-Site: Probleme im IE
+  Message-ID: <00382BG.64601141208002@fliwatut.scifi>
+  Reply-To: LAC2008 <cal@linuxaudio.org>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=iso-8859-15
+  Content-Disposition: inline
+  Content-Transfer-Encoding: 8bit
+  User-Agent: Mutt/1.5.13 (2006-08-11)
+
+
+  Hi Christoph,
+
+  ich habe hier im DLF mal die Webseite im IE getestet, da gibt es
+  leider zwei Probleme. Zum einen sehen die Sponsorenbilder nicht
+  richtig aus: IE hat Probleme mit Transparenz in PNGs. Könntest du die
+  vielleicht durch Versionen ohne Transparenz ersetzen.
+
+  Dann verschwindet das Header-Logo kurzzeitig, wenn man mit der Maus
+  drüberfährt. Das kann ich mir gerade auch nicht erklären. Ne Idee?
+
+  Ciao
+  --
+   Frank Barknecht                                     _ ______footils.org__
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID19244-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <nruter@rumori.de>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from mail.khm.de (mail.khm.de [194.95.160.44])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 9F42038000C
+  	for <hpotsirhc@lafkon.net>; Thu, 14 Feb 2008 15:09:03 +0100 (CET)
+  Received: from damaia.tejo (pwp5-gw.khm.de [194.95.160.1])
+  	by mail.khm.de (8.12.11.20060308/8.12.10/SuSE Linux 0.7) with ESMTP id m1EE8sKT031262;
+  	Thu, 14 Feb 2008 15:08:54 +0100
+  Received: from rumori by damaia.tejo with local (masqmail 0.2.21) id
+   1JPelr-4d6-00; Thu, 14 Feb 2008 15:09:03 +0100
+  Date: Thu, 14 Feb 2008 15:09:03 +0100
+  From: Martin Rumori <iromur@khm.de>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Cc: Frank Barknecht <cal@linuxaudio.org>
+  Subject: Re: LAC-Site: Probleme im IE
+  Message-ID: <6155EG.30904141208002@benfica.tejo>
+  Reply-To: LAC2008 <cal@linuxaudio.org>
+  References: <00382BG.64601141208002@fliwatut.scifi>
+  MIME-Version: 1.0
+  Content-Type: multipart/signed; micalg=pgp-sha1;
+  	protocol="application/pgp-signature"; boundary="pO/lLFQm5EGc7Efl"
+  Content-Disposition: inline
+  In-Reply-To: <00382BG.64601141208002@fliwatut.scifi>
+  User-Agent: Mutt/1.5.17+20080114 (2008-01-14)
+  X-Virus-Scanned: ClamAV 0.92.1/5809/Thu Feb 14 11:52:07 2008 on mail.khm.de
+  X-Virus-Status: Clean
+
+
+  Hi Christoph,
+
+  bei mir ist da auch irgendwas mit den Logos komisch, im
+  firefox/iceweasel:
+
+  manchmal sind die logos ganz eng zusammen und übereinander, manchmal
+  schön in zwei zeilen, ein simples "reload" ändert da manchmal das
+  layout -- sehr komisch.  klingt natürlich eher nach einem browser-bug,
+  oder was könnte es sein?  rundungsfehler?
+
+  grüße,
+
+  m
+
+
+  On Thu, Feb 14, 2008 at 12:06:46PM +0100, Frank Barknecht wrote:
+  >> Hi Christoph,
+  >> 
+  >> ich habe hier im DLF mal die Webseite im IE getestet, da gibt es
+  >> leider zwei Probleme. Zum einen sehen die Sponsorenbilder nicht
+  >> richtig aus: IE hat Probleme mit Transparenz in PNGs. Könntest du die
+  >> vielleicht durch Versionen ohne Transparenz ersetzen.
+  >> 
+  >> Dann verschwindet das Header-Logo kurzzeitig, wenn man mit der Maus
+  >> drüberfährt. Das kann ich mir gerade auch nicht erklären. Ne Idee?
+  >> 
+  >> Ciao
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID19250-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <nruter@rumori.de>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from mail.khm.de (mail.khm.de [194.95.160.44])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 44CD138000C
+  	for <hpotsirhc@lafkon.net>; Thu, 14 Feb 2008 15:32:41 +0100 (CET)
+  Received: from damaia.tejo (pwp5-gw.khm.de [194.95.160.1])
+  	by mail.khm.de (8.12.11.20060308/8.12.10/SuSE Linux 0.7) with ESMTP id m1EEWSWT003513;
+  	Thu, 14 Feb 2008 15:32:28 +0100
+  Received: from rumori by damaia.tejo with local (masqmail 0.2.21) id
+   1JPf8f-4gl-00; Thu, 14 Feb 2008 15:32:37 +0100
+  Date: Thu, 14 Feb 2008 15:32:37 +0100
+  From: Martin Rumori <iromur@khm.de>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Cc: LAC2008 <cal@linuxaudio.org>
+  Subject: Re: LAC-Site: Probleme im IE
+  Message-ID: <6155GG.73234141208002@benfica.tejo>
+  Reply-To: LAC2008 <cal@linuxaudio.org>
+  References: <00382BG.64601141208002@fliwatut.scifi>
+	<6155EG.30904141208002@benfica.tejo> <6080009.FBF44B74@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: multipart/signed; micalg=pgp-sha1;
+  	protocol="application/pgp-signature"; boundary="guYUoZW38XEuSLXo"
+  Content-Disposition: inline
+  In-Reply-To: <6080009.FBF44B74@lafkon.net>
+  User-Agent: Mutt/1.5.17+20080114 (2008-01-14)
+  X-Virus-Scanned: ClamAV 0.92.1/5809/Thu Feb 14 11:52:07 2008 on mail.khm.de
+  X-Virus-Status: Clean
+
+
+  On Thu, Feb 14, 2008 at 03:27:11PM +0100, Christoph Haag wrote:
+  >>>> Dann verschwindet das Header-Logo kurzzeitig, wenn man mit der Maus
+  >>>> drüberfährt. Das kann ich mir gerade auch nicht erklären. Ne Idee?
+  >> keine ahnung, vor allem weil ich den fehler nicht reproduzieren kann.
+
+  das ist ja auch kein wunder.  wie soll man den fehler reproduzieren
+  können, ohne windows?  wie kann das überhaupt bekannt werden?  frank,
+  WER hat dir diesen bug report geschickt?  oder hast du nicht gar...
+  etwa...  eeeeh....
+
+  m
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+

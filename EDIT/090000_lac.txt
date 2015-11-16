@@ -1,0 +1,858 @@
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID40277-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys: $label1                                                                         
+  Return-Path: <rabf@footils.org>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from vadmin88.footils.org (footils.org [91.198.32.211])
+  	(using TLSv1 with cipher AES256-SHA (256/256 bits))
+  	(No client certificate requested)
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 8921938005A
+  	for <hpotsirhc@lafkon.net>; Fri, 18 Jul 2008 14:01:31 +0200 (CEST)
+  Received: from xdsl-81-173-180-60.netcologne.de
+	([81.173.180.60] helo=fliwatut.scifi)
+  	by vadmin88.footils.org with esmtpsa (TLS-1.0:RSA_AES_256_CBC_SHA1:32)
+  	(Exim 4.63) (envelope-from <rabf@footils.org>)
+  	id 1KJof0-0002Ut-4f; Fri, 18 Jul 2008 14:02:06 +0200
+  Received: from freak by fliwatut.scifi with local (Exim 4.63)
+  	(envelope-from <rabf@footils.org>)
+  	id 1KJoeP-0001UG-5l; Fri, 18 Jul 2008 14:01:29 +0200
+  Date: Fri, 18 Jul 2008 14:01:29 +0200
+  From: Frank Barknecht <rabf@footils.org>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Cc: Martin Rumori <iromur@khm.de>
+  Subject: Re: Noch ein LAC
+  Message-ID: <01331EG.82102181708002@fliwatut.scifi>
+  References: <1905EG.61337182308002@benfica.tejo>
+	<702.C40DFE74@listen.lafkon.net>
+	<2697CG.13202220408002@benfica.tejo>
+	<4040505.C500F784@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=iso-8859-15
+  Content-Disposition: inline
+  Content-Transfer-Encoding: 8bit
+  In-Reply-To: <4040505.C500F784@lafkon.net>
+  User-Agent: Mutt/1.5.13 (2006-08-11)
+
+
+  Hallo Christoph,
+  Christoph Haag hat gesagt: // Christoph Haag wrote:
+
+  >> ich habe mir erlaubt, die (meinerseits unschönerweise) hardgecodeten 
+  >> bilderlinks auf http://lac.linuxaudio.org/2008 in wordpress anzupassen.
+
+  Ach, sehr schön, vielen Dank. Ich muss glaube ich auch noch die
+  Paper-Links an die neue URL anpassen, dann wären wir wohl durch.
+
+  >> außerdem habe ich mir überlegt ob es eventuell sinnvoll wäre,
+  >> die plakate die momentan noch auf unserem server liegen, auf 
+  >> linuxaudio.org umzulagern,
+  >> wenn das ginge. man weiß ja nie.
+  >> 
+  >> wer organisiert eigentlich die lac2009 ?
+  >> weil evtl. hätte ich bei bedarf ab september
+  >> wieder zeit und lust auf ein bisschen konferenzgestaltung ;)
+
+  Oh, das wird Fons sicher freuen, hier seine Addresse:
+  Fons Adriaensen <snof@kokkinizita.net>
+
+  Übrigens haben mich auch die Linuxaudio.org-Macher schon angesprochen,
+  die hätten auch gerne ein richtiges Design und wollten schon das von
+  der LAC2008 klauen (wurde von Martin und mir natürlich verboten). Wenn
+  du da auch drauf Lust hättest, kannst du dich da ja mal melden.
+
+  Ich fürchte, zur KHM-Jahresausstellung gerade kommst du nicht, oder
+  doch?
+
+  Ciao
+  --
+   Frank Barknecht                              _ ______footils.org__
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID45446-1147951776
+  X-Mozilla-Status: 0013
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <snof@kokkinizita.net>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from wp097.webpack.hosteurope.de
+	(wp097.webpack.hosteurope.de [80.237.132.104])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 410F338005A
+  	for <hpotsirhc@lafkon.net>; Mon, 25 Aug 2008 11:29:52 +0200 (CEST)
+  Received: from host226-8-static.207-80-b.business.telecomitalia.it
+	([80.207.8.226] helo=zita2.kokkinizita.net); authenticated
+  	by wp097.webpack.hosteurope.de running ExIM  using esmtpa
+  	id 1KXYOV-0004I4-Qh; Mon, 25 Aug 2008 11:29:51 +0200
+  Received: by zita2.kokkinizita.net (Postfix, from userid 502)
+  	id 5FD9B71E3D9; Mon, 25 Aug 2008 11:04:08 +0200 (CEST)
+  Date: Mon, 25 Aug 2008 11:04:08 +0200
+  From: Fons Adriaensen <snof@kokkinizita.net>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Subject: Re: lac2009 / graphic design
+  Message-ID: <9162BG.80409052808002@zita2.kokkinizita.net>
+  References: <20604.18F3BA84@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=us-ascii
+  Content-Disposition: inline
+  In-Reply-To: <20604.18F3BA84@lafkon.net>
+  User-Agent: Mutt/1.5.17 (2007-11-01)
+  X-bounce-key: webpack.hosteurope.de;snof@kokkinizita.net;1219656592;d7b33c71;
+
+
+  Hello Christoph,
+
+  >> i did the graphic design (logo, posters, website, etcpp.) for the lac2008 
+  >> in cologne and i would like to offer my help for the next conference.
+  >> are there any dates or schedule yet?
+
+  Sorry for the delay, I just returned from two weeks of
+  internet-free holidays.
+
+  Thank you very much for your offer ! I very much liked the graphic
+  design for lac2008. For the next one, it will have to be coordinated
+  with our hosts,  La Casa della Musica.
+
+  The exact dates are not fixed ATM, but very likely it will be
+  end of March or April.
+
+  Could you take care of all aspects of the website (that would
+  be great !), or only the graphical design part of it ?
+
+  I'll get in contact with you as soon as I have more solid
+  information.
+
+  Ciao,
+
+  --
+  FA
+
+  Laboratorio di Acustica ed Elettroacustica
+  Parma, Italia
+
+  O tu, che porte, correndo si ?
+  E guerra e morte !
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID67568-1147951776
+  X-Mozilla-Status: 0003
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <snof@kokkinizita.net>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from wp097.webpack.hosteurope.de
+	(wp097.webpack.hosteurope.de [80.237.132.104])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id CE1F7380026
+  	for <hpotsirhc@lafkon.net>; Fri,  9 Jan 2009 20:02:10 +0100 (CET)
+  Received: from host205-35-static.38-79-b.business.telecomitalia.it
+	([79.38.35.205] helo=zita2.kokkinizita.net);
+	authenticated by wp097.webpack.hosteurope.de running ExIM
+        using esmtpa id 1LLMcU-0003Um-H1; Fri, 09 Jan 2009 20:02:10 +0100
+  Received: by zita2.kokkinizita.net (Postfix, from userid 502)
+  	id 4B9E684DEC1; Fri,  9 Jan 2009 19:48:30 +0100 (CET)
+  Date: Fri, 9 Jan 2009 19:48:30 +0100
+  From: Fons Adriaensen <snof@kokkinizita.net>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Subject: Fw: Re: LAC2009
+  Message-ID: <1873DG.03848190109002@zita2.kokkinizita.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=iso-8859-1
+  Content-Disposition: inline
+  User-Agent: Mutt/1.5.17 (2007-11-01)
+  Content-Transfer-Encoding: quoted-printable
+  X-bounce-key: webpack.hosteurope.de;snof@kokkinizita.net;1231527730;5766fddc;
+
+
+  Hello Christoph,
+
+  Best wishes for 2009 !
+
+  We can have a free advertisement in Linux Magazine,
+  but they need the artwork the 14th (i.e. in five
+  days).
+
+  Can you create something in that time ?
+
+  I was thinking of something similar to
+  the announcement on the website (i.e.
+  using the same pictures in some way).
+
+  Suggested text:
+
+    Linux Audio Conference 2009
+     Parma, Italy, 16-19 April
+
+  The LAC brings together the creators and
+  users of Linux audio and music software.
+
+  Features: paper presentations, workshops,
+  concerts, the Linux Sound Night,...
+
+     <link to the website>
+
+
+
+  I attach the message from Hans-Jörg Ehren
+  with the technical details. If you need
+  more information about this it's probably
+  best to get in contact with him directly.
+
+  ----- Forwarded message from Hans-Jörg Ehren / Linux Magazine
+  <nerhejh@linux-magazine.com> -----
+
+  From: Hans-Jörg Ehren / Linux Magazine <nerhejh@linux-magazine.com>
+  To: Fons Adriaensen <snof@kokkinizita.net>
+  Date: Fri, 09 Jan 2009 19:35:48 +0100
+
+  Hi Fons,
+
+  Here are the specs:
+
+  A4, 210mm * 297mm, additional 3mm bleed on each side
+  File: CMYK hi-res PDF
+  Transfer: Either as an email attachment
+  (possible up to ~15 MB) or through a download link
+  Deadline: Wed, Jan 14th
+
+
+  Many thanks,
+
+  --
+  FA
+
+  Laboratorio di Acustica ed Elettroacustica
+  Parma, Italia
+
+  O tu, che porte, correndo si ?
+  E guerra e morte !
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID68391-1147951776
+  X-Mozilla-Status: 0013
+  X-Mozilla-Status2: 10000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <snof@kokkinizita.net>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from wp097.webpack.hosteurope.de
+	(wp097.webpack.hosteurope.de [80.237.132.104])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 28D53380026
+  	for <hpotsirhc@lafkon.net>; Tue, 13 Jan 2009 11:20:51 +0100 (CET)
+  Received: from host205-35-static.38-79-b.business.telecomitalia.it
+	([79.38.35.205] helo=zita2.kokkinizita.net);
+	authenticated by wp097.webpack.hosteurope.de running ExIM  using esmtpa
+  	id 1LMgO7-0003Ce-1g; Tue, 13 Jan 2009 11:20:50 +0100
+  Received: by zita2.kokkinizita.net (Postfix, from userid 502)
+  	id CAA5B84DEC1; Tue, 13 Jan 2009 11:06:44 +0100 (CET)
+  Date: Tue, 13 Jan 2009 11:06:44 +0100
+  From: Fons Adriaensen <snof@kokkinizita.net>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Subject: Re: logo + linuxmag ad
+  Message-ID: <9103CG.44600131109002@zita2.kokkinizita.net>
+  References: <1873DG.03848190109002@zita2.kokkinizita.net>
+	<5050402.CF40A694@lafkon.net> <0203LG.71721121109002@zita2.kokkinizita.net>
+	<0020004.304DB694@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: multipart/mixed; boundary="tThc/1wpZn/ma/RB"
+  Content-Disposition: inline
+  In-Reply-To: <0020004.304DB694@lafkon.net>
+  User-Agent: Mutt/1.5.17 (2007-11-01)
+  X-bounce-key: webpack.hosteurope.de;snof@kokkinizita.net;1231842051;ea3b0640;
+
+
+  Hi  Christoph,
+
+  >> http://lofilabs.mine.nu/download/LAC_Parma2009/linux-magazine-advertising/linuxmag-ad_1-6.pdf
+
+  I prefer the graphics of the first one, with the
+  layout (more space for the text) of the third,
+  and also the text of the third rather than the first.
+
+  Are you sure about the typewriter font ? I generally
+  prefer the quite classic 'Times' like serifed fonts,
+  but the final decisions is yours.
+
+  Since Linux Mag wants a CMYK file, it seems we can
+  use colour, and I'd suggest to do this, even if only
+  as highlights rather than being dominant (as it is on
+  the last example). Colouring just a few of the
+  connected sets of 'thingies' could make a large
+  difference.
+
+  >> what do you think about the text?
+
+  The one one the third example seems the best, but
+  without using bold for 'We are looking forward'.
+
+  >> Do you want to put the logo of la casa della musica?
+
+  Not on the Linux Mag ad.
+
+  About the logo: I prefer this to the previous one,
+  except for the crown which seems to hang on Tux's
+  head and obscure his eyes ! It' probably better
+  to keep it 'suspended in the air'. I liked the
+  music note as well, there could even be two of
+  them.
+
+  For the website, we need to add an item saying
+  that the paper deadline has been extended to 29
+  Jan, midnight, and also add the Linux Mag logo
+  below the two others (attached).
+
+  Many thanks for all the work !
+
+  --
+  FA
+
+  Laboratorio di Acustica ed Elettroacustica
+  Parma, Italia
+
+  O tu, che porte, correndo si ?
+  E guerra e morte !
+
+
+  Attachments:
+  Linux_Magazine_Logo_For_Print.eps	146 KB
+  Linux_Magazine_Logo_Web_155x66.gif	2.8 KB
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID68619-1147951776
+  X-Mozilla-Status: 0013
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <snof@kokkinizita.net>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from wp097.webpack.hosteurope.de
+	(wp097.webpack.hosteurope.de [80.237.132.104])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 0E711380026
+  	for <hpotsirhc@lafkon.net>; Wed, 14 Jan 2009 11:45:57 +0100 (CET)
+  Received: from host205-35-static.38-79-b.business.telecomitalia.it
+	([79.38.35.205] helo=zita2.kokkinizita.net);
+	authenticated by wp097.webpack.hosteurope.de running ExIM
+	using esmtpa id 1LN3G0-00084T-Lx; Wed, 14 Jan 2009 11:45:56 +0100
+  Received: by zita2.kokkinizita.net (Postfix, from userid 502)
+  	id CE38E71E3D5; Wed, 14 Jan 2009 11:31:45 +0100 (CET)
+  Date: Wed, 14 Jan 2009 11:31:45 +0100
+  From: Fons Adriaensen <snof@kokkinizita.net>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Subject: Re: logo + linuxmag ad
+  Message-ID: <1303AG.54130141109002@zita2.kokkinizita.net>
+  References: <1873DG.03848190109002@zita2.kokkinizita.net>
+	<5050402.CF40A694@lafkon.net> <0203LG.71721121109002@zita2.kokkinizita.net>
+	<0020004.304DB694@lafkon.net> <9103CG.44600131109002@zita2.kokkinizita.net>
+	<1050901.0004D694@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=us-ascii
+  Content-Disposition: inline
+  In-Reply-To: <1050901.0004D694@lafkon.net>
+  User-Agent: Mutt/1.5.17 (2007-11-01)
+  X-bounce-key: webpack.hosteurope.de;snof@kokkinizita.net;1231929957;b8238324;
+
+
+  Hi Christoph,
+
+  >> here are the concluded versions:
+  >> 
+  >> http://lofilabs.mine.nu/download/LAC_Parma2009/linux-magazine-advertising/linuxmag-ad_7-11.pdf
+  >> i prefer the versions on black background with the bright colours for i 
+  >> think they might be quite eyecatching in the magazine.
+
+  I agree. With the black background I guess the 3mm bleed
+  as requested by LM will be essential, but I'm sure you
+  know much metter how to handle that than I do !
+
+  >> i chose the courier as the classical text editor font in mind.
+  >> i didn't find that quick another font i liked and because there is not much 
+  >> time left for the ad, i suggest we look for a different font later on.
+
+  OK.
+
+  >> http://lofilabs.mine.nu/download/LAC_Parma2009/LAC2009-Logo-2.pdf
+
+  Nice work, many thanks for all of it.
+
+  Will you handle the transfer to LM ? Anyway if there are
+  any (technical) problems they should get back to you, as
+  I won't be able to help.
+
+  For the website we need an item to update
+  the paper submission deadlines:
+
+  29 Jan submission
+  19 Feb notice of acceptance and feedback
+  28 Feb final version deadline
+
+  and also a 'contact' item, for anything
+  that can't be handled via openconf:
+
+    <snof@linuxaudio.org>
+
+
+  Saluti from cold Parma (for the first time
+  since I'm back from Belgium daytime temperature
+  are going positive, and the thick packs of solid
+  ice are starting to melt away slowly...)
+
+
+  --
+  FA
+
+  Laboratorio di Acustica ed Elettroacustica
+  Parma, Italia
+
+  O tu, che porte, correndo si ?
+  E guerra e morte !
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID69663-1147951776
+  X-Mozilla-Status: 0013
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <nibor@gareus.org>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from mo-p05-ob.rzone.de (mo-p05-ob.rzone.de [81.169.146.182])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id C1EA3380026
+  	for <hpotsirhc@lafkon.net>; Mon, 19 Jan 2009 23:52:19 +0100 (CET)
+  X-RZG-CLASS-ID: mo05
+  X-RZG-AUTH: :PmMGfE7tfP4EUEANXi0C/qGjgFref4f4XsrFWeTi//5cn36hFMeQcCdJy9kd
+  Received: from [169.222.11.209]
+  	by post.strato.de (klopstock mo61) (RZmta 18.10)
+  	with ESMTP id o014bbl0JLfrQq ; Mon, 19 Jan 2009 23:52:16 +0100 (MET)
+  Message-ID: <4070708.B1405794@gareus.org>
+  Date: Mon, 19 Jan 2009 23:52:11 +0100
+  From: Robin Gareus <nibor@gareus.org>
+  User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.12)
+	Gecko/20070730 Thunderbird/1.5.0.12 Mnenhy/0.7.5.666
+  MIME-Version: 1.0
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  CC: Fons Adriaensen <snof@kokkinizita.net>
+  Subject: Re: Linux Audio Conference 2009 Poster
+  References: <1873DG.03848190109002@zita2.kokkinizita.net>
+	<5050402.CF40A694@lafkon.net>
+	<0203LG.71721121109002@zita2.kokkinizita.net> <0020004.304DB694@lafkon.net>
+	<9103CG.44600131109002@zita2.kokkinizita.net> <1050901.0004D694@lafkon.net>
+	<1303AG.54130141109002@zita2.kokkinizita.net> <1050709.8E994794@lafkon.net>
+  In-Reply-To: <1050709.8E994794@lafkon.net>
+  X-Enigmail-Version: 0.95.0
+  Content-Type: text/plain; charset=UTF-8
+  Content-Transfer-Encoding: 7bit
+
+
+  -----BEGIN PGP SIGNED MESSAGE-----
+  Hash: SHA1
+
+  Christoph Haag wrote:
+  >> dear fons, dear robin,
+  >> 
+  >> we are working currently on the poster for lac2009,
+  >> a system comparable to last year's poster.
+  >> therefore we need all kinds of parts and therefore we need:
+  >> 
+  >> SCREENSHOTS OF YOUR FAVOURITE LINUX AUDIO APPLICATION
+  >> (postscript exports like from pd very welcome)
+
+  Have a look at:
+  http://apps.linuxaudio.org/apps/screenshots
+
+  As for my favorite Apps, that'd be ardour&xjadeo ;)
+
+  http://mir.dnsalias.com/lib/exe/mediamanager.php?ns=blog/wicked_postproduction
+  http://mir.dnsalias.com/_media/oss/sodankyla/screenshot-5.png
+
+  greetings from Tasmania
+  robin
+  -----BEGIN PGP SIGNATURE-----
+  Version: GnuPG v1.4.9 (GNU/Linux)
+
+  iEYEARECAAYFAkl1BBsACgkQeVUk8U+VK0IE9ACgrtrlt+xJbujBN6mw2q0Tekos
+  3wUAnjU4UbOzV0rBBpvmRlEZ8l3ZtiZC
+  =ZnIw
+  -----END PGP SIGNATURE-----
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID68199-1147951776
+  X-Mozilla-Status: 0013
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <snof@kokkinizita.net>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from wp097.webpack.hosteurope.de
+	(wp097.webpack.hosteurope.de [80.237.132.104])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 3787B380026
+  	for <hpotsirhc@lafkon.net>; Mon, 12 Jan 2009 12:41:18 +0100 (CET)
+  Received: from host205-35-static.38-79-b.business.telecomitalia.it
+	([79.38.35.205] helo=zita2.kokkinizita.net);
+	authenticated by wp097.webpack.hosteurope.de running ExIM
+	using esmtpa id 1LMLAR-0004Hc-QH; Mon, 12 Jan 2009 12:41:16 +0100
+  Received: by zita2.kokkinizita.net (Postfix, from userid 502)
+  	id 5FA2E71E3D5; Mon, 12 Jan 2009 12:27:17 +0100 (CET)
+  Date: Mon, 12 Jan 2009 12:27:17 +0100
+  From: Fons Adriaensen <snof@kokkinizita.net>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Subject: Re: Fw: Re: LAC2009
+  Message-ID: <0203LG.71721121109002@zita2.kokkinizita.net>
+  References: <1873DG.03848190109002@zita2.kokkinizita.net>
+	<5050402.CF40A694@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=us-ascii
+  Content-Disposition: inline
+  In-Reply-To: <5050402.CF40A694@lafkon.net>
+  User-Agent: Mutt/1.5.17 (2007-11-01)
+  X-bounce-key: webpack.hosteurope.de;snof@kokkinizita.net;1231760478;06e2d71c;
+
+
+  Hello Christoph,
+
+  >> attached are two suggestions for a lac2009 logo.
+  >> it's similar to the lac2008 logo derivated from the city crest, 
+  >> two-coloured, so easy to use with e.g. copymachines, but could be used also 
+  >> in a color e.g. for the website.
+
+  Nice work !
+
+  I prefer the black-on-white version. The only improvements
+  I could suggest (as a complete nitwit in these matters) are
+
+  1. to remove the black 'scroll' background which more or
+  less hides the black parts of Tux. Maye it's possible to
+  have the crest as a line drawing with no solid black
+  except for Tux's head and wings.
+
+  2. a thinner black outline (similar to the one on the
+  crown).
+
+  But again, I'm not an expert at all in graphics !
+
+  For a color version, it would be nice to have
+  Tux's breast yellow with the blue cross on it...
+
+  Many thanks,
+
+  --
+  FA
+
+  Laboratorio di Acustica ed Elettroacustica
+  Parma, Italia
+
+  O tu, che porte, correndo si ?
+  E guerra e morte !
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID76025-1147951776
+  X-Mozilla-Status: 0013
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <snof@kokkinizita.net>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from wp097.webpack.hosteurope.de
+	(wp097.webpack.hosteurope.de [80.237.132.104])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 1C730380235
+  	for <hpotsirhc@lafkon.net>; Fri,  6 Mar 2009 22:36:17 +0100 (CET)
+  Received: from host205-35-static.38-79-b.business.telecomitalia.it
+	([79.38.35.205] helo=zita2.kokkinizita.net);
+	authenticated by wp097.webpack.hosteurope.de running ExIM
+	using esmtpa id 1LfhiK-0006GL-LB; Fri, 06 Mar 2009 22:36:16 +0100
+  Received: by zita2.kokkinizita.net (Postfix, from userid 1000)
+  	id 726AD71E3D8; Fri,  6 Mar 2009 22:34:38 +0100 (CET)
+  Date: Fri, 6 Mar 2009 22:34:38 +0100
+  From: Fons Adriaensen <snof@kokkinizita.net>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Subject: Re: LAC2009 - poster
+  Message-ID: <5203BG.83431260309002@zita2.kokkinizita.net>
+  References: <4403DG.74702282109002@zita2.kokkinizita.net>
+	<00409.AE133894@lafkon.net> <8050304.98B64894@lafkon.net>
+	<8070808.D8FE4894@gareus.org> <5080105.89CD6894@lafkon.net>
+	<1513AG.93713120209002@zita2.kokkinizita.net> <2040905.E9FB1A94@lafkon.net>
+	<0303EG.32802222209002@zita2.kokkinizita.net> <8070809.393CFA94@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=us-ascii
+  Content-Disposition: inline
+  In-Reply-To: <8070809.393CFA94@lafkon.net>
+  User-Agent: Mutt/1.5.17 (2007-11-01)
+  X-bounce-key: webpack.hosteurope.de;snof@kokkinizita.net;1236375377;b15bd81b;
+
+
+  Hello Christoph,
+
+  >> we created a generative poster (means there will a not-endless number of 
+  >> variations) for lac2009. here you download some examples: 
+  >> http://www.lafkon.net/exchange/lac2009/plakatlac2009_A3.zip .
+
+  *** Very nice *** I really love them !
+
+  I'll send you the complete list of sponsor logos
+  eary next week.
+
+  Meanwhile there are some things to be corrected
+  or added on the website:
+
+  - After registration you see a page saying
+  'See you in march'. Should be in April of course,
+  or 'in Parma'. Some people got confused by this.
+
+  - Could you replace the defective map of Parma
+  by the Googlemaps reference I sent some weeks
+  ago ? The map shown now is 'less than helpful'.
+
+  - There should be 'sponser page' with the logos
+  I will send in a few days, together with some
+  text.
+
+  - Expect the complete program near the end of
+  next week. I can make html or PDF or both, just
+  tell me what you need.
+
+  Ciao,
+
+  --
+  FA
+
+  Laboratorio di Acustica ed Elettroacustica
+  Parma, Italia
+
+  O tu, che porte, correndo si ?
+  E guerra e morte !
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID77126-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 10000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <snof@kokkinizita.net>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from wp097.webpack.hosteurope.de
+	(wp097.webpack.hosteurope.de [80.237.132.104])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id C0F47380235
+  	for <hpotsirhc@lafkon.net>; Mon, 16 Mar 2009 00:18:37 +0100 (CET)
+  Received: from host205-35-static.38-79-b.business.telecomitalia.it
+	([79.38.35.205] helo=zita2.kokkinizita.net);
+	authenticated by wp097.webpack.hosteurope.de running ExIM  using esmtpa
+  	id 1LizbH-0006ul-9a; Mon, 16 Mar 2009 00:18:37 +0100
+  Received: by zita2.kokkinizita.net (Postfix, from userid 1000)
+  	id 05EF771E404; Mon, 16 Mar 2009 00:15:46 +0100 (CET)
+  Date: Mon, 16 Mar 2009 00:15:46 +0100
+  From: Fons Adriaensen <snof@kokkinizita.net>
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Subject: Re: LAC2009 - poster
+  Message-ID: <3603EG.64513251309002@zita2.kokkinizita.net>
+  References: <00409.AE133894@lafkon.net> <8050304.98B64894@lafkon.net>
+	<8070808.D8FE4894@gareus.org> <5080105.89CD6894@lafkon.net>
+	<1513AG.93713120209002@zita2.kokkinizita.net>
+	<2040905.E9FB1A94@lafkon.net> <0303EG.32802222209002@zita2.kokkinizita.net>
+	<8070809.393CFA94@lafkon.net> <5203BG.83431260309002@zita2.kokkinizita.net>
+	<2010002.14665B94@lafkon.net>
+  MIME-Version: 1.0
+  Content-Type: multipart/mixed; boundary="FCuugMFkClbJLl1L"
+  Content-Disposition: inline
+  In-Reply-To: <2010002.14665B94@lafkon.net>
+  User-Agent: Mutt/1.5.17 (2007-11-01)
+  Content-Transfer-Encoding: 7bit
+  X-bounce-key: webpack.hosteurope.de;snof@kokkinizita.net;1237159117;a2e54f79;
+
+
+  Hello Christoph,
+
+  The CdM is still discussing which logos should
+  go on the poster - very typical - they always
+  waste time doing that sort of thing. I'll see
+  them tomorrow (monday) and then things should
+  be decided and I'll send you the missing ones.
+
+  I attach the conference program, both as a PDF
+  which should go into the downloads section, and
+  as a text file which I hope you can convert into
+  HTML without to much trouble.
+
+  The abstracts can either be in-line, or via
+  a link. Additional links to the paper and the
+  presentation slides (and maybe audio/video)
+  should be added but not be active until after
+  the conference.
+
+  Ciao,
+
+  --
+  FA
+
+  Laboratorio di Acustica ed Elettroacustica
+  Parma, Italia
+
+  O tu, che porte, correndo si ?
+  E guerra e morte !
+
+
+  Attachments:
+  program.txt	15.3 KB
+  program.pdf	59.3 KB
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID84372-1147951776
+  X-Mozilla-Status: 0003
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <nibor@gareus.org>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from mo-p05-ob.rzone.de (mo-p05-ob.rzone.de [81.169.146.181])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id 59CDB38002A
+  	for <hpotsirhc@lafkon.net>; Sat, 18 Apr 2009 19:02:34 +0200 (CEST)
+  X-RZG-AUTH: :PmMGfE7tfP4EUEANXi0C/qGjgFref4f4XsrFWeTi9vqEhUkq1R73NYdavuWx
+  X-RZG-CLASS-ID: mo05
+  Received: from [192.168.0.6]
+  	(bgn92-4-82-238-213-101.fbx.proxad.net [82.238.213.101])
+  	by post.strato.de (fruni mo39) (RZmta 18.29)
+  	with ESMTP id q052adl3IG4U1G for <hpotsirhc@lafkon.net>;
+  	Sat, 18 Apr 2009 19:02:33 +0200 (MEST)
+  Message-ID: <4090907.7A70AE94@gareus.org>
+  Date: Sat, 18 Apr 2009 19:02:31 +0200
+  From: Robin Gareus <nibor@gareus.org>
+  User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.12)
+	Gecko/20070730 Thunderbird/1.5.0.12 Mnenhy/0.7.5.666
+  MIME-Version: 1.0
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Subject: lac 2009 logo
+  X-Enigmail-Version: 0.95.0
+  Content-Type: text/plain; charset=UTF-8
+  Content-Transfer-Encoding: 7bit
+
+
+  -----BEGIN PGP SIGNED MESSAGE-----
+  Hash: SHA1
+
+  Hi Christoph,
+
+  Do you have an SVG of the LAC2009 logo? It looks really great,
+  and I'm considering to use it as Desktop background ;)
+
+  cheers,
+  robin
+  -----BEGIN PGP SIGNATURE-----
+  Version: GnuPG v1.4.9 (GNU/Linux)
+
+  iEYEARECAAYFAknqB6cACgkQeVUk8U+VK0Kz+ACgxV6clsYeyb/j7JtwG/Gm7OUA
+  5GwAniXq2tPz5g01LAO5Oaxntc8np+qQ
+  =QUOy
+  -----END PGP SIGNATURE-----
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account4
+  X-UIDL: UID84380-1147951776
+  X-Mozilla-Status: 0011
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <nibor@gareus.org>
+  X-Original-To: hpotsirhc@lafkon.net
+  Delivered-To: hpotsirhc@lafkon.net
+  Received: from mo-p05-ob.rzone.de (mo-p05-ob.rzone.de [81.169.146.180])
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTP id C055E3800FF
+  	for <hpotsirhc@lafkon.net>; Sat, 18 Apr 2009 19:33:53 +0200 (CEST)
+  X-RZG-AUTH: :PmMGfE7tfP4EUEANXi0C/qGjgFref4f4XsrFWeTi9vqEhUkq1R73NYdavuWx
+  X-RZG-CLASS-ID: mo05
+  Received: from [192.168.0.6]
+  	(bgn92-4-82-238-213-101.fbx.proxad.net [82.238.213.101])
+  	by post.strato.de (mrclete mo47) (RZmta 18.28)
+  	with ESMTP id K01251l3IGqKGS for <hpotsirhc@lafkon.net>;
+  	Sat, 18 Apr 2009 19:33:53 +0200 (MEST)
+  Message-ID: <6000804.00F0AE94@gareus.org>
+  Date: Sat, 18 Apr 2009 19:33:52 +0200
+  From: Robin Gareus <nibor@gareus.org>
+  User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.12)
+	Gecko/20070730 Thunderbird/1.5.0.12 Mnenhy/0.7.5.666
+  MIME-Version: 1.0
+  To: Christoph Haag <hpotsirhc@lafkon.net>
+  Subject: Re: lac 2009 logo
+  References: <4090907.7A70AE94@gareus.org> <3030406.2BC0AE94@lafkon.net>
+  In-Reply-To: <3030406.2BC0AE94@lafkon.net>
+  X-Enigmail-Version: 0.95.0
+  Content-Type: text/plain; charset=UTF-8
+  Content-Transfer-Encoding: 7bit
+
+
+  Wow that was quick. thanks a lot.
+  robin
+
+  Christoph Haag wrote:
+  >> hello robin,
+  >> nice that you like it:
+  >> http://www.forkable.eu/generators/lacinsky/i/logos/lac2009.svg
+  >> 
+  >> best regards and a nice lac09,
+  >> christoph
+  >> 
+  >> 
+  >> Robin Gareus schrieb:
+  >> Hi Christoph,
+  >> 
+  >> Do you have an SVG of the LAC2009 logo? It looks really great, and I'm
+  >> considering to use it as Desktop background ;)
+  >> 
+  >> cheers,
+  >> robin
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
