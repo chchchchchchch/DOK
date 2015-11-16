@@ -1,0 +1,779 @@
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  make art
+  --------
+  festival of free art and technologies
+
+  _in-between design:
+  rediscovering collaboration in digital art_
+
+  from 4 to 7 november 2010
+  **Maison de l'Architecture, Poitiers**
+
+
+  make art is an international festival dedicated to free/libre arts and
+  technologies, distributed digital artworks and net art. The sixth edition of
+  make art focuses on works halfway between art and design, collaborative,
+  scalable and participative methods. The adventure "in-between design" begins
+  here, to be imagined in this creative development, where everyone can
+  participate and where artwork keeps on evolving. Are these projects just
+  curiosities or a real alternative to the graphic conformism ruled by an
+  industry that dictates its aesthetic codes? Please come and join us to answer
+  this question...
+  
+  `./configure && make art`
+
+
+% FROM: --> http://makeart.goto10.org/2010/?lang=en
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  make art
+  --------
+  festival des arts et technologies libres
+  
+  _in-between design:
+  la redécouverte de la collaboration dans les arts numériques_
+  
+  du 4 au 7 novembre 2010
+  **Maison de l'Architecture, Poitiers**
+  
+  
+  make art est un festival international dédié aux arts et technologies libres,
+  aux oeuvres numériques distribuées et à l'art en réseau. La sixième édition de
+  make art se penche sur les créations à mi-chemin entre art et design, aux
+  méthodes participatives, évolutives et collaboratives. L'aventure "in-between
+  design" débute ici, elle s'imagine dans ce développement créatif, où la
+  participation de chacun est possible et où l'oeuvre ne cesse d'évoluer. Ces
+  projets sont-ils juste des curiosités ou bien une véritable alternative au
+  conformisme graphique régi par une industrie qui nous impose ses codes
+  esthétiques ? Venez nous rejoindre pour répondre à cette question...
+  
+  `./configure && make art`
+
+
+% FROM: --> http://makeart.goto10.org/2010/?lang=en
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  A [TRUNK](http://www.forkable.eu/generators/i-bd/i/TRUNK/) of
+  graphics is split into elements and the cut-set is layouted according to
+  the laws of physic. __Drop it like it's hot__!
+  [Inkscape]()
+  meets
+  [GNU's Bourne-Again SHell](http://www.gnu.org/software/bash/)
+  meets
+  [Processing ](http://www.processing.org/)
+  meets the
+  [*Philosophiae Naturalis Principia Mathematica*](http://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica).
+  
+  Thumbs up to
+  [Ricard Marxer](http://www.ricardmarxer.com/)
+  for
+  [Fisica](http://www.ricardmarxer.com/fisica/)
+  and
+  [Geomerative](http://www.ricardmarxer.com/geomerative/).
+  
+  To solve the *colour-print-is-expensive* problem facing big
+  generative print runs we used a offset/laser combination.
+  
+  
+  [Explore the repository](http://www.forkable.eu/generators/i-bd)
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  ######################################################################
+  ## I/ practical info / schedule / "main side"
+  ######################################################################
+
+  Agenda
+  ======
+
+  THURSDAY 4 NOVEMBER [venue : MDA]
+  19h00 Opening + performance
+        Exhibition « in-between design »
+
+  FRIDAY 5 NOVEMBER [venues : MDA + EMF at 21h]
+  10h30-19h00 Exhibition
+  18h00-19h00 Guided tour of the exhibition (fr)
+  21h00-23h30 Audiovisual performances at the Planetarium of Espace
+  Mendès-France
+
+  SATURDAY 6 NOVEMBER [venue : MDA]
+  10h00-12h00 Lectures "Perspectives"
+  10h30-19h00 Exhibition
+  14h00-16h00 Lectures "Plan de travail"
+  16h30-18h30 Lectures "Savoir-faire"
+  21h00-00h00 Placard, headphone concerts
+  21h00-00h00 Night exhibition
+
+  SUNDAY 7 NOVEMBER [venue : MDA]
+  10h30-19h00 Exhibition
+  11h00-15h00 « brunch club »
+  17h00-18h00 Guided tour of the exhibition (fr)
+
+
+  ----
+
+  Practical info
+  ==============
+
+  ENTRANCE: FREE
+  except Planetarium evening: 5€ full - 3€ discounts
+
+  [MDA] Maison de l'architecture
+        1 rue de la tranchée / 86000 Poitiers
+
+  Fair trade drinks to sell in this venue
+
+
+  [EMF] Planetarium de l'Espace Mendès France, Lieu multiple
+        1 place de la cathédrale / 86000 Poitiers
+
+
+  more info : http://makeart.goto10.org
+
+  ## in very small font somewhere, vertically, the following:
+  (map: openstreetmap.org)
+
+  ----
+
+  ## NOTA BENE
+  ## following details are the main side
+  ## = the side you see the first when you get the leaflet
+  ## basically it's the same content as the poster, but no logos
+  ## instead, the full list above/sentence (small font size is fine)
+
+  IN-BETWEEN DESIGN
+  MAKE ART
+  FESTIVAL OF FREE ART AND TECHNOLOGIES
+  EXHIBITION CONCERTS LECTURES WORKSHOPS
+  FROM THE 4th TO THE 7th NOVEMBER 2010
+  MAISON DE L'ARCHITECTURE + LIEU MULTIPLE
+  ## +FULL LIST OF ARTISTS
+
+  powered by GOTO10 with support from: the Ministry of Culture and
+  Communication (DICRéAM), the Poitou-Charentes Region, the City of
+  Poitiers, the Vienne General Council, the Crédit Agricole, the Maison
+  de l'Architecture, Jazz à Poitiers, the Confort Moderne, Rurart,
+  the Espace Mendès-France (Lieu Multiple), radio Pulsar and Ekitrade.
+
+
+  ######################################################################
+  ## II/ texts
+  ######################################################################
+
+  « In-between design: rediscovering collaboration in digital art »
+
+  make art is an international festival dedicated to free/libre arts
+  and technologies, distributed digital artworks and net art. The sixth
+  edition of make art focuses on works halfway between art and design,
+  collaborative, scalable and participative methods. The adventure
+  "in-between design" begins here, imagined in this creative development,
+  where everyone can participate and where artwork keeps on evolving.
+  Are these projects just curiosities or a real alternative to the
+  graphic conformism ruled by an industry that dictates its aesthetic
+  codes? Please come and join us to answer this question...
+
+  ./configure && make art
+
+
+
+  EXHIBITION
+  ==========
+
+  "Nancy" - Open Source Publishing (Belgium) -- Come and participate in
+  the creation of an ornament font! As a trainee typographer during the
+  time of your visit to the exhibition, you will be called to contribute
+  to Nancy, the collaborative characters font. How to? Just redraw the
+  standard symbols of two fonts (Dingbats and Unicode Miscellaneous
+  Symbols) as you wish. Using basic means, you can make your own
+  creations, taking inspiration from symbols drawn in previous workshops
+  or giving free rein to your imagination.
+
+  "Sonobotanics" - Marije Baalman (Netherlands) -- Periperceptoida
+  Triquetrus Nutandis and Periperceptoida Triquetrus Dependis have all the
+  characteristics of a plant: roots, stem, buds, leaves and flowers... but
+  they are actually small atypical electroacoustic creations. Their
+  electronic sensors interpret touch, light, temperature, humidity,
+  ambient sound and the audience presence. Once combined, these data
+  define a metaphorical and sound environment for the sonobotanic
+  plant growth.
+
+  "Drawn Together" - Evan Raskob (United States) -- Lines, circles,
+  squares, dots and various squiggles: these are simple forms for an
+  intuitive and childlike drawing where the image you're composing is
+  associated with a musical loop of a song. The images of your graphic
+  tablet drawings are then put together with the ones of other visitors,
+  which will make up an animated exquisite corpse style video clip.
+
+  "Trademark_Electric_Painting" - Dave Young (Ireland) -- Coca Cola,
+  Google, Amazon, Facebook, Shell, Microsoft... They rule our lives with
+  their ubiquitous visual identity. With Trademark_Electric_Painting,
+  the logos and colors of these big trademarks are dissected,
+  deconstructed and continuously modified to become abstract electronic
+  compositions. This new marketing grammar is a noisy-glitch delight!
+
+  "Laptopograms" - Aditya Mandayam (India) -- Have you ever thought
+  of producing silver images using the light sources of a mobile phone,
+  television, laptop screen? This crafty idea takes the opposite course of
+  the digital photography principle by updating the photogram principle, a
+  photographic image produced without a camera or enlarger, and created by
+  placing objects on photosensitive surface exposed to a light source. In
+  the case of the laptopogram light source and objects are replaced by
+  computer screens whose trace would later be revealed as a screen shot,
+  in a literal sense.
+
+  "Yeep!Eep!Eep!" - Daniel Temkin (United States) -- Yeep!Eep!Eep!Program
+  (or YEEP) creates databent images using the unique retro pseudo-graphics
+  of the Commodore 64. By manipulating the VIC registers, YEEP generates
+  images based on data that happens to be in RAM at the time, and what
+  was on the screen just before the program ran. This information is
+  mediated through character sets controlled by the user. It also has
+  controls to alter the color and add additional data to be drawn. The
+  entire palette available on the C64 is in use (all 16 colors!).
+
+  "Digital dump" - Loredana Bontempi (Italy) -- Ddump is an online
+  digital dump, where you are invited to share your computer trashes and
+  encouraged to take ownership of files left by previous owners. Playing
+  with the recycling trends in contemporary design and with existing
+  metaphors in graphical interfaces such as the desktop or the trash,
+  ddump takes an unusual look at your "dumped" files by offering them
+  a second life as raw material for designers and artists.
+
+  "make art 2010" - LAFKON (Germany) -- Inkscape meets the Bash meets
+  Processing meets the Philosophiae Naturalis Principia Mathematica.
+  In plaintext. Glyphs and graphics enter the wonderful world of physics
+  to become posters for make art 2010.
+  Thumbs up for Ricard Marxer and his Fisica and Geomerative libraries.
+
+
+  CONCERTS
+  ========
+
+  EXTRA VERNISSAGE - in collaboration with Jazz À Poitiers
+
+  MCLD "CODEBOX" -- MCLD brings together for the first time two different
+  improvisatory worlds: beatboxing and livecoding. Beats and bleeps and
+  noises; all improvised. Come and see if it's even possible!
+
+  ----
+
+  PLANETARIUM - in collaboration with the Lieu Multiple
+
+  doebereiner & morimoto (Germany+Japan), Jaime Oliver (Peru), Andrés
+  Colubri (Argentina), Awkward Family Photos (Greece)
+
+  In search of the unexplored, these artists communicate their
+  visual and sound imagination and their relationship to technology
+  by creating and playing their own instruments. By amplifying their
+  gesture and increasing their sensitivity, they invite you to various
+  trips: rough-textured microstructures compositions by döbereiner &
+  morimoto, touch and digital lute-making with Jaime Oliver, fantasies
+  and childhood memories with Andrés Colubri, fantastic landscapes with
+  Awkward Family Photos.
+
+  ----
+
+  PLACARD - in collaboration with the Confort Moderne
+
+  Benjamin Cadon "2013" (France), Marije Baalman "Code LiveCode Live"
+  (Netherlands), Noish "Noish~ vs Automata_v001" (Spain), Alberto de Campo
+  (Austria), Segmentation Fault (Spain)
+
+  Every year make art encloses itself in a "placard" (cupboard in French)
+  for one evening. It is a place dedicated to headphone listening only,
+  where unusual sound and visual experimentations occur, at the crossroads
+  of electronic, improvised and noise music. Come and join us in our
+  "placard", we will make some room for you.
+  Tonight Benjamin Cadon will reorchestrate and debug the famous
+  blockbuster 2012 using micro-loops, Marije Baalman will livecode from
+  her own livecoding performance (!), Noish~ vs Automata_v001 duo will
+  grow an improvisation starting from seven sound seeds, Alberto de
+  Campo will combine analog and digital meta-control to make a musical
+  exploration on the fly, while Segmentation Fault will patch and merge
+  drones with deconstructed rhythms.
+  Limited numbers of headphones and pillows so don't be late or bring
+  yours!
+
+  ----
+
+  LECTURES
+  ========
+
+  Outlooks
+
+   * "Gambiarra and the prototyping perspective" Gabriel Menotti (Brazil)
+   * "Remix it Yourself" Vito Campanelli (Italy)
+   * "Brainch" <stdin> (France)
+   * Yann Le Guennec (France) (to be confirmed)
+
+  Workbench
+
+   * "Digital dump" Loredana Bontempi (Italy)
+   * "Peer-to-peer design strategies" Emanuele Bonetti (Italy)
+   * "FLOSS issues in graphic design" Calcyum (France)
+   * "Dingbat Liberation Fest 0.4" Open Source Publishing (Belgium)
+
+  Savoir-faire
+
+   * "Laptopograms" Aditya Mandayam (India)
+   * "Varia Zoosystematica Profundorum" Alberto de Campo (Austria)
+   * "objscrs/Kaleidoscope" Simon Yuill (United Kingdom) &
+      Dorothé Depeauw (Belgium)
+   * "Libre Graphics Magazine" Ginger Coons (Canada)
+
+  "Brunch club"
+
+  The brunch club is an exclusive combination of breakfast, lunch and
+  panel discussions. The meal usually involves standard chatty breakfast
+  foods such as annotated bibliographical eggs, discursive fruits,
+  arguing pastries, confused pancakes, and the like. However, it can
+  include almost any other type of food and topics served throughout
+  the day or during the rest of the festival. Buffets may have academic
+  quiche, critical salads, convincing soups, passionated vegetable dishes,
+  many types of controversial breadstuffs, and suggestive desserts of
+  all sorts.
+
+  ----
+
+  WORKSHOP
+  ========
+
+  Emanuele Bonetti "Peer-to-peer design strategies" (IT) --
+  The project "Peer-to-peer design strategies" investigates new practical
+  approaches to graphic design based on peer-to-peer collaboration. The
+  aim is to complete graphic design products that all participants find
+  satisfying and to find out whether peer-to-peer design methodologies
+  can serve as a full alternative to the hierarchical top-down model
+  that dominates the industry.
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account1
+  X-UIDL: UID83611-1148071373
+  X-Mozilla-Status: 0001
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <nfo-bounces@goto10.org>
+  X-Original-To: christoph@listen.lafkon.net
+  Delivered-To: christoph@listen.lafkon.net
+  Received: from ataraxia.goto10.org (ataraxia.bek.no [158.37.56.5])
+  	(using TLSv1 with cipher AES256-SHA (256/256 bits))
+  	(No client certificate requested)
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTPS id AD3463802D7
+  	for <christoph@listen.lafkon.net>; Mon, 25 Oct 2010 02:16:27 +0200 (CEST)
+  Received: from localhost ([127.0.0.1] helo=ataraxia.goto10.org)
+  	by ataraxia.goto10.org with esmtp (Exim 4.69)
+  	(envelope-from <nfo-bounces@goto10.org>)
+  	id 1PAAYz-0004m5-52; Mon, 25 Oct 2010 02:05:21 +0200
+  Received: from ach86-1-82-229-38-17.fbx.proxad.net ([82.229.38.17]
+  	helo=[192.168.0.7]) by ataraxia.goto10.org with esmtpsa
+  	(TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32) (Exim 4.69)
+  	(envelope-from <propaganda@goto10.org>) id 1PAAXh-0004lR-Bw
+  	for nfo@goto10.org; Mon, 25 Oct 2010 02:04:01 +0200
+  Message-ID: <4CC4C96C.2030209@goto10.org>
+  Date: Mon, 25 Oct 2010 02:03:56 +0200
+  User-Agent: Thunderbird 2.0.0.24 (X11/20100623)
+  MIME-Version: 1.0
+  To: goto10 info/newsletter <nfo@goto10.org>
+  X-Mailman-Approved-At: Mon, 25 Oct 2010 02:05:19 +0200
+  From: GOTO10 info/newsletter <nfo@goto10.org>
+  Subject: [nfo] make art 2010, 4-7 November, Poitiers (FR)
+  X-BeenThere: nfo@goto10.org
+  X-Mailman-Version: 2.1.11
+  Precedence: list
+  Reply-To: contact@goto10.org
+  List-Id: GOTO10 info/newsletter <nfo.goto10.org>
+  List-Unsubscribe: <http://lists.goto10.org/cgi-bin/mailman/options/nfo>,
+  	<mailto:nfo-request@goto10.org?subject=unsubscribe>
+  List-Archive: <http://lists.goto10.org/pipermail/nfo>
+  List-Post: <mailto:nfo@goto10.org>
+  List-Help: <mailto:nfo-request@goto10.org?subject=help>
+  List-Subscribe: <http://lists.goto10.org/cgi-bin/mailman/listinfo/nfo>,
+  	<mailto:nfo-request@goto10.org?subject=subscribe>
+  Content-Transfer-Encoding: quoted-printable
+  Content-Type: text/plain; charset="windows-1252"; Format="flowed"
+  Sender: nfo-bounces@goto10.org
+  Errors-To: nfo-bounces@goto10.org
+  
+  désolé pour ./x, please ./x >>
+  
+  (version française plus bas)
+                                                                 _
+                     _        _     ____     _       _   _______|_|
+                    | |_    _| |  _|____|_  | |    _|_| |  _____|
+                    |  _|__|_  | | |____| | | |___|_|   | |_____
+                    | | |__| | | |  ____  | |  ___|_    |  _____|
+                    | |      | | | |_   | | | |   |_|_  | |_______
+                    |_|_     |_| |___|  |_| |_|     |_| |_________|
+                      |_|_          ____     _______     _________
+                        |_|       _|____|_  |  _____|_  |___   ___|_    _
+                                 | |____| | | |_____|_|     | |   |_|  |_|
+                   FROM          |  __    | |  _   _|       | |
+                    4 to 7       | |  |_  | | | |_|___     _|_|
+                  NOVEMBER 2010  |_|    |_| |_|   |___|   |_|
+  
+                           festival of free art and technologies
+                           Exhibition | Concerts | Lectures | Workshop
+                                             http://makeart.goto10.org
+  
+  
+  « in-between design: rediscovering collaboration in digital art »
+  
+  make art is an international festival dedicated to free/libre arts
+  and technologies, distributed digital artworks and net art. The sixth
+  edition of make art focuses on works halfway between art and design,
+  collaborative, scalable and participative methods. The adventure
+  "in-between design" begins here, to be imagined in this creative
+  development, where everyone can participate and where artwork keeps on
+  evolving. Are these projects just curiosities or a real alternative to
+  the graphic conformism ruled by an industry that dictates its aesthetic
+  codes? Please come and join us to answer this question...
+  
+  with Awkward Family Photos (Greece), Marije Baalman (Netherlands), Emanuele
+  Bonetti (Italy), Loredana Bontempi (Italy), Vito Campanelli (Italy), Benjamin
+  Cadon (France), Calcyum (France), Alberto de Campo (Austria), Andrés Colubri
+  (Argentina), ginger coons (Canada), Dorothé Depeauw (Belgium), Luc Döbereiner
+  (Germany), LAFKON (Germany), Aditya Mandayam (India), Xavi Manzanares (Spain),
+  Oscar Martin (Spain), Gabriel Menotti (Brazil), Yota Morimoto (Japan), Jaime
+  Oliver (Peru), Open Source Publishing (Belgium), Evan Raskob (United States),
+  <stdin> (France), Dan Stowell (Great-Britain), Daniel Temkin (United States),
+  Dave Young (Ireland), Simon Yuill (Great-Britain).
+  
+  Detailed program available at:
+  http://makeart.goto10.org/2010/?lang=en
+  
+                                                                 _
+                     _        _     ____     _       _   _______|_|
+                    | |_    _| |  _|____|_  | |    _|_| |  _____|
+                    |  _|__|_  | | |____| | | |___|_|   | |_____
+                    | | |__| | | |  ____  | |  ___|_    |  _____|
+                    | |      | | | |_   | | | |   |_|_  | |_______
+                    |_|_     |_| |___|  |_| |_|     |_| |_________|
+                      |_|_          ____     _______     _________
+                        |_|       _|____|_  |  _____|_  |___   ___|_    _
+                                 | |____| | | |_____|_|     | |   |_|  |_|
+                    DU           |  __    | |  _   _|       | |
+                    4 AU 7       | |  |_  | | | |_|___     _|_|
+                  NOVEMBRE 2010  |_|    |_| |_|   |___|   |_|
+  
+                           festival des arts et technologies libres
+                           Exposition | Concerts | Conférences | Atelier
+                                             http://makeart.goto10.org
+  
+  
+  « in-between design :
+  la redécouverte de la collaboration dans les arts numériques »
+  
+  make art est un festival international dédié aux arts et technologies
+  libres, aux oeuvres numériques distribuées et à l'art en réseau. La
+  sixième édition de make art se penche sur les créations à mi-chemin
+  entre art et design, aux méthodes participatives, évolutives et
+  collaboratives. L'aventure "in-between design" débute ici, elle s'imagine
+  dans ce développement créatif, où la participation de chacun est possible
+  et où l'oeuvre ne cesse d'évoluer. Ces projets sont-ils juste des
+  curiosités ou bien une véritable alternative au conformisme graphique
+  régi par une industrie qui nous impose ses codes esthétiques ? Venez
+  nous rejoindre pour répondre à cette question...
+  
+  avec Awkward Family Photos (Grèce), Marije Baalman (Pays-Bas), Emanuele Bonetti
+  (Italie), Loredana Bontempi (Italie), Vito Campanelli (Italie), Benjamin Cadon
+  (France), Calcyum (France), Alberto de Campo (Autriche), Andrés Colubri
+  (Argentine), ginger coons (Canada), Dorothé Depeauw (Belgique), Luc Döbereiner
+  (Allemagne), LAFKON (Allemagne), Aditya Mandayam (Inde), Xavi Manzanares
+  (Espagne), Oscar Martin (Espagne), Gabriel Menotti (Brésil), Yota Morimoto
+  (Japon), Jaime Oliver (Pérou), Open Source Publishing (Belgique), Evan Raskob
+  (Etats-Unis), <stdin> (France), Dan Stowell (Grande-Bretagne), Daniel Temkin
+  (Etats-Unis), Dave Young (Irelande), Simon Yuill (Grande-Bretagne).
+  
+  Programme complet :
+  http://makeart.goto10.org
+  
+  -- 
+  
+  :*
+  
+  
+  
+  
+  -- 
+  GOTO10 ONE WAY NFO L!ST
+  HTTP://GOTO10.ORG - HTTP://IDENTI.CA/GOTO10
+  IRC.GOTO10.ORG #GOTO10
+  TO UNSUBSCRIBE SEND A MAIL TO NFO-UNSUBSCRIBE@GOTO10.ORG
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+  X-Account-Key: account1
+  X-UIDL: UID75316-1148071373
+  X-Mozilla-Status: 0001
+  X-Mozilla-Status2: 00000000
+  X-Mozilla-Keys:                                                                                 
+  Return-Path: <nfo-bounces@goto10.org>
+  X-Original-To: christoph@listen.lafkon.net
+  Delivered-To: christoph@listen.lafkon.net
+  Received: from ataraxia.goto10.org (ataraxia.bek.no [158.37.56.5])
+  	(using TLSv1 with cipher AES256-SHA (256/256 bits))
+  	(No client certificate requested)
+  	by voffice.thegoingmobileevent.de (Postfix) with ESMTPS id 67478380033
+  	for <christoph@listen.lafkon.net>; Sun, 18 Jul 2010 23:30:14 +0200 (CEST)
+  Received: from localhost ([127.0.0.1] helo=ataraxia.goto10.org)
+  	by ataraxia.goto10.org with esmtp (Exim 4.69)
+  	(envelope-from <nfo-bounces@goto10.org>)
+  	id 1OabAG-0001CA-Mq; Sun, 18 Jul 2010 23:12:48 +0200
+  Received: from ach86-1-82-229-38-17.fbx.proxad.net ([82.229.38.17]
+  	helo=[192.168.0.4]) by ataraxia.goto10.org with esmtpsa
+  	(TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32) (Exim 4.69)
+  	(envelope-from <propaganda@goto10.org>) id 1Oab74-00012X-K5
+  	for nfo@goto10.org; Sun, 18 Jul 2010 23:09:30 +0200
+  Message-ID: <4C436937.2080500@goto10.org>
+  Date: Sun, 18 Jul 2010 22:51:03 +0200
+  User-Agent: Thunderbird 2.0.0.24 (X11/20100317)
+  MIME-Version: 1.0
+  To: goto10 info/newsletter <nfo@goto10.org>
+  X-Mailman-Approved-At: Sun, 18 Jul 2010 23:12:46 +0200
+  From: GOTO10 info/newsletter <nfo@goto10.org>
+  Subject: [nfo] make art - call for projects "in-between design" - deadline
+   31st July
+  X-BeenThere: nfo@goto10.org
+  X-Mailman-Version: 2.1.11
+  Precedence: list
+  Reply-To: contact@goto10.org
+  List-Id: GOTO10 info/newsletter <nfo.goto10.org>
+  List-Unsubscribe: <http://lists.goto10.org/cgi-bin/mailman/options/nfo>,
+  	<mailto:nfo-request@goto10.org?subject=unsubscribe>
+  List-Archive: <http://lists.goto10.org/pipermail/nfo>
+  List-Post: <mailto:nfo@goto10.org>
+  List-Help: <mailto:nfo-request@goto10.org?subject=help>
+  List-Subscribe: <http://lists.goto10.org/cgi-bin/mailman/listinfo/nfo>,
+  	<mailto:nfo-request@goto10.org?subject=subscribe>
+  Content-Transfer-Encoding: quoted-printable
+  Content-Type: text/plain; charset="windows-1252"; Format="flowed"
+  Sender: nfo-bounces@goto10.org
+  Errors-To: nfo-bounces@goto10.org
+  
+  sorry for xyz, please >> <<
+  
+                                                                 _
+                     _        _     ____     _       _   _______|_|
+                    | |_    _| |  _|____|_  | |    _|_| |  _____|
+                    |  _|__|_  | | |____| | | |___|_|   | |_____
+                    | | |__| | | |  ____  | |  ___|_    |  _____|
+                    | |      | | | |_   | | | |   |_|_  | |_______
+                    |_|_     |_| |___|  |_| |_|     |_| |_________|
+                      |_|_          ____     _______     _________
+                        |_|       _|____|_  |  _____|_  |___   ___|_    _
+                                 | |____| | | |_____|_|     | |   |_|  |_|
+                   from          |  __    | |  _   _|       | |
+                    4 to 7       | |  |_  | | | |_|___     _|_|
+                  NOVEMBER 2010  |_|    |_| |_|   |___|   |_|
+  
+  
+  (version en français ci-dessous)
+  
+  
+  *CALL FOR PROJECTS*
+  
+  The sixth edition of make art – in-between design: rediscovering
+  collaboration in digital art – will take place in Poitiers (FR), from
+  the 4th to the 7th of November 2010.
+  
+  make art is an international festival dedicated to the integration
+  of Free/Libre/Open Source Software (FLOSS) in digital art.
+  make art offers performances, presentations, workshops and an
+  exhibition, focusing on the encounter between digital art and free
+  software.
+  
+  
+  *in-between design: rediscovering collaboration in digital art*
+  
+  Today's market production accelerates the spread of non-critical and
+  standardized aesthetics, by means of locked top-down distribution
+  mechanisms and a series of tools that enforce it. At the same time
+  new forms of methodologies inspired or powered by free software,
+  participatory practices and peer-to-peer networks are fueling many
+  Internet subcultures. Some of these emerging practices will lead to
+  competitive social productions, while other will remain as pure
+  artistic experiments.
+  
+  By adopting production and distribution methods based on free software
+  and open standards and by sharing the sources of one's work with
+  others, the collective knowledge base and aesthetic sensibilities can
+  freely interact to explore uncharted, hybrid directions which no
+  longer reflect the supremacy of a single idea.
+  
+   - Does the sharing of artworks "recipes" and tools help debunk
+     the myth of the isolated design genius?
+   - By leaving the possibility of ongoing development and refinement,
+     is it possible to ever produce a "final" design?
+   - Can these methods and technologies inspire new forms of creation or
+     tools, beyond self-referential productions?
+   - Is it wishful thinking to approach collaborative graphical design
+     in the same way as an open source software project?
+   - Is Free and Open Source licensing a catalyst for creation or does
+     it add an extra level of complexity?
+   - Can the limitation of one license trigger new forms of constrained
+     creativity?
+  
+  We're currently seeking new, innovative media art and design works and
+  projects focusing on the above theme and questions:
+   - graphical artworks and installations
+   - lectures
+   - project presentations
+   - software and hardware demos
+  
+  We're also seeking audiovisual performances that will take place
+  during the festival evenings.
+  
+  The submitted projects must fit this focus and be made in a free/libre
+  and open source environment, this includes both its optional
+  dependencies or production tools and the operating system. We are
+  asking you to publish the sources of your project under a free culture
+  license of your choice or release it into the public domain.
+  Projects that do not meet these criteria will not be considered.
+  
+  
+  *How to apply*
+  
+  Submission form and a list of additional requirements are available at:
+  http://makeart.goto10.org/call/
+  
+  Deadline: *Saturday 31 July 2010*
+  
+  Incomplete or late applications will not be processed.
+  
+  
+  *Timeline*
+  
+  31st of July 2010       – Deadline call for proposals
+  Beginning of September  – Selected projects notifications
+  4th-7th of November 10  – make art 2010 - Poitiers (FR)
+  
+  For examples of previous editions, please visit the archives :
+  http://makeart.goto10.org/
+  
+  make art is powered by GOTO10
+  
+  -- 
+  
+  *APPEL A PROJETS*
+  
+  La sixième édition de make art – "in-between design" : la
+  redécouverte de la collaboration en art numérique – se déroule à
+  Poitiers (FR), du 4 au 7 novembre 2010.
+  
+  make art est un festival international dédié à l'intégration des
+  Logiciels Libres et Open Source (FLOSS) dans l'art numérique.
+  make art propose des performances, des présentations, des ateliers
+  et une exposition, centrés sur la rencontre entre l'art numérique
+  et le logiciel libre.
+  
+  
+  *"in-between design" : la redécouverte de la collaboration en art numérique*
+  
+  La production de marché d'aujourd'hui accélère la diffusion
+  d'esthétiques standardisées non critiques, au moyen de mécanismes
+  de distribution "top-down" verrouillés et d'une série d'instruments
+  pour la faire respecter. Parallèlement de nouvelles formes de
+  méthodologies inspirées ou fonctionnant sur du logiciel libre, des
+  pratiques participatives et des réseaux peer-to-peer alimentent de
+  nombreuses sous-cultures Internet. Certaines de ces pratiques
+  émergentes conduiront à des productions sociales compétitives,
+  tandis que d'autres resteront de pures expériences artistiques.
+  
+  En adoptant des méthodes de production et de distribution
+  basées sur du logiciel libre et des standard ouverts, en partageant
+  les sources de ses travaux avec d'autres, les sensibilités
+  esthétiques, les parcours et les connaissances de chacun vont
+  pouvoir librement et collectivement explorer des horizons métissés
+  inexplorés qui ne reflèteront plus la suprématie d'une seule idée.
+  
+   - Le partage des "recettes" des œuvres et des outils aidera-t-il à
+     briser le mythe du génie du design isolé ?
+   - En permettant un développement et d'un affinement continuels
+     est-ce toujours possible de produire un design "final" ?
+   - Ces méthodes et technologies peuvent-elles inspirer de nouvelles
+     formes de création ou d'outils, qui dépassent les productions
+     auto-référentes ?
+   - Est-ce utopique d'aborder le design graphique collaboratif de la
+     même manière qu'un projet de logiciel open source ?
+   - L'utilisation de licences Libres et Open Source est-elle un
+     catalyseur pour la création ou bien rajoute un niveau de complexité
+     supplémentaire ?
+   - Les limitations d'une licence peuvent-elles déclencher de nouvelles
+     formes de créativité sous contraintes ?
+  
+  Nous sommes à la recherche de travaux et projets nouveaux et innovants
+  d'art médiatique et de design, centrés sur le thème et les questions
+  ci-dessus :
+   - œuvres graphiques et installations
+   - conférences
+   - présentations de projets
+   - démos de logiciel ou matériel
+  
+  Nous recherchons également des performances audiovisuelles qui se
+  produiront dans le cadre des soirées du festival.
+  
+  Les projets proposés doivent répondre à ce thème et être réalisés en
+  environnement libre et open source, cela concerne à la fois les
+  dépendances optionnelles, les outils de production et le système
+  d'exploitation. Nous vous demandons de publier les sources de votre
+  projet sous une licence libre de votre choix ou bien de les mettre
+  dans le domaine public.
+  Les projets ne répondant pas à ces critères ne seront pas examinés.
+  
+  
+  *Candidature*
+  
+  Le dossier de candidature et la liste des éléments additionnels requis sont
+  disponibles à l'adresse :
+  http://makeart.goto10.org/call/index.fr.html
+  
+  Date butoir : *samedi 31 juillet 2010*
+  
+  Toute candidature incomplète ou reçue hors délai ne sera pas traitée.
+  
+  
+  *Calendrier*
+  
+  31 juillet 2010        – Date limite de réponse à l'appel à projet
+  Début septembre        – Notification des projets sélectionnés
+  4-7 novembre 2010      – make art 2010 - Poitiers (FR)
+  
+  Pour un aperçu des précédentes éditions, veuillez visiter les sites
+  des éditions passées :
+  http://makeart.goto10.org/
+  
+  make art est propulsé par GOTO10
+  
+  
+  
+  
+  -- 
+  GOTO10 ONE WAY NFO L!ST
+  HTTP://GOTO10.ORG - HTTP://IDENTI.CA/GOTO10
+  IRC.GOTO10.ORG #GOTO10
+  TO UNSUBSCRIBE SEND A MAIL TO NFO-UNSUBSCRIBE@GOTO10.ORG
+
+
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
