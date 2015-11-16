@@ -1,0 +1,42 @@
+autotrace   -  converts bitmap image data into vector graphics
+awk         -  pattern scanning and text processing language
+basename    -  strip directory and suffix from filenames
+bash        -  GNU Bourne-Again SHell
+cat         -  concatenate files and print on the standard output
+chmod       -  change file mode bits
+convert     -  convert between image formats as well as much more 
+cp          -  copy files and directories
+cut         -  remove sections from each line of files
+date        -  print or set the system date and time
+dirname     -  strip last component from file name
+echo        -  display a line of text
+egrep       -  print lines matching a pattern
+exit        -  cause normal process termination
+expr        -  evaluate expressions
+find        -  search for files in a directory hierarchy
+grep        -  print lines matching a pattern
+head        -  output the first part of files
+identify    -  describes the format and characteristics of one or more image files.
+inkscape    -  an SVG (Scalable Vector Graphics) editing program.
+java        -  the Java application launcher
+ls          -  list directory contents
+md5sum      -  compute and check MD5 message digest
+mv          -  move (rename) files
+ne          -  A nice editor
+pdflatex    -  PDF output from TeX
+pdftk       -  A handy tool for manipulating PDF
+Processing  -  a flexible software sketchbook
+pwd         -  print name of current/working directory
+rev         -  reverse lines of a file or files
+rl          -  Randomize Lines.
+rm          -  remove files or directories
+sed         -  stream editor for filtering and transforming text
+sort        -  sort lines of text files
+tac         -  concatenate and print files in reverse
+tail        -  output the last part of files
+tr          -  translate or delete characters
+uniq        -  report or omit repeated lines
+wc          -  print newline, word, and byte counts for each file
+wget        -  The non-interactive network downloader.
+xargs       -  build and execute command lines from standard input
+Xvfb        -  virtual framebuffer X server for X Version 11

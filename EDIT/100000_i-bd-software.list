@@ -1,0 +1,36 @@
+awk         -  pattern scanning and text processing language
+bash        -  GNU Bourne-Again SHell
+cat         -  concatenate files and print on the standard output
+composite   -  overlaps one image over another.
+convert     -  convert between image formats as well as much more
+cut         -  remove sections from each line of files
+date        -  print or set the system date and time
+dirname     -  strip last component from file name
+echo        -  display a line of text
+egrep       -  print lines matching a pattern
+epstopdf    -  convert an EPS file to PDF
+exit        -  cause normal process termination
+expr        -  evaluate expressions
+find        -  search for files in a directory hierarchy
+grep        -  print lines matching a pattern
+head        -  output the first part of files
+inkscape    -  an SVG (Scalable Vector Graphics) editing program.
+java        -  the Java application launcher
+ls          -  list directory contents
+mv          -  move (rename) files
+ne          -  A nice editor
+pdflatex    -  PDF output from TeX
+pdftk       -  A handy tool for manipulating PDF
+Processing  -  a flexible software sketchbook
+rev         -  reverse lines of a file or files
+rl          -  Randomize Lines.
+rm          -  remove files or directories
+sed         -  stream editor for filtering and transforming text
+shuf        -  generate random permutations
+sort        -  sort lines of text files
+tac         -  concatenate and print files in reverse
+tail        -  output the last part of files
+touch       -  change file timestamps
+uniq        -  report or omit repeated lines
+wc          -  print newline, word, and byte counts for each file
+Xvfb        -  virtual framebuffer X server for X Version 11

@@ -1,0 +1,46 @@
+apache2     -  Apache Hypertext Transfer Protocol Server
+awk         -  pattern scanning and text processing language
+basename    -  strip directory and suffix from filenames
+bash        -  GNU Bourne-Again SHell
+cat         -  concatenate files and print on the standard output
+convert     -  convert between image formats as well as much more
+cp          -  copy files and directories
+cut         -  remove sections from each line of files
+date        -  print or set the system date and time
+dirname     -  strip last component from file name
+echo        -  display a line of text
+egrep       -  print lines matching a pattern
+exit        -  cause normal process termination
+export      -  Exporting tables of contents
+expr        -  evaluate expressions
+fdupes      -  finds duplicate files in a given set of directories
+find        -  search for files in a directory hierarchy
+fold        -  wrap each input line to fit in specified width
+ftp         -  Internet file transfer program
+git         -  the stupid content tracker
+grep        -  print lines matching a pattern
+gs          -  Ghostscript (PostScript and PDF language interpreter and previewer)
+head        -  output the first part of files
+inkscape    -  an SVG (Scalable Vector Graphics) editing program.
+java        -  the Java application launcher
+ls          -  list directory contents
+mv          -  move (rename) files
+ne          -  A nice editor
+pdftk       -  A handy tool for manipulating PDF
+php         -  general-purpose scripting
+ps          -  report a snapshot of the current processes.
+recode      -  converts files between character sets
+rev         -  reverse lines of a file or files
+rm          -  remove files or directories
+sed         -  stream editor for filtering and transforming text
+shuf        -  generate random permutations
+sleep       -  delay for a specified amount of time
+sort        -  sort lines of text files
+tac         -  concatenate and print files in reverse
+tail        -  output the last part of files
+touch       -  change file timestamps
+uniq        -  report or omit repeated lines
+vim         -  Vi IMproved, a programmers text editor
+wc          -  print newline, word, and byte counts for each file
+wget        -  The non-interactive network downloader.
+Xvfb        -  virtual framebuffer X server for X Version 11

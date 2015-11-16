@@ -1,0 +1,25 @@
+bash        -  GNU Bourne-Again SHell
+cat         -  concatenate files and print on the standard output
+convert     -  convert between image formats as well as much more
+cut         -  remove sections from each line of files
+date        -  print or set the system date and time
+dirname     -  strip last component from file name
+echo        -  display a line of text
+exit        -  cause normal process termination
+expr        -  evaluate expressions
+find        -  search for files in a directory hierarchy
+grep        -  print lines matching a pattern
+head        -  output the first part of files
+java        -  the Java application launcher
+ls          -  list directory contents
+more        -  file perusal filter for crt viewing
+ne          -  A nice editor
+pdftk       -  A handy tool for manipulating PDF
+Processing  -  a flexible software sketchbook
+PuTTY       -  a free SSH and telnet client for Windows
+rev         -  reverse lines of a file or files
+rl          -  Randomize Lines.
+rm          -  remove files or directories
+tail        -  output the last part of files
+wc          -  print newline, word, and byte counts for each file
+Xvfb        -  virtual framebuffer X server for X Version 11

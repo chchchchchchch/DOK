@@ -1,0 +1,23 @@
+basename    -  strip directory and suffix from filenames
+bash        -  GNU Bourne-Again SHell
+cat         -  concatenate files and print on the standard output
+convert     -  convert between image formats as well as much more
+cut         -  remove sections from each line of files
+echo        -  display a line of text
+exit        -  cause normal process termination
+expr        -  evaluate expressions
+git         -  the stupid content tracker
+grep        -  print lines matching a pattern
+head        -  output the first part of files
+inkscape    -  an SVG (Scalable Vector Graphics) editing program.
+ls          -  list directory contents
+md5sum      -  compute and check MD5 message digest
+pdftk       -  A handy tool for manipulating PDF
+rev         -  reverse lines of a file or files
+rm          -  remove files or directories
+sed         -  stream editor for filtering and transforming text
+sort        -  sort lines of text files
+tac         -  concatenate and print files in reverse
+uniq        -  report or omit repeated lines
+vim         -  Vi IMproved, a programmers text editor
+wc          -  print newline, word, and byte counts for each file

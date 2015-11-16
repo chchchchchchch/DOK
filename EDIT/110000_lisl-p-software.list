@@ -1,0 +1,35 @@
+basename    -  strip directory and suffix from filenames
+bash        -  GNU Bourne-Again SHell
+cat         -  concatenate files and print on the standard output
+convert     -  convert between image formats as well as much more
+cut         -  remove sections from each line of files
+date        -  print or set the system date and time
+echo        -  display a line of text
+egrep       -  print lines matching a pattern
+exit        -  cause normal process termination
+expr        -  evaluate expressions
+find        -  search for files in a directory hierarchy
+grep        -  print lines matching a pattern
+head        -  output the first part of files
+inkscape    -  an SVG (Scalable Vector Graphics) editing program.
+ls          -  list directory contents
+md5sum      -  compute and check MD5 message digest
+ne          -  A nice editor
+pdf2ps      -  Ghostscript PDF to PostScript translator
+pdflatex    -  PDF output from TeX
+pdftk       -  A handy tool for manipulating PDF
+printf      -  format and print data
+ps2pdf      -  Convert PostScript to PDF using ghostscript
+rev         -  reverse lines of a file or files
+rl          -  Randomize Lines.
+rm          -  remove files or directories
+sed         -  stream editor for filtering and transforming text
+shuf        -  generate random permutations
+sleep       -  delay for a specified amount of time
+sort        -  sort lines of text files
+tac         -  concatenate and print files in reverse
+tail        -  output the last part of files
+touch       -  change file timestamps
+tr          -  translate or delete characters
+uniq        -  report or omit repeated lines
+wc          -  print newline, word, and byte counts for each file
