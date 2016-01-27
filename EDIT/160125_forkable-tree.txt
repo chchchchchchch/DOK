@@ -1,2145 +1,2145 @@
 .
-|-- generators
-|   |-- amroxiv
-|   |   |-- i
-|   |   |   |-- free
-|   |   |   |   '-- svg
-|   |   |   '-- non-free
-|   |   |       '-- svg
-|   |   |-- o
-|   |   |   |-- free
-|   |   |   |   |-- sla
-|   |   |   |   '-- svg
-|   |   |   '-- non-free
-|   |   |       |-- pdf
-|   |   |       |-- sla
-|   |   |       '-- svg
-|   |   '-- tmp
-|   |-- chmod+x
-|   |   |-- doc
-|   |   |   '-- i
-|   |   |       |-- free
-|   |   |       |   '-- v
-|   |   |       |       '-- neural
-|   |   |       '-- non-free
-|   |   |           |-- p
-|   |   |           |   '-- logo
-|   |   |           '-- v
-|   |   |               |-- 100106
-|   |   |               |-- 100111
-|   |   |               |-- 100113-1707
-|   |   |               |-- 100113-1749
-|   |   |               |-- 100116
-|   |   |               |-- 100117
-|   |   |               |   '-- xobject_errors
-|   |   |               |-- 100118
-|   |   |               |-- 100119
-|   |   |               |-- logo
-|   |   |               '-- src
-|   |   |-- i
-|   |   |   |-- a -> ../../../
-|   |   |   |-- free
-|   |   |   |   '-- v
-|   |   |   |       '-- logos
-|   |   |   |           '-- layered
-|   |   |   |               '-- chmod+x_logo_100105
-|   |   |   |-- lib -> ../../../utils/processing/libraries/
-|   |   |   |-- locale
-|   |   |   |-- non-free
-|   |   |   |   '-- v
-|   |   |   |       '-- logos
-|   |   |   |           '-- layered
-|   |   |   |               '-- chmod+x_logo_100105
-|   |   |   '-- tmp
-|   |   |       |-- collected
-|   |   |       |-- collected-google-images
-|   |   |       '-- google
-|   |   |-- o
-|   |   |   |-- free
-|   |   |   |   |-- chmod+x_loves_x
-|   |   |   |   |-- en
-|   |   |   |   |   '-- A2
-|   |   |   |   |-- flyer
-|   |   |   |   |-- neural
-|   |   |   |   |-- nl
-|   |   |   |   |   '-- A2
-|   |   |   |   '-- tubelight
-|   |   |   '-- non-free
-|   |   |       |-- chmod+x_loves_x
-|   |   |       |-- en
-|   |   |       |   '-- A2
-|   |   |       |-- flyer
-|   |   |       |-- neural
-|   |   |       |-- nl
-|   |   |       |   '-- A2
-|   |   |       '-- tubelight
-|   |   '-- src
-|   |       |-- chmod_x_shodo4flyer_01
-|   |       |   '-- i
-|   |       |       |-- free
-|   |       |       |-- non-free
-|   |       |       '-- tmp
-|   |       |-- chmod_x_shodo4neural_02
-|   |       |   '-- i
-|   |       |       |-- free
-|   |       |       |-- non-free
-|   |       |       '-- tmp
-|   |       '-- chmod_x_shodo4poster_01
-|   |           '-- i
-|   |               |-- free
-|   |               |-- non-free
-|   |               '-- tmp
-|   |-- dit
-|   |   |-- doc
-|   |   |   '-- i
-|   |   |       |-- free
-|   |   |       |   |-- p
-|   |   |       |   |   '-- earlybirds
-|   |   |       |   '-- v
-|   |   |       |       |-- 1002XX
-|   |   |       |       |-- 1003XX
-|   |   |       |       |-- earlybirds
-|   |   |       |       '-- logo
-|   |   |       '-- non-free
-|   |   |           '-- v
-|   |   |               |-- 1003XX
-|   |   |               '-- autotracetests
-|   |   |                   |-- anna_beispiele
-|   |   |                   '-- bearbeitet
-|   |   |-- i
-|   |   |   |-- a -> ../../../
-|   |   |   |-- cols+rows
-|   |   |   |   |-- A2
-|   |   |   |   |   |-- 45x31
-|   |   |   |   |   '-- 59x42
-|   |   |   |   |-- A3
-|   |   |   |   |   |-- 39x27
-|   |   |   |   |   '-- 45x31
-|   |   |   |   |-- A5
-|   |   |   |   |   |-- 13x19
-|   |   |   |   |   |-- 19x13
-|   |   |   |   |   '-- 39x27
-|   |   |   |   '-- schaukasten
-|   |   |   |       |-- 30x30
-|   |   |   |       '-- 45x45
-|   |   |   |-- free
-|   |   |   |   |-- p
-|   |   |   |   |   |-- ditails
-|   |   |   |   |   |-- reference
-|   |   |   |   |   '-- scans
-|   |   |   |   '-- v
-|   |   |   |       |-- ditails
-|   |   |   |       |-- ditails-roh
-|   |   |   |       |-- ditails-test
-|   |   |   |       |-- info
-|   |   |   |       '-- logos
-|   |   |   |-- non-free
-|   |   |   |   |-- p
-|   |   |   |   '-- v
-|   |   |   |       '-- logos
-|   |   |   '-- tmp
-|   |   |       '-- rotated-pdfs
-|   |   '-- o
-|   |       |-- free
-|   |       |   |-- A2
-|   |       |   |-- A3
-|   |       |   |-- A5
-|   |       |   '-- schaukasten
-|   |       '-- non-free
-|   |           |-- A2
-|   |           |-- A3
-|   |           '-- schaukasten
-|   |-- elytrigia
-|   |   |-- i
-|   |   |   '-- lib -> ../../../utils/processing/libraries/0135/
-|   |   |-- o -> ../../stock/2008/elytrigia/
-|   |   '-- src
-|   |-- exodus
-|   |   |-- doc
-|   |   |   '-- gifs
-|   |   |-- i
-|   |   |   |-- free
-|   |   |   |   '-- bash
-|   |   |   '-- non-free
-|   |   |       |-- gif
-|   |   |       '-- svg
-|   |   |           |-- annagrath
-|   |   |           |-- archaelogic
-|   |   |           |-- minimal
-|   |   |           '-- var
-|   |   |-- o
-|   |   |   |-- free
-|   |   |   |   '-- jpg
-|   |   |   |       '-- transmission
-|   |   |   '-- non-free
-|   |   |       '-- gif
-|   |   |-- prepare
-|   |   |   |-- i
-|   |   |   |   '-- gif
-|   |   |   |-- themes
-|   |   |   |   |-- osk
-|   |   |   |   |   |-- gtk-2.0
-|   |   |   |   |   '-- openbox-3
-|   |   |   |   |-- scrot2v
-|   |   |   |   |   |-- gtk-2.0
-|   |   |   |   |   |-- metacity-1
-|   |   |   |   |   '-- openbox-3
-|   |   |   |   |-- Simple
-|   |   |   |   |   |-- metacity-1
-|   |   |   |   |   '-- openbox-3
-|   |   |   |   |-- T3K
-|   |   |   |   |   '-- gtk-2.0
-|   |   |   |   '-- Umbra
-|   |   |   |       |-- gtk-2.0
-|   |   |   |       '-- openbox-3
-|   |   |   '-- tmp
-|   |   |-- src
-|   |   |   |-- bandit_007_5er_griffin
-|   |   |   |   '-- application.linux
-|   |   |   |       |-- lib
-|   |   |   |       '-- source
-|   |   |   |-- bandit_008
-|   |   |   |   '-- application.linux
-|   |   |   |       |-- lib
-|   |   |   |       '-- source
-|   |   |   '-- bandit_009
-|   |   |       |-- application.linux
-|   |   |       |   |-- lib
-|   |   |       |   '-- source
-|   |   |       '-- i -> ../../i
-|   |   '-- tmp
-|   |       |-- combinations
-|   |       '-- io-make
-|   |-- i-bd
-|   |   |-- doc
-|   |   |   '-- i
-|   |   |       |-- free
-|   |   |       |   '-- poitiers
-|   |   |       '-- non-free
-|   |   |           '-- v
-|   |   |               |-- leaflet
-|   |   |               '-- posterevolution
-|   |   |-- i
-|   |   |   |-- a -> ../../../
-|   |   |   |-- free
-|   |   |   |   '-- v
-|   |   |   |-- JUNK
-|   |   |   |   '-- test
-|   |   |   |-- lib -> ../../../utils/processing/libraries/
-|   |   |   |-- non-free
-|   |   |   |   '-- v
-|   |   |   |-- tmp
-|   |   |   |-- tmptmp
-|   |   |   '-- TRUNK
-|   |   |       |-- JUNK
-|   |   |       |-- preview
-|   |   |       '-- tmp
-|   |   |-- o
-|   |   |   |-- free
-|   |   |   |   |-- in-between_design
-|   |   |   |   '-- p
-|   |   |   |       '-- web
-|   |   |   '-- non-free
-|   |   |       '-- fr
-|   |   |           '-- A3
-|   |   |               |-- JUNK
-|   |   |               |-- recto
-|   |   |               '-- verso
-|   |   '-- src
-|   |       |-- ibd_1_00
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_01
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_02
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_03
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_04
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_05
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_06
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_07
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_08
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_09
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_10
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       |-- isaac_0_11
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   |-- o
-|   |       |   '-- test
-|   |       |-- isaac_0_12
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   |-- o
-|   |       |   '-- test
-|   |       |-- isaac_0_13
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   |-- o
-|   |       |   '-- test
-|   |       |-- isaac_0_14
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   |-- JUNK
-|   |       |   |   '-- bak
-|   |       |   |-- o
-|   |       |   '-- test
-|   |       |-- isaac_0_15
-|   |       |   |-- application.linux
-|   |       |   |   |-- lib
-|   |       |   |   '-- source
-|   |       |   |-- i -> ../../i
-|   |       |   '-- o
-|   |       '-- isaac_1_00
-|   |           |-- application.linux
-|   |           |   |-- lib
-|   |           |   '-- source
-|   |           |-- i -> ../../i
-|   |           '-- o
-|   |-- lacencyclopedia
-|   |   |-- i
-|   |   |   |-- cols+rows -> ../../lacmachine/i/cols+rows/
-|   |   |   |-- lib -> ../../../utils/processing/libraries/0123/
-|   |   |   |-- list -> ../../../utils/list/
-|   |   |   '-- tiles -> ../../../stock/2007/pipemusic/
-|   |   '-- o
-|   |       '-- free -> ../../lacmachine/o/free
-|   |-- lacinsky
-|   |   |-- doc
-|   |   |   '-- i
-|   |   |       |-- free
-|   |   |       '-- non-free
-|   |   |           '-- v
-|   |   |               '-- logo
-|   |   |                   |-- cdm_mod
-|   |   |                   |-- logalot
-|   |   |                   |-- noten
-|   |   |                   |-- parma-stemma
-|   |   |                   |   '-- typo
-|   |   |                   |-- stiefel
-|   |   |                   '-- teutonengrill
-|   |   |-- i
-|   |   |   |-- a -> ../../../
-|   |   |   |-- free
-|   |   |   |-- lib -> ../../../utils/processing/libraries/0135/
-|   |   |   '-- non-free
-|   |   |       '-- logos
-|   |   |-- o
-|   |   |   |-- free
-|   |   |   |   '-- A3
-|   |   |   '-- non-free
-|   |   |       '-- A3
-|   |   '-- src
-|   |-- lacmachine
-|   |   |-- doc
-|   |   |   '-- i
-|   |   |       |-- a -> ../../../../
-|   |   |       |-- free
-|   |   |       |   |-- p
-|   |   |       |   '-- v
-|   |   |       '-- non-free
-|   |   |           |-- p
-|   |   |           '-- v
-|   |   |-- i
-|   |   |   |-- cols+rows
-|   |   |   |   |-- A3
-|   |   |   |   |   |-- 11x25
-|   |   |   |   |   |-- 13x30
-|   |   |   |   |   |-- 15x13
-|   |   |   |   |   |-- 16x14
-|   |   |   |   |   |-- 16x35
-|   |   |   |   |   |-- 17x15
-|   |   |   |   |   |-- 18x16
-|   |   |   |   |   |-- 20x17
-|   |   |   |   |   |-- 21x18
-|   |   |   |   |   |-- 22x19
-|   |   |   |   |   |-- 23x20
-|   |   |   |   |   |-- 25x22
-|   |   |   |   |   '-- 8x18
-|   |   |   |   |-- mini
-|   |   |   |   |   '-- 3x1
-|   |   |   |   '-- multipage
-|   |   |   |       |-- 13x160
-|   |   |   |       |-- 16x260
-|   |   |   |       |-- 18x650
-|   |   |   |       |-- 20x260
-|   |   |   |       |-- 20x650
-|   |   |   |       '-- 8x200
-|   |   |   |-- free
-|   |   |   |   '-- typo
-|   |   |   |-- lib -> ../../../utils/processing/libraries/0123/
-|   |   |   |-- non-free
-|   |   |   |   '-- typo
-|   |   |   '-- tiles -> ../../../stock/2007/pipemusic/
-|   |   |-- o
-|   |   |   |-- free
-|   |   |   |   |-- A3
-|   |   |   |   |-- encyclopedia -> ../../../../stock/2008/lac2008/encyclopedia/
-|   |   |   |   '-- multipage
-|   |   |   '-- non-free
-|   |   |       |-- A3
-|   |   |       '-- A3_Stadtgarten
-|   |   '-- src
-|   |-- lisl-p
-|   |   |-- i
-|   |   |   |-- free
-|   |   |   |   |-- bash
-|   |   |   |   |-- cols+rows
-|   |   |   |   |   |-- 10x10
-|   |   |   |   |   |-- 11x11
-|   |   |   |   |   |-- 12x12
-|   |   |   |   |   |-- 13x13
-|   |   |   |   |   |-- 14x14
-|   |   |   |   |   |-- 15x15
-|   |   |   |   |   '-- 9x9
-|   |   |   |   |-- combinations
-|   |   |   |   |-- pdf
-|   |   |   |   |   |-- ioextra
-|   |   |   |   |   |-- iohands
-|   |   |   |   |   |-- iominimum
-|   |   |   |   |   '-- letters
-|   |   |   |   |-- reference
-|   |   |   |   '-- svg
-|   |   |   '-- non-free
-|   |   |       '-- svg
-|   |   |-- o
-|   |   |   '-- non-free
-|   |   '-- tmp
-|   |       |-- io-make
-|   |       '-- rotated-pdfs
-|   |-- merelles
-|   |   |-- i
-|   |   |   |-- free
-|   |   |   |   |-- bash
-|   |   |   |   |-- cols+rows
-|   |   |   |   |   '-- 5x4
-|   |   |   |   |       |-- 134738725364788
-|   |   |   |   |       |-- 134738725488764
-|   |   |   |   |       |-- 134738725600513
-|   |   |   |   |       |-- 134738725684880
-|   |   |   |   |       |-- 134738725774885
-|   |   |   |   |       |-- 134738725865437
-|   |   |   |   |       |-- 134738725942046
-|   |   |   |   |       |-- 134738726027470
-|   |   |   |   |       |-- 134738726126048
-|   |   |   |   |       '-- 134738726208035
-|   |   |   |   |-- gif -> ../../o/free/gif/
-|   |   |   |   |-- multilist
-|   |   |   |   |   '-- 5x4
-|   |   |   |   |       |-- 134738725364788
-|   |   |   |   |       |-- 134738725488764
-|   |   |   |   |       |-- 134738725600513
-|   |   |   |   |       |-- 134738725684880
-|   |   |   |   |       |-- 134738725774885
-|   |   |   |   |       |-- 134738725865437
-|   |   |   |   |       |-- 134738725942046
-|   |   |   |   |       |-- 134738726027470
-|   |   |   |   |       |-- 134738726126048
-|   |   |   |   |       '-- 134738726208035
-|   |   |   |   |-- pdf -> ../../o/free/pdf/
-|   |   |   |   |-- reference
-|   |   |   |   '-- svg
-|   |   |   |       |-- archaelogic
-|   |   |   |       |-- construct
-|   |   |   |       |   '-- schmiede12
-|   |   |   |       |-- cut+write
-|   |   |   |       |-- dawn-start
-|   |   |   |       |-- exodusmin
-|   |   |   |       |-- exodusvar
-|   |   |   |       |-- iotomated
-|   |   |   |       |-- lisl-p-mod
-|   |   |   |       |-- lisl-p-tune
-|   |   |   |       |-- minimal
-|   |   |   |       '-- schmiede12
-|   |   |   '-- non-free
-|   |   |       |-- gif -> ../../o/non-free/gif/
-|   |   |       |-- pdf -> ../../o/non-free/pdf/
-|   |   |       '-- svg
-|   |   |           |-- annagrath
-|   |   |           |-- archaelogic
-|   |   |           '-- exodusvar
-|   |   |-- o
-|   |   |   |-- free
-|   |   |   |   |-- gif
-|   |   |   |   |-- pdf
-|   |   |   |   |-- _schmiede12
-|   |   |   |   '-- svg
-|   |   |   |       '-- iotomated
-|   |   |   '-- non-free
-|   |   |       |-- gif
-|   |   |       |-- pdf
-|   |   |       '-- svg
-|   |   |           '-- iotomated
-|   |   |-- src
-|   |   |   |-- iomachine_0_00
-|   |   |   |   |-- i -> ../../i
-|   |   |   |   '-- tmp
-|   |   |   |-- iomachine_0_01
-|   |   |   |   |-- i -> ../../i
-|   |   |   |   '-- tmp
-|   |   |   |-- iomachine_0_02
-|   |   |   |   |-- i -> ../../i
-|   |   |   |   '-- tmp
-|   |   |   |-- iomachine_0_03
-|   |   |   |   |-- i -> ../../i
-|   |   |   |   '-- tmp
-|   |   |   |-- iomachine_0_04
-|   |   |   |   |-- i -> ../../i
-|   |   |   |   '-- tmp
-|   |   |   |-- iomachine_0_05
-|   |   |   |   |-- i -> ../../i
-|   |   |   |   '-- tmp
-|   |   |   |-- iomachine_0_06
-|   |   |   |   |-- i -> ../../i
-|   |   |   |   '-- tmp
-|   |   |   |-- iomachine_0_07
-|   |   |   |   |-- i -> ../../i
-|   |   |   |   '-- tmp
-|   |   |   |-- iomachine_0_08
-|   |   |   |   |-- i -> ../../i
-|   |   |   |   '-- tmp
-|   |   |   |-- iomachine_0_09
-|   |   |   |   |-- application.linux
-|   |   |   |   |   |-- lib
-|   |   |   |   |   '-- source
-|   |   |   |   '-- i -> ../../i
-|   |   |   '-- iomachine_1_00
-|   |   |       |-- application.linux
-|   |   |       |   |-- lib
-|   |   |       |   '-- source
-|   |   |       '-- i -> ../../i
-|   |   '-- tmp
-|   |       |-- combinations
-|   |       '-- io-make
-|   |-- minimarticls
-|   |   |-- i
-|   |   |   '-- lib -> ../../../utils/processing/libraries/0123/
-|   |   |-- o -> ../../stock/2007/minimarticls/
-|   |   '-- src
-|   |-- osk
-|   |   |-- arnolfini
-|   |   |   |-- doc
-|   |   |   |   |-- i
-|   |   |   |   |   |-- free
-|   |   |   |   |   '-- non-free
-|   |   |   |   '-- tmp
-|   |   |   |-- sc
-|   |   |   |   '-- Extensions
-|   |   |   |       '-- Classes
-|   |   |   |-- scripts
-|   |   |   '-- snd
-|   |   |-- FILE
-|   |   |   |-- rio_de_janeiro
-|   |   |   '-- sao_paulo
-|   |   |-- mu
-|   |   |   |-- cfg
-|   |   |   |-- doc
-|   |   |   |   |-- i
-|   |   |   |   |   |-- free
-|   |   |   |   |   '-- non-free
-|   |   |   |   '-- tmp
-|   |   |   |-- log
-|   |   |   |-- sc
-|   |   |   |   '-- Extensions
-|   |   |   |       '-- Classes
-|   |   |   |-- scripts
-|   |   |   |-- snd
-|   |   |   '-- tmp
-|   |   '-- nimk
-|   |-- r+w
-|   |   |-- doc
-|   |   |   |-- free
-|   |   |   |   |-- logo
-|   |   |   |   |-- mockups
-|   |   |   |   |-- process
-|   |   |   |   |-- produced
-|   |   |   |   '-- production
-|   |   |   '-- non-free
-|   |   |       '-- posterevolution
-|   |   |-- i
-|   |   |   '-- free
-|   |   |       |-- fonts
-|   |   |       |-- png
-|   |   |       |   |-- interface
-|   |   |       |   '-- people
-|   |   |       |-- svg
-|   |   |       |   |-- made
-|   |   |       |   |-- people
-|   |   |       |   '-- src
-|   |   |       '-- voice -> ../../o/free/voice/
-|   |   |-- o
-|   |   |   |-- __
-|   |   |   |-- free
-|   |   |   |   |-- pdf
-|   |   |   |   |   '-- people
-|   |   |   |   |-- sla
-|   |   |   |   '-- voice
-|   |   |   '-- press
-|   |   |       |-- cmyk
-|   |   |       |-- fonts
-|   |   |       |-- monochrome
-|   |   |       '-- rgb
-|   |   |-- src
-|   |   |   '-- fontplate_1_00
-|   |   |       |-- application.linux
-|   |   |       |   |-- lib
-|   |   |       |   '-- source
-|   |   |       '-- i -> ../../i/
-|   |   '-- tmp
-|   |-- swaperex
-|   |   |-- i
-|   |   |   |-- free
-|   |   |   |   '-- bash
-|   |   |   '-- non-free
-|   |   |       |-- pdf
-|   |   |       '-- svg
-|   |   |-- o
-|   |   |   |-- A2
-|   |   |   '-- A3
-|   |   '-- tmp
-|   |       '-- combinations
-|   |-- va300
-|   |   |-- LIVE
-|   |   |   |-- berlin
-|   |   |   |   '-- i
-|   |   |   |       '-- non-free
-|   |   |   |           '-- v
-|   |   |   |               |-- artists
-|   |   |   |               |-- info
-|   |   |   |               '-- logos
-|   |   |   '-- i
-|   |   |       '-- non-free
-|   |   |           '-- v
-|   |   |               |-- artists
-|   |   |               |-- info
-|   |   |               '-- logos
-|   |   '-- PRINT
-|   |       |-- i
-|   |       |   |-- free
-|   |       |   |   '-- v
-|   |       |   |-- lib -> ../../../../utils/processing/libraries/
-|   |       |   '-- non-free
-|   |       |       '-- v
-|   |       |           |-- artists
-|   |       |           |-- info
-|   |       |           '-- logos
-|   |       |-- o
-|   |       |   |-- free
-|   |       |   |   |-- A3
-|   |       |   |   '-- A4
-|   |       |   '-- non-free
-|   |       |       |-- 70100
-|   |       |       |-- A2
-|   |       |       |-- A3
-|   |       |       |-- A4
-|   |       |       '-- STICKERSHEET
-|   |       '-- src
-|   |           '-- geofisic_1_13
-|   |               |-- application.linux
-|   |               |   |-- lib
-|   |               |   '-- source
-|   |               |-- i -> ../../i/
-|   |               '-- o
-|   |                   '-- non-free
-|   |                       |-- 70100
-|   |                       |-- A2
-|   |                       |-- A3
-|   |                       '-- A4
-|   |-- vj14
-|   |   |-- i
-|   |   |   |-- free
-|   |   |   |   |-- jpg
-|   |   |   |   |-- png
-|   |   |   |   |-- svg
-|   |   |   |   '-- var
-|   |   |   '-- non-free
-|   |   |       '-- svg
-|   |   '-- o
-|   |       |-- free
-|   |       |   |-- PRINT
-|   |       |   |-- svg
-|   |       |   '-- var
-|   |       '-- non-free
-|   |           '-- var
-|   '-- wtf
-|       |-- doc
-|       |   '-- i
-|       |       |-- free
-|       |       |   |-- p
-|       |       |   '-- v
-|       |       |       '-- lsheadheadtail
-|       |       '-- non-free
-|       |           |-- p
-|       |           '-- v
-|       |               |-- breakthegrid
-|       |               |-- logodropouts
-|       |               '-- posterevolution
-|       |                   |-- 090729
-|       |                   |   '-- A2
-|       |                   |-- 090802
-|       |                   |   '-- A2
-|       |                   |-- 090805
-|       |                   |   |-- A0
-|       |                   |   '-- A3
-|       |                   |-- 090806
-|       |                   |   |-- A0
-|       |                   |   |-- A1
-|       |                   |   |-- A2
-|       |                   |   '-- A3
-|       |                   |-- 090810
-|       |                   |   '-- A1
-|       |                   |-- 090811
-|       |                   |   '-- A3
-|       |                   |-- 090820
-|       |                   |   '-- A3
-|       |                   |-- 090902
-|       |                   |   '-- A3
-|       |                   |-- 090904
-|       |                   |   '-- A3
-|       |                   |-- 090907
-|       |                   |   '-- A3
-|       |                   |-- 090909
-|       |                   |   '-- A3
-|       |                   |-- 090910
-|       |                   |   '-- A3
-|       |                   |-- 090911
-|       |                   |   '-- A3
-|       |                   |-- 090912
-|       |                   |   '-- A3
-|       |                   '-- 090915
-|       |                       |-- A1
-|       |                       '-- A3
-|       |-- i
-|       |   |-- a -> ../../../
-|       |   |-- free
-|       |   |   '-- logos
-|       |   |       |-- en
-|       |   |       '-- fr
-|       |   |-- lib -> ../../../utils/processing/libraries/
-|       |   |-- locale
-|       |   |-- non-free
-|       |   |   '-- logos
-|       |   |       |-- en
-|       |   |       '-- fr
-|       |   |-- p
-|       |   |-- src
-|       |   |   |-- are
-|       |   |   |-- aut
-|       |   |   |-- bib
-|       |   |   |-- box
-|       |   |   |-- che
-|       |   |   |-- crc
-|       |   |   |-- esp
-|       |   |   |-- flg
-|       |   |   |-- geo
-|       |   |   |-- iro
-|       |   |   |-- mem
-|       |   |   |-- naz
-|       |   |   |-- pgs
-|       |   |   |-- see
-|       |   |   |-- sho
-|       |   |   |-- sub
-|       |   |   |-- tra
-|       |   |   '-- typ
-|       |   '-- tmp
-|       '-- o
-|           |-- free
-|           |   |-- en
-|           |   |   |-- A1
-|           |   |   |-- A2
-|           |   |   '-- A3
-|           |   '-- fr
-|           |       |-- A1
-|           |       |-- A2
-|           |       '-- A3
-|           '-- non-free
-|               |-- en
-|               |   |-- A1
-|               |   |-- A2
-|               |   |-- A3
-|               |   '-- flyer
-|               |       '-- recto
-|               '-- fr
-|                   |-- A1
-|                   |-- A2
-|                   |-- A3
-|                   |-- flyer
-|                   |   '-- recto
-|                   '-- panel
-|-- stock
-|   |-- 2001
-|   |   |-- abacost
-|   |   '-- dreamstar
-|   |-- 2002
-|   |-- 2003
-|   |-- 2005
-|   |   |-- boppel
-|   |   |-- celebs
-|   |   |-- microparts
-|   |   |   |-- micropaa
-|   |   |   |-- micropab
-|   |   |   |-- micropac
-|   |   |   |-- micropad
-|   |   |   |-- micropae
-|   |   |   |-- micropaf
-|   |   |   |-- micropag
-|   |   |   |-- micropah
-|   |   |   |-- micropai
-|   |   |   |-- micropaj
-|   |   |   |-- micropak
-|   |   |   |-- micropal
-|   |   |   |-- micropam
-|   |   |   |-- micropan
-|   |   |   |-- micropao
-|   |   |   |-- micropap
-|   |   |   |-- micropaq
-|   |   |   |-- micropar
-|   |   |   '-- micropas
-|   |   '-- xurlandps
-|   |-- 2006
-|   |-- 2007
-|   |   |-- beletons
-|   |   |-- brehmx
-|   |   |-- featherlight
-|   |   |-- floris
-|   |   |-- minimarticls
-|   |   '-- pipemusic
-|   |       '-- non-free
-|   |-- 2008
-|   |   |-- brd
-|   |   |-- elytrigia
-|   |   |-- hoffmann
-|   |   |-- lac2008
-|   |   |   '-- encyclopedia
-|   |   |-- micro
-|   |   '-- sldd
-|   |-- 2009
-|   |   |-- 191pages
-|   |   |-- chapel
-|   |   |-- eatoy
-|   |   |-- fance
-|   |   |-- lac2009
-|   |   |-- laclines
-|   |   |   |-- laap
-|   |   |   '-- tttoem
-|   |   |-- lacouts
-|   |   |-- liikennemerkki
-|   |   |   |-- additional
-|   |   |   |-- informatory
-|   |   |   |-- mandatory
-|   |   |   |-- obsolete
-|   |   |   |-- priority
-|   |   |   |-- prohibitory
-|   |   |   |-- special
-|   |   |   '-- warning
-|   |   |-- npsb
-|   |   |-- npsw
-|   |   |-- strisone
-|   |   '-- stvo
-|   |-- 2010
-|   |   |-- dit
-|   |   '-- hausen
-|   |-- 2011
-|   '-- 2012
-|-- utils
-|   |-- fonts
-|   |   '-- figlet
-|   |-- graphics
-|   |   |-- blank
-|   |   |-- logos
-|   |   |   |-- free
-|   |   |   '-- non-free
-|   |   |-- signs
-|   |   '-- watermarks
-|   |-- hardware
-|   |   |-- anausan
-|   |   |-- DraftPro-DXL
-|   |   |-- piccolo
-|   |   '-- QL-570
-|   |-- latex
-|   |   |-- commands
-|   |   |   '-- JUNK
-|   |   |-- documentation
-|   |   |   '-- metafont-tutorial
-|   |   '-- sty
-|   |       |-- bst
-|   |       |-- i
-|   |       |-- JUNK
-|   |       |-- LAC2008-LaTeX-template
-|   |       |   |-- latex
-|   |       |   '-- openoffice
-|   |       '-- PDConv07-LaTeX-template
-|   |-- licenses
-|   |   |-- fal
-|   |   |-- gfdl
-|   |   |-- gpl
-|   |   '-- ocl
-|   |-- list
-|   |   |-- creatures
-|   |   |-- definitions
-|   |   |-- fav
-|   |   |-- headlessMouse
-|   |   |   '-- A4
-|   |   |-- names
-|   |   |-- nouns
-|   |   |-- surroundings
-|   |   |-- svg
-|   |   |   |-- 2008
-|   |   |   |-- 2009
-|   |   |   '-- 2010
-|   |   |-- tools
-|   |   |-- var
-|   |   |-- verbs
-|   |   '-- words
-|   |-- man
-|   |-- processing
-|   |   |-- documentation
-|   |   |   |-- geomerative
-|   |   |   |   '-- images
-|   |   |   '-- rita
-|   |   |-- libraries
-|   |   |   |-- 0123
-|   |   |   |-- 0135
-|   |   |   |-- 1030
-|   |   |   '-- 1050
-|   |   '-- sketches
-|   |       |-- generative-gestaltung
-|   |       |   |-- M_1_5_01
-|   |       |   |   |-- i
-|   |       |   |   '-- tmp
-|   |       |   |-- M_1_5_03_TOOL
-|   |       |   |   '-- tmp
-|   |       |   |-- M_5_3_01
-|   |       |   |   '-- tmp
-|   |       |   |-- P_2_0_01
-|   |       |   |   '-- tmp
-|   |       |   |-- P_2_0_02
-|   |       |   |   '-- tmp
-|   |       |   |-- P_2_1_1_01
-|   |       |   |   '-- tmp
-|   |       |   |-- P_2_1_1_03
-|   |       |   |   '-- tmp
-|   |       |   |-- P_2_1_1_04
-|   |       |   |   |-- i
-|   |       |   |   '-- tmp
-|   |       |   |-- P_2_1_3_01
-|   |       |   |   '-- tmp
-|   |       |   |-- P_2_1_3_02
-|   |       |   |   '-- tmp
-|   |       |   |-- P_2_2_1_01
-|   |       |   |   '-- tmp
-|   |       |   |-- P_2_2_2_01
-|   |       |   |   '-- tmp
-|   |       |   '-- P_2_2_5_01
-|   |       |       '-- tmp
-|   |       '-- processing-book-001
-|   |           |-- Appendixes
-|   |           |   |-- Appendix_A
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   '-- _04
-|   |           |   |-- Appendix_B
-|   |           |   |   |-- _01
-|   |           |   |   '-- _02
-|   |           |   |-- Appendix_D
-|   |           |   |   '-- _01
-|   |           |   '-- Appendix_E
-|   |           |       |-- _01
-|   |           |       |-- _02
-|   |           |       |-- _03
-|   |           |       |-- _04
-|   |           |       |-- _05
-|   |           |       |-- _06
-|   |           |       |-- _07
-|   |           |       |-- _08
-|   |           |       |-- _09
-|   |           |       '-- _10
-|   |           |-- Extensions
-|   |           |   |-- 3D
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   '-- _09
-|   |           |   |       '-- data
-|   |           |   |-- Electronics
-|   |           |   |   |-- _01A
-|   |           |   |   |-- _01B
-|   |           |   |   |-- _02A
-|   |           |   |   |-- _02B
-|   |           |   |   |-- _03A
-|   |           |   |   |-- _03B
-|   |           |   |   |-- _04A
-|   |           |   |   |-- _04B
-|   |           |   |   |-- _05A
-|   |           |   |   '-- _05B
-|   |           |   |-- Mobile
-|   |           |   |   |-- _01
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   '-- _08
-|   |           |   |-- Network
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02A
-|   |           |   |   |-- _02B
-|   |           |   |   |-- _03
-|   |           |   |   '-- _04
-|   |           |   |       '-- data
-|   |           |   |-- Print
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   '-- _06
-|   |           |   |-- Sound
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _04
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _05
-|   |           |   |       '-- data
-|   |           |   '-- Vision
-|   |           |       |-- _01
-|   |           |       |-- _02
-|   |           |       |-- _03
-|   |           |       '-- _04
-|   |           |-- Illustrations
-|   |           |   |-- page_022
-|   |           |   |   '-- tmp
-|   |           |   |-- page_042
-|   |           |   |   '-- tmp
-|   |           |   |-- page_060
-|   |           |   |   '-- tmp
-|   |           |   |-- page_078
-|   |           |   |   '-- tmp
-|   |           |   |-- page_094
-|   |           |   |   '-- data
-|   |           |   |-- page_100
-|   |           |   |-- page_110
-|   |           |   |-- page_126
-|   |           |   |-- page_136
-|   |           |   |-- page_144
-|   |           |   |   '-- tmp
-|   |           |   |-- page_148
-|   |           |   |   '-- data
-|   |           |   |-- page_172
-|   |           |   |   '-- tmp
-|   |           |   |-- page_216
-|   |           |   |   '-- data
-|   |           |   |-- page_222
-|   |           |   |-- page_228
-|   |           |   |-- page_250
-|   |           |   |-- page_254
-|   |           |   |   '-- tmp
-|   |           |   |-- page_278
-|   |           |   |-- page_290
-|   |           |   |   '-- tmp
-|   |           |   |-- page_300
-|   |           |   |   '-- tmp
-|   |           |   |-- page_314
-|   |           |   |   '-- data
-|   |           |   |-- page_326
-|   |           |   |-- page_346
-|   |           |   |-- page_366
-|   |           |   |-- page_394
-|   |           |   |   '-- tmp
-|   |           |   |-- page_412
-|   |           |   |-- page_420
-|   |           |   |-- page_476
-|   |           |   |   '-- tmp
-|   |           |   '-- page_xx
-|   |           |-- Synthesis
-|   |           |   |-- _01_collage
-|   |           |   |   |-- _01_collage
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _02_collage
-|   |           |   |       '-- data
-|   |           |   |-- _02_waves
-|   |           |   |   |-- _01_waves
-|   |           |   |   |-- _02_waves
-|   |           |   |   |-- _03_waves
-|   |           |   |   |-- _04_waves
-|   |           |   |   '-- _05_waves
-|   |           |   |-- _03_grids
-|   |           |   |   |-- _01_grids
-|   |           |   |   |-- _02_grids
-|   |           |   |   |-- _03_grids
-|   |           |   |   |-- _04_grids
-|   |           |   |   '-- _05_grids
-|   |           |   |-- _04_mandelbrot
-|   |           |   |-- _05_tennis
-|   |           |   |-- _06_cursor
-|   |           |   |   '-- data
-|   |           |   |-- _07_typing
-|   |           |   |   '-- data
-|   |           |   |-- _08_clock
-|   |           |   |-- _09_centipede
-|   |           |   |-- _10_chronodraw
-|   |           |   |-- _11_amoebaAbstract
-|   |           |   |-- _12_robot
-|   |           |   |   '-- data
-|   |           |   |-- _13_withoutTitle
-|   |           |   |   '-- data
-|   |           |   |-- _14_pond
-|   |           |   |-- _15_tree
-|   |           |   |   '-- data
-|   |           |   '-- _16_sodaprocessing
-|   |           |       '-- data
-|   |           |-- Units_00-17
-|   |           |   |-- 00_Using_Processing
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   '-- _08
-|   |           |   |-- 01_Structure_1
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   '-- _07
-|   |           |   |-- 02_Shape_1
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   |-- _13
-|   |           |   |   |-- _14
-|   |           |   |   |-- _15
-|   |           |   |   |-- _16
-|   |           |   |   |-- _17
-|   |           |   |   |-- _18
-|   |           |   |   |-- _19
-|   |           |   |   |-- _20
-|   |           |   |   |-- _21
-|   |           |   |   |-- _22
-|   |           |   |   |-- _23
-|   |           |   |   |-- _24
-|   |           |   |   |-- _25
-|   |           |   |   |-- _26
-|   |           |   |   |-- _27
-|   |           |   |   |-- _28
-|   |           |   |   |-- _29
-|   |           |   |   |-- _30
-|   |           |   |   |-- _31
-|   |           |   |   |-- _32
-|   |           |   |   |-- _33
-|   |           |   |   |-- _34
-|   |           |   |   |-- _35
-|   |           |   |   |-- _36
-|   |           |   |   |-- _37
-|   |           |   |   |-- _38
-|   |           |   |   |-- _39
-|   |           |   |   |-- _40
-|   |           |   |   '-- _41
-|   |           |   |-- 03_Data_1
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   '-- _11
-|   |           |   |-- 04_Math_1
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   |-- _13
-|   |           |   |   |-- _14
-|   |           |   |   |-- _15
-|   |           |   |   |-- _16
-|   |           |   |   |-- _17
-|   |           |   |   |-- _18
-|   |           |   |   |-- _19
-|   |           |   |   |-- _20
-|   |           |   |   |-- _21
-|   |           |   |   |-- _22
-|   |           |   |   |-- _23
-|   |           |   |   |-- _24
-|   |           |   |   |-- _25
-|   |           |   |   '-- _26
-|   |           |   |-- 05_Control_1
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   '-- _13
-|   |           |   |-- 06_Control_2
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   '-- _13
-|   |           |   |-- 07_Shape_2
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   |-- _13
-|   |           |   |   |-- _14
-|   |           |   |   |-- _15
-|   |           |   |   |-- _16
-|   |           |   |   |-- _17
-|   |           |   |   '-- _18
-|   |           |   |-- 08_Math_2
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   '-- _12
-|   |           |   |-- 09_Color_1
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   |-- _13
-|   |           |   |   |-- _14
-|   |           |   |   |-- _15
-|   |           |   |   |-- _16
-|   |           |   |   |-- _17
-|   |           |   |   |-- _18
-|   |           |   |   |-- _19
-|   |           |   |   |-- _20
-|   |           |   |   '-- _21
-|   |           |   |-- 10_Image_1
-|   |           |   |   |-- _01
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _02
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _03
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _04
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _05
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _06
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _07
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _08
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _09
-|   |           |   |       '-- data
-|   |           |   |-- 11_Data_2
-|   |           |   |   |-- _01
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _02
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _03
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _04
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _05
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _06
-|   |           |   |       '-- data
-|   |           |   |-- 12_Data_3
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   |-- _13
-|   |           |   |   |-- _14
-|   |           |   |   '-- _15
-|   |           |   |-- 13_Typography_1
-|   |           |   |   |-- _01
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _02
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _03
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _04
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _05
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _06
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _07
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _08
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _09
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _10
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _11
-|   |           |   |       '-- data
-|   |           |   |-- 14_Math_3
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   |-- _13
-|   |           |   |   |-- _14
-|   |           |   |   |-- _15
-|   |           |   |   |-- _16
-|   |           |   |   '-- _17
-|   |           |   |-- 15_Math_4
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   '-- _10
-|   |           |   |-- 16_Transform_1
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   '-- _06
-|   |           |   '-- 17_Transform_2
-|   |           |       |-- _01
-|   |           |       |-- _02
-|   |           |       |-- _03
-|   |           |       |-- _04
-|   |           |       |-- _05
-|   |           |       |-- _06
-|   |           |       |-- _07
-|   |           |       |-- _08
-|   |           |       |-- _09
-|   |           |       |-- _10
-|   |           |       |-- _11
-|   |           |       |-- _12
-|   |           |       |-- _13
-|   |           |       |-- _14
-|   |           |       |-- _15
-|   |           |       |-- _16
-|   |           |       '-- _17
-|   |           |-- Units_20-29
-|   |           |   |-- 20_Structure_2
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   '-- _13
-|   |           |   |-- 21_Structure_3
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   |-- _13
-|   |           |   |   |-- _14
-|   |           |   |   |-- _15
-|   |           |   |   |-- _16
-|   |           |   |   |-- _17
-|   |           |   |   |-- _18
-|   |           |   |   |-- _19
-|   |           |   |   '-- _20
-|   |           |   |-- 22_Shape_3
-|   |           |   |   |-- _01
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   '-- _11
-|   |           |   |-- 23_Input_1
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   |-- _13
-|   |           |   |   |-- _14
-|   |           |   |   |-- _15
-|   |           |   |   |-- _16
-|   |           |   |   |-- _17
-|   |           |   |   |-- _18
-|   |           |   |   |-- _19
-|   |           |   |   '-- _20
-|   |           |   |-- 24_Drawing_1
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _09
-|   |           |   |       '-- data
-|   |           |   |-- 25_Input_2
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   '-- _07
-|   |           |   |-- 26_Input_3
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _08
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _09
-|   |           |   |   '-- _10
-|   |           |   |-- 27_Input_4
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   '-- _12
-|   |           |   '-- 28_Input_5
-|   |           |       |-- _01
-|   |           |       |-- _02
-|   |           |       |-- _03
-|   |           |       |   '-- data
-|   |           |       |-- _04
-|   |           |       |-- _05
-|   |           |       |-- _06
-|   |           |       |-- _07
-|   |           |       |-- _08
-|   |           |       |-- _09
-|   |           |       '-- _10
-|   |           |-- Units_31-42
-|   |           |   |-- 31_Motion_1
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   '-- _13
-|   |           |   |-- 32_Motion_2
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   '-- _09
-|   |           |   |-- 33_Data_4
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |-- _12
-|   |           |   |   |-- _13
-|   |           |   |   |-- _14
-|   |           |   |   |-- _15
-|   |           |   |   |-- _16
-|   |           |   |   |-- _17
-|   |           |   |   |-- _18
-|   |           |   |   |-- _19
-|   |           |   |   |-- _20
-|   |           |   |   |-- _21
-|   |           |   |   |-- _22
-|   |           |   |   |-- _23
-|   |           |   |   '-- _24
-|   |           |   |-- 34_Image_2
-|   |           |   |   |-- _01
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _02
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _03
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _04
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _05
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _06
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _07
-|   |           |   |       '-- data
-|   |           |   |-- 35_Image_3
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _05
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _06
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _07
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _08
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _09
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _12
-|   |           |   |       '-- data
-|   |           |   |-- 36_Typography_2
-|   |           |   |   |-- _01
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _02
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _03
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _04
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _05
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _06
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _07
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _08
-|   |           |   |       '-- data
-|   |           |   |-- 37_Typography_3
-|   |           |   |   |-- _01
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _02
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _03
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _04
-|   |           |   |       '-- data
-|   |           |   |-- 38_Color_2
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |-- _07
-|   |           |   |   |-- _08
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _09
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _10
-|   |           |   |   |-- _11
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _12
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _13
-|   |           |   |       '-- data
-|   |           |   |-- 39_Image_4
-|   |           |   |   |-- _01
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _05
-|   |           |   |   |-- _06
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _07
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _08
-|   |           |   |   |-- _09
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _10
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _11
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _12
-|   |           |   |       '-- data
-|   |           |   |-- 40_Image_5
-|   |           |   |   |-- _01
-|   |           |   |   |-- _02
-|   |           |   |   |-- _03
-|   |           |   |   |-- _04
-|   |           |   |   |-- _05
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _06
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _07
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _08
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _09
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _10
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _11
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _12
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _13
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _14
-|   |           |   |   |   '-- data
-|   |           |   |   |-- _15
-|   |           |   |   |   '-- data
-|   |           |   |   '-- _16
-|   |           |   |       '-- data
-|   |           |   '-- 41_Output_1
-|   |           |       |-- _01
-|   |           |       |-- _02
-|   |           |       |-- _03
-|   |           |       |-- _04
-|   |           |       |-- _05
-|   |           |       '-- _06
-|   |           '-- Units_43-51
-|   |               |-- 43_Structure_4
-|   |               |   |-- _01
-|   |               |   |-- _02
-|   |               |   |-- _03
-|   |               |   |-- _04
-|   |               |   |-- _05
-|   |               |   |-- _06
-|   |               |   |-- _07
-|   |               |   |-- _08
-|   |               |   |-- _09
-|   |               |   |-- _10
-|   |               |   |-- _11
-|   |               |   '-- _12
-|   |               |-- 44_Drawing_2
-|   |               |   |-- _01
-|   |               |   |-- _02
-|   |               |   |-- _03
-|   |               |   |-- _04
-|   |               |   |-- _05
-|   |               |   '-- _06
-|   |               |-- 45_Output_2
-|   |               |   |-- _01
-|   |               |   |-- _02
-|   |               |   |-- _03
-|   |               |   |-- _04
-|   |               |   '-- _05
-|   |               |       '-- data
-|   |               |-- 46_Input_6
-|   |               |   |-- _01
-|   |               |   |   '-- data
-|   |               |   |-- _02
-|   |               |   |-- _03
-|   |               |   |-- _04
-|   |               |   |-- _05
-|   |               |   |   '-- data
-|   |               |   |-- _06
-|   |               |   |   '-- data
-|   |               |   '-- _07
-|   |               |       '-- data
-|   |               |-- 47_Input_7
-|   |               |   |-- _01
-|   |               |   |-- _02
-|   |               |   |-- _03
-|   |               |   |-- _04
-|   |               |   |-- _05
-|   |               |   |-- _06
-|   |               |   |-- _07
-|   |               |   |-- _08
-|   |               |   |-- _09
-|   |               |   |-- _10
-|   |               |   |-- _11
-|   |               |   |-- _12
-|   |               |   |-- _13
-|   |               |   |-- _14
-|   |               |   |-- _15
-|   |               |   |   '-- data
-|   |               |   '-- _16
-|   |               |       '-- data
-|   |               |-- 48_Structure_5
-|   |               |   |-- _01
-|   |               |   |-- _02
-|   |               |   |-- _03
-|   |               |   |-- _04
-|   |               |   |-- _05
-|   |               |   |-- _06
-|   |               |   |-- _07
-|   |               |   |-- _08
-|   |               |   |-- _09
-|   |               |   '-- _10
-|   |               |-- 49_Simulate_1
-|   |               |   |-- _01
-|   |               |   |-- _02
-|   |               |   |-- _03
-|   |               |   |-- _04
-|   |               |   '-- _05
-|   |               '-- 50_Simulate_2
-|   |                   |-- _01
-|   |                   |-- _02
-|   |                   |-- _03
-|   |                   |-- _04
-|   |                   |-- _05
-|   |                   |-- _06
-|   |                   |-- _07
-|   |                   |-- _08
-|   |                   |-- _09
-|   |                   |-- _10
-|   |                   |-- _11
-|   |                   |-- _12
-|   |                   |-- _13
-|   |                   |-- _14
-|   |                   |-- _15
-|   |                   |-- _16
-|   |                   |-- _17
-|   |                   |-- _18
-|   |                   |-- _19
-|   |                   '-- _20
-|   |-- random
-|   |   |-- blog
-|   |   |-- directory
-|   |   |-- i
-|   |   |-- man
-|   |   |-- o
-|   |   |-- readme
-|   |   '-- seeme
-|   |-- sound
-|   |-- statistics
-|   |-- talks+papers
-|   |   |-- crosslab-2010
-|   |   |   '-- i
-|   |   |       |-- a -> ../../../../
-|   |   |       |-- free
-|   |   |       '-- non-free
-|   |   |-- lisl-2011
-|   |   |   |-- i
-|   |   |   |   |-- free
-|   |   |   |   |   '-- bitmaps
-|   |   |   |   '-- non-free
-|   |   |   |-- o
-|   |   |   |   '-- slides
-|   |   |   '-- tmp
-|   |   |-- liwoli-2009
-|   |   |   |-- i
-|   |   |   |   |-- a -> ../../../../
-|   |   |   |   |-- free
-|   |   |   |   |   |-- p
-|   |   |   |   |   |   |-- derivatives
-|   |   |   |   |   |   '-- use_vdb
-|   |   |   |   |   '-- v
-|   |   |   |   |       '-- derivatives
-|   |   |   |   '-- non-free
-|   |   |   |       |-- p
-|   |   |   |       '-- v
-|   |   |   '-- o
-|   |   |       '-- download
-|   |   '-- makeart-2009
-|   |       '-- i
-|   |           |-- a -> ../../../../
-|   |           |-- free
-|   |           |   |-- p
-|   |           |   |   |-- 0000--VJ
-|   |           |   |   '-- screenshots
-|   |           |   '-- v
-|   |           '-- non-free
-|   |               |-- p
-|   |               '-- v
-|   |                   '-- khmvv
-|   |-- texts
-|   |   |-- 0NLINE-BUT-NOT-FREE
-|   |   |   |-- craphound.com
-|   |   |   |   '-- printcrime
-|   |   |   |-- digitalartistshandbook.org
-|   |   |   |   |-- commandlinepoetics
-|   |   |   |   |   '-- i
-|   |   |   |   |       '-- a -> ../../../../../../
-|   |   |   |   '-- puredataflow
-|   |   |   |       '-- i
-|   |   |   |           '-- a -> ../../../../../../
-|   |   |   |-- manovich.net
-|   |   |   |-- rejon.org
-|   |   |   |-- ubu.wfmu.org
-|   |   |   '-- wall.org
-|   |   |       '-- the_first_postmodern_computer_language
-|   |   |-- cramer.plaintext.cc
-|   |   |   |-- executable_statements
-|   |   |   |-- open_content
-|   |   |   '-- what_does_open_mean_in_digital_arts
-|   |   |-- freebeer.org
-|   |   |   |-- appendix
-|   |   |   |-- bibtex
-|   |   |   |-- chapters
-|   |   |   |-- media
-|   |   |   '-- pdf
-|   |   |-- gnu.org
-|   |   |-- goto10.org
-|   |   |   '-- FLOSS+Art.v1.1.eBook-GOTO10
-|   |   |       |-- chapters
-|   |   |       |-- cover
-|   |   |       |-- fonts
-|   |   |       |   |-- Gentium102
-|   |   |       |   |-- liberation-fonts-1.04
-|   |   |       |   |-- Libertinage-ofl
-|   |   |       |   |-- LinLibertineFont
-|   |   |       |   '-- NotCourier-sans-package
-|   |   |       |-- images
-|   |   |       |-- logos
-|   |   |       '-- pdf
-|   |   |-- gutenberg.org
-|   |   '-- opensource.mit.edu
-|   '-- vektorconverter
-'-- workshop
-    |-- badcon
-    |   '-- doc
-    |       '-- 130219
-    |-- bag
-    |   |-- i
-    |   |   |-- a -> ../../../
-    |   |   |-- free
-    |   |   |   |-- p
-    |   |   |   '-- v
-    |   |   |-- non-free
-    |   |   |   |-- p
-    |   |   |   |   '-- font_preparation
-    |   |   |   '-- v
-    |   |   '-- tmp
-    |   |-- o
-    |   '-- participants
-    |       |-- albert
-    |       |   |-- i
-    |       |   |   |-- a -> ../../../../../
-    |       |   |   |-- free
-    |       |   |   |-- non-free
-    |       |   |   '-- tmp
-    |       |   '-- o
-    |       |-- aymeric
-    |       |   |-- i
-    |       |   |   |-- a -> ../../../../../
-    |       |   |   |-- free
-    |       |   |   |-- non-free
-    |       |   |   '-- tmp
-    |       |   '-- o
-    |       |-- birgit
-    |       |   |-- i
-    |       |   |   |-- a -> ../../../../../
-    |       |   |   |-- free
-    |       |   |   |-- non-free
-    |       |   |   '-- tmp
-    |       |   '-- o
-    |       |-- christoph
-    |       |   |-- i
-    |       |   |   |-- a -> ../../../../../
-    |       |   |   |-- free
-    |       |   |   |   |-- p
-    |       |   |   |   '-- v
-    |       |   |   |-- metapost
-    |       |   |   |-- non-free
-    |       |   |   |-- testing
-    |       |   |   '-- tmp
-    |       |   '-- o
-    |       |       '-- free
-    |       |           '-- v
-    |       |               '-- differentdithers
-    |       |-- dar
-    |       |   |-- i
-    |       |   |   |-- a -> ../../../../../
-    |       |   |   |-- free
-    |       |   |   |-- non-free
-    |       |   |   '-- tmp
-    |       |   '-- o
-    |       |-- emanuele
-    |       |   |-- i
-    |       |   |   |-- a -> ../../../../../
-    |       |   |   |-- free
-    |       |   |   |-- non-free
-    |       |   |   '-- tmp
-    |       |   '-- o
-    |       |-- krhenry
-    |       |   |-- i
-    |       |   |   |-- a -> ../../../../../
-    |       |   |   |-- free
-    |       |   |   |-- non-free
-    |       |   |   '-- tmp
-    |       |   '-- o
-    |       |-- loredana
-    |       |   |-- i
-    |       |   |   |-- a -> ../../../../../
-    |       |   |   |-- free
-    |       |   |   |-- non-free
-    |       |   |   '-- tmp
-    |       |   |-- lo
-    |       |   |-- lo1
-    |       |   |-- lo2
-    |       |   '-- o
-    |       |-- maxmustermann
-    |       |   |-- i
-    |       |   |   |-- a -> ../../../../../
-    |       |   |   |-- free
-    |       |   |   |-- non-free
-    |       |   |   '-- tmp
-    |       |   '-- o
-    |       |-- megan
-    |       |   |-- i
-    |       |   |   |-- a -> ../../../../../
-    |       |   |   |-- free
-    |       |   |   |-- non-free
-    |       |   |   '-- tmp
-    |       |   '-- o
-    |       '-- reneeom
-    |           |-- i
-    |           |   |-- a -> ../../../../../
-    |           |   |-- free
-    |           |   |-- non-free
-    |           |   '-- tmp
-    |           '-- o
-    '-- lisl
-        |-- i
-        |   |-- pdf
-        |   |   |-- alphabets
-        |   |   |   |-- _cmsy10________
-        |   |   |   |-- _Courier_New___
-        |   |   |   |-- _eufm10________
-        |   |   |   |-- _League_Gothic_
-        |   |   |   |-- _Nimbus_Sans_L_
-        |   |   |   '-- _Webdings______
-        |   |   |-- circlefill
-        |   |   |-- circlerandomtransparency
-        |   |   |-- circlestroke
-        |   |   |-- points
-        |   |   |-- polyline
-        |   |   |-- src
-        |   |   |   |-- circlefill
-        |   |   |   |   |-- application.linux
-        |   |   |   |   |   |-- lib
-        |   |   |   |   |   '-- source
-        |   |   |   |   '-- circlefill -> ../../circlefill
-        |   |   |   |-- circlerandomtransparency
-        |   |   |   |   |-- application.linux
-        |   |   |   |   |   |-- lib
-        |   |   |   |   |   '-- source
-        |   |   |   |   '-- circlerandomtransparency -> ../../circlerandomtransparency/
-        |   |   |   |-- circlestroke
-        |   |   |   |   |-- application.linux
-        |   |   |   |   |   |-- lib
-        |   |   |   |   |   '-- source
-        |   |   |   |   '-- circlestroke -> ../../circlestroke
-        |   |   |   |-- points
-        |   |   |   |   |-- application.linux
-        |   |   |   |   |   |-- lib
-        |   |   |   |   |   '-- source
-        |   |   |   |   '-- points -> ../../points
-        |   |   |   '-- polyline
-        |   |   |       |-- application.linux
-        |   |   |       |   |-- lib
-        |   |   |       |   '-- source
-        |   |   |       '-- polyline -> ../../polyline
-        |   |   |-- var
-        |   |   '-- words
-        |   |       |-- _cmsy10________
-        |   |       |-- _Courier_New___
-        |   |       |-- _eufm10________
-        |   |       |-- _League_Gothic_
-        |   |       |-- _Nimbus_Sans_L_
-        |   |       '-- _Webdings______
-        |   '-- svg
-        |-- o
-        |-- participants
-        |   '-- maex
-        |       |-- autotrace_variant
-        |       |-- i
-        |       |   |-- pdf
-        |       |   |-- pdf_gfx
-        |       |   '-- pdf_lynx
-        |       |-- o
-        |       |   |-- pdf
-        |       |   |-- png
-        |       |   |-- png_lynx
-        |       |   '-- poster
-        |       |-- source
-        |       |-- src_old
-        |       '-- tmp
-        '-- tmp
+├── generators
+│   ├── amroxiv
+│   │   ├── i
+│   │   │   ├── free
+│   │   │   │   └── svg
+│   │   │   └── non-free
+│   │   │       └── svg
+│   │   ├── o
+│   │   │   ├── free
+│   │   │   │   ├── sla
+│   │   │   │   └── svg
+│   │   │   └── non-free
+│   │   │       ├── pdf
+│   │   │       ├── sla
+│   │   │       └── svg
+│   │   └── tmp
+│   ├── chmod+x
+│   │   ├── doc
+│   │   │   └── i
+│   │   │       ├── free
+│   │   │       │   └── v
+│   │   │       │       └── neural
+│   │   │       └── non-free
+│   │   │           ├── p
+│   │   │           │   └── logo
+│   │   │           └── v
+│   │   │               ├── 100106
+│   │   │               ├── 100111
+│   │   │               ├── 100113-1707
+│   │   │               ├── 100113-1749
+│   │   │               ├── 100116
+│   │   │               ├── 100117
+│   │   │               │   └── xobject_errors
+│   │   │               ├── 100118
+│   │   │               ├── 100119
+│   │   │               ├── logo
+│   │   │               └── src
+│   │   ├── i
+│   │   │   ├── a -> ../../../
+│   │   │   ├── free
+│   │   │   │   └── v
+│   │   │   │       └── logos
+│   │   │   │           └── layered
+│   │   │   │               └── chmod+x_logo_100105
+│   │   │   ├── lib -> ../../../utils/processing/libraries/
+│   │   │   ├── locale
+│   │   │   ├── non-free
+│   │   │   │   └── v
+│   │   │   │       └── logos
+│   │   │   │           └── layered
+│   │   │   │               └── chmod+x_logo_100105
+│   │   │   └── tmp
+│   │   │       ├── collected
+│   │   │       ├── collected-google-images
+│   │   │       └── google
+│   │   ├── o
+│   │   │   ├── free
+│   │   │   │   ├── chmod+x_loves_x
+│   │   │   │   ├── en
+│   │   │   │   │   └── A2
+│   │   │   │   ├── flyer
+│   │   │   │   ├── neural
+│   │   │   │   ├── nl
+│   │   │   │   │   └── A2
+│   │   │   │   └── tubelight
+│   │   │   └── non-free
+│   │   │       ├── chmod+x_loves_x
+│   │   │       ├── en
+│   │   │       │   └── A2
+│   │   │       ├── flyer
+│   │   │       ├── neural
+│   │   │       ├── nl
+│   │   │       │   └── A2
+│   │   │       └── tubelight
+│   │   └── src
+│   │       ├── chmod_x_shodo4flyer_01
+│   │       │   └── i
+│   │       │       ├── free
+│   │       │       ├── non-free
+│   │       │       └── tmp
+│   │       ├── chmod_x_shodo4neural_02
+│   │       │   └── i
+│   │       │       ├── free
+│   │       │       ├── non-free
+│   │       │       └── tmp
+│   │       └── chmod_x_shodo4poster_01
+│   │           └── i
+│   │               ├── free
+│   │               ├── non-free
+│   │               └── tmp
+│   ├── dit
+│   │   ├── doc
+│   │   │   └── i
+│   │   │       ├── free
+│   │   │       │   ├── p
+│   │   │       │   │   └── earlybirds
+│   │   │       │   └── v
+│   │   │       │       ├── 1002XX
+│   │   │       │       ├── 1003XX
+│   │   │       │       ├── earlybirds
+│   │   │       │       └── logo
+│   │   │       └── non-free
+│   │   │           └── v
+│   │   │               ├── 1003XX
+│   │   │               └── autotracetests
+│   │   │                   ├── anna_beispiele
+│   │   │                   └── bearbeitet
+│   │   ├── i
+│   │   │   ├── a -> ../../../
+│   │   │   ├── cols+rows
+│   │   │   │   ├── A2
+│   │   │   │   │   ├── 45x31
+│   │   │   │   │   └── 59x42
+│   │   │   │   ├── A3
+│   │   │   │   │   ├── 39x27
+│   │   │   │   │   └── 45x31
+│   │   │   │   ├── A5
+│   │   │   │   │   ├── 13x19
+│   │   │   │   │   ├── 19x13
+│   │   │   │   │   └── 39x27
+│   │   │   │   └── schaukasten
+│   │   │   │       ├── 30x30
+│   │   │   │       └── 45x45
+│   │   │   ├── free
+│   │   │   │   ├── p
+│   │   │   │   │   ├── ditails
+│   │   │   │   │   ├── reference
+│   │   │   │   │   └── scans
+│   │   │   │   └── v
+│   │   │   │       ├── ditails
+│   │   │   │       ├── ditails-roh
+│   │   │   │       ├── ditails-test
+│   │   │   │       ├── info
+│   │   │   │       └── logos
+│   │   │   ├── non-free
+│   │   │   │   ├── p
+│   │   │   │   └── v
+│   │   │   │       └── logos
+│   │   │   └── tmp
+│   │   │       └── rotated-pdfs
+│   │   └── o
+│   │       ├── free
+│   │       │   ├── A2
+│   │       │   ├── A3
+│   │       │   ├── A5
+│   │       │   └── schaukasten
+│   │       └── non-free
+│   │           ├── A2
+│   │           ├── A3
+│   │           └── schaukasten
+│   ├── elytrigia
+│   │   ├── i
+│   │   │   └── lib -> ../../../utils/processing/libraries/0135/
+│   │   ├── o -> ../../stock/2008/elytrigia/
+│   │   └── src
+│   ├── exodus
+│   │   ├── doc
+│   │   │   └── gifs
+│   │   ├── i
+│   │   │   ├── free
+│   │   │   │   └── bash
+│   │   │   └── non-free
+│   │   │       ├── gif
+│   │   │       └── svg
+│   │   │           ├── annagrath
+│   │   │           ├── archaelogic
+│   │   │           ├── minimal
+│   │   │           └── var
+│   │   ├── o
+│   │   │   ├── free
+│   │   │   │   └── jpg
+│   │   │   │       └── transmission
+│   │   │   └── non-free
+│   │   │       └── gif
+│   │   ├── prepare
+│   │   │   ├── i
+│   │   │   │   └── gif
+│   │   │   ├── themes
+│   │   │   │   ├── osk
+│   │   │   │   │   ├── gtk-2.0
+│   │   │   │   │   └── openbox-3
+│   │   │   │   ├── scrot2v
+│   │   │   │   │   ├── gtk-2.0
+│   │   │   │   │   ├── metacity-1
+│   │   │   │   │   └── openbox-3
+│   │   │   │   ├── Simple
+│   │   │   │   │   ├── metacity-1
+│   │   │   │   │   └── openbox-3
+│   │   │   │   ├── T3K
+│   │   │   │   │   └── gtk-2.0
+│   │   │   │   └── Umbra
+│   │   │   │       ├── gtk-2.0
+│   │   │   │       └── openbox-3
+│   │   │   └── tmp
+│   │   ├── src
+│   │   │   ├── bandit_007_5er_griffin
+│   │   │   │   └── application.linux
+│   │   │   │       ├── lib
+│   │   │   │       └── source
+│   │   │   ├── bandit_008
+│   │   │   │   └── application.linux
+│   │   │   │       ├── lib
+│   │   │   │       └── source
+│   │   │   └── bandit_009
+│   │   │       ├── application.linux
+│   │   │       │   ├── lib
+│   │   │       │   └── source
+│   │   │       └── i -> ../../i
+│   │   └── tmp
+│   │       ├── combinations
+│   │       └── io-make
+│   ├── i-bd
+│   │   ├── doc
+│   │   │   └── i
+│   │   │       ├── free
+│   │   │       │   └── poitiers
+│   │   │       └── non-free
+│   │   │           └── v
+│   │   │               ├── leaflet
+│   │   │               └── posterevolution
+│   │   ├── i
+│   │   │   ├── a -> ../../../
+│   │   │   ├── free
+│   │   │   │   └── v
+│   │   │   ├── JUNK
+│   │   │   │   └── test
+│   │   │   ├── lib -> ../../../utils/processing/libraries/
+│   │   │   ├── non-free
+│   │   │   │   └── v
+│   │   │   ├── tmp
+│   │   │   ├── tmptmp
+│   │   │   └── TRUNK
+│   │   │       ├── JUNK
+│   │   │       ├── preview
+│   │   │       └── tmp
+│   │   ├── o
+│   │   │   ├── free
+│   │   │   │   ├── in-between_design
+│   │   │   │   └── p
+│   │   │   │       └── web
+│   │   │   └── non-free
+│   │   │       └── fr
+│   │   │           └── A3
+│   │   │               ├── JUNK
+│   │   │               ├── recto
+│   │   │               └── verso
+│   │   └── src
+│   │       ├── ibd_1_00
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_01
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_02
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_03
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_04
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_05
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_06
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_07
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_08
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_09
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_10
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       ├── isaac_0_11
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   ├── o
+│   │       │   └── test
+│   │       ├── isaac_0_12
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   ├── o
+│   │       │   └── test
+│   │       ├── isaac_0_13
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   ├── o
+│   │       │   └── test
+│   │       ├── isaac_0_14
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   ├── JUNK
+│   │       │   │   └── bak
+│   │       │   ├── o
+│   │       │   └── test
+│   │       ├── isaac_0_15
+│   │       │   ├── application.linux
+│   │       │   │   ├── lib
+│   │       │   │   └── source
+│   │       │   ├── i -> ../../i
+│   │       │   └── o
+│   │       └── isaac_1_00
+│   │           ├── application.linux
+│   │           │   ├── lib
+│   │           │   └── source
+│   │           ├── i -> ../../i
+│   │           └── o
+│   ├── lacencyclopedia
+│   │   ├── i
+│   │   │   ├── cols+rows -> ../../lacmachine/i/cols+rows/
+│   │   │   ├── lib -> ../../../utils/processing/libraries/0123/
+│   │   │   ├── list -> ../../../utils/list/
+│   │   │   └── tiles -> ../../../stock/2007/pipemusic/
+│   │   └── o
+│   │       └── free -> ../../lacmachine/o/free
+│   ├── lacinsky
+│   │   ├── doc
+│   │   │   └── i
+│   │   │       ├── free
+│   │   │       └── non-free
+│   │   │           └── v
+│   │   │               └── logo
+│   │   │                   ├── cdm_mod
+│   │   │                   ├── logalot
+│   │   │                   ├── noten
+│   │   │                   ├── parma-stemma
+│   │   │                   │   └── typo
+│   │   │                   ├── stiefel
+│   │   │                   └── teutonengrill
+│   │   ├── i
+│   │   │   ├── a -> ../../../
+│   │   │   ├── free
+│   │   │   ├── lib -> ../../../utils/processing/libraries/0135/
+│   │   │   └── non-free
+│   │   │       └── logos
+│   │   ├── o
+│   │   │   ├── free
+│   │   │   │   └── A3
+│   │   │   └── non-free
+│   │   │       └── A3
+│   │   └── src
+│   ├── lacmachine
+│   │   ├── doc
+│   │   │   └── i
+│   │   │       ├── a -> ../../../../
+│   │   │       ├── free
+│   │   │       │   ├── p
+│   │   │       │   └── v
+│   │   │       └── non-free
+│   │   │           ├── p
+│   │   │           └── v
+│   │   ├── i
+│   │   │   ├── cols+rows
+│   │   │   │   ├── A3
+│   │   │   │   │   ├── 11x25
+│   │   │   │   │   ├── 13x30
+│   │   │   │   │   ├── 15x13
+│   │   │   │   │   ├── 16x14
+│   │   │   │   │   ├── 16x35
+│   │   │   │   │   ├── 17x15
+│   │   │   │   │   ├── 18x16
+│   │   │   │   │   ├── 20x17
+│   │   │   │   │   ├── 21x18
+│   │   │   │   │   ├── 22x19
+│   │   │   │   │   ├── 23x20
+│   │   │   │   │   ├── 25x22
+│   │   │   │   │   └── 8x18
+│   │   │   │   ├── mini
+│   │   │   │   │   └── 3x1
+│   │   │   │   └── multipage
+│   │   │   │       ├── 13x160
+│   │   │   │       ├── 16x260
+│   │   │   │       ├── 18x650
+│   │   │   │       ├── 20x260
+│   │   │   │       ├── 20x650
+│   │   │   │       └── 8x200
+│   │   │   ├── free
+│   │   │   │   └── typo
+│   │   │   ├── lib -> ../../../utils/processing/libraries/0123/
+│   │   │   ├── non-free
+│   │   │   │   └── typo
+│   │   │   └── tiles -> ../../../stock/2007/pipemusic/
+│   │   ├── o
+│   │   │   ├── free
+│   │   │   │   ├── A3
+│   │   │   │   ├── encyclopedia -> ../../../../stock/2008/lac2008/encyclopedia/
+│   │   │   │   └── multipage
+│   │   │   └── non-free
+│   │   │       ├── A3
+│   │   │       └── A3_Stadtgarten
+│   │   └── src
+│   ├── lisl-p
+│   │   ├── i
+│   │   │   ├── free
+│   │   │   │   ├── bash
+│   │   │   │   ├── cols+rows
+│   │   │   │   │   ├── 10x10
+│   │   │   │   │   ├── 11x11
+│   │   │   │   │   ├── 12x12
+│   │   │   │   │   ├── 13x13
+│   │   │   │   │   ├── 14x14
+│   │   │   │   │   ├── 15x15
+│   │   │   │   │   └── 9x9
+│   │   │   │   ├── combinations
+│   │   │   │   ├── pdf
+│   │   │   │   │   ├── ioextra
+│   │   │   │   │   ├── iohands
+│   │   │   │   │   ├── iominimum
+│   │   │   │   │   └── letters
+│   │   │   │   ├── reference
+│   │   │   │   └── svg
+│   │   │   └── non-free
+│   │   │       └── svg
+│   │   ├── o
+│   │   │   └── non-free
+│   │   └── tmp
+│   │       ├── io-make
+│   │       └── rotated-pdfs
+│   ├── merelles
+│   │   ├── i
+│   │   │   ├── free
+│   │   │   │   ├── bash
+│   │   │   │   ├── cols+rows
+│   │   │   │   │   └── 5x4
+│   │   │   │   │       ├── 134738725364788
+│   │   │   │   │       ├── 134738725488764
+│   │   │   │   │       ├── 134738725600513
+│   │   │   │   │       ├── 134738725684880
+│   │   │   │   │       ├── 134738725774885
+│   │   │   │   │       ├── 134738725865437
+│   │   │   │   │       ├── 134738725942046
+│   │   │   │   │       ├── 134738726027470
+│   │   │   │   │       ├── 134738726126048
+│   │   │   │   │       └── 134738726208035
+│   │   │   │   ├── gif -> ../../o/free/gif/
+│   │   │   │   ├── multilist
+│   │   │   │   │   └── 5x4
+│   │   │   │   │       ├── 134738725364788
+│   │   │   │   │       ├── 134738725488764
+│   │   │   │   │       ├── 134738725600513
+│   │   │   │   │       ├── 134738725684880
+│   │   │   │   │       ├── 134738725774885
+│   │   │   │   │       ├── 134738725865437
+│   │   │   │   │       ├── 134738725942046
+│   │   │   │   │       ├── 134738726027470
+│   │   │   │   │       ├── 134738726126048
+│   │   │   │   │       └── 134738726208035
+│   │   │   │   ├── pdf -> ../../o/free/pdf/
+│   │   │   │   ├── reference
+│   │   │   │   └── svg
+│   │   │   │       ├── archaelogic
+│   │   │   │       ├── construct
+│   │   │   │       │   └── schmiede12
+│   │   │   │       ├── cut+write
+│   │   │   │       ├── dawn-start
+│   │   │   │       ├── exodusmin
+│   │   │   │       ├── exodusvar
+│   │   │   │       ├── iotomated
+│   │   │   │       ├── lisl-p-mod
+│   │   │   │       ├── lisl-p-tune
+│   │   │   │       ├── minimal
+│   │   │   │       └── schmiede12
+│   │   │   └── non-free
+│   │   │       ├── gif -> ../../o/non-free/gif/
+│   │   │       ├── pdf -> ../../o/non-free/pdf/
+│   │   │       └── svg
+│   │   │           ├── annagrath
+│   │   │           ├── archaelogic
+│   │   │           └── exodusvar
+│   │   ├── o
+│   │   │   ├── free
+│   │   │   │   ├── gif
+│   │   │   │   ├── pdf
+│   │   │   │   ├── _schmiede12
+│   │   │   │   └── svg
+│   │   │   │       └── iotomated
+│   │   │   └── non-free
+│   │   │       ├── gif
+│   │   │       ├── pdf
+│   │   │       └── svg
+│   │   │           └── iotomated
+│   │   ├── src
+│   │   │   ├── iomachine_0_00
+│   │   │   │   ├── i -> ../../i
+│   │   │   │   └── tmp
+│   │   │   ├── iomachine_0_01
+│   │   │   │   ├── i -> ../../i
+│   │   │   │   └── tmp
+│   │   │   ├── iomachine_0_02
+│   │   │   │   ├── i -> ../../i
+│   │   │   │   └── tmp
+│   │   │   ├── iomachine_0_03
+│   │   │   │   ├── i -> ../../i
+│   │   │   │   └── tmp
+│   │   │   ├── iomachine_0_04
+│   │   │   │   ├── i -> ../../i
+│   │   │   │   └── tmp
+│   │   │   ├── iomachine_0_05
+│   │   │   │   ├── i -> ../../i
+│   │   │   │   └── tmp
+│   │   │   ├── iomachine_0_06
+│   │   │   │   ├── i -> ../../i
+│   │   │   │   └── tmp
+│   │   │   ├── iomachine_0_07
+│   │   │   │   ├── i -> ../../i
+│   │   │   │   └── tmp
+│   │   │   ├── iomachine_0_08
+│   │   │   │   ├── i -> ../../i
+│   │   │   │   └── tmp
+│   │   │   ├── iomachine_0_09
+│   │   │   │   ├── application.linux
+│   │   │   │   │   ├── lib
+│   │   │   │   │   └── source
+│   │   │   │   └── i -> ../../i
+│   │   │   └── iomachine_1_00
+│   │   │       ├── application.linux
+│   │   │       │   ├── lib
+│   │   │       │   └── source
+│   │   │       └── i -> ../../i
+│   │   └── tmp
+│   │       ├── combinations
+│   │       └── io-make
+│   ├── minimarticls
+│   │   ├── i
+│   │   │   └── lib -> ../../../utils/processing/libraries/0123/
+│   │   ├── o -> ../../stock/2007/minimarticls/
+│   │   └── src
+│   ├── osk
+│   │   ├── arnolfini
+│   │   │   ├── doc
+│   │   │   │   ├── i
+│   │   │   │   │   ├── free
+│   │   │   │   │   └── non-free
+│   │   │   │   └── tmp
+│   │   │   ├── sc
+│   │   │   │   └── Extensions
+│   │   │   │       └── Classes
+│   │   │   ├── scripts
+│   │   │   └── snd
+│   │   ├── FILE
+│   │   │   ├── rio_de_janeiro
+│   │   │   └── sao_paulo
+│   │   ├── mu
+│   │   │   ├── cfg
+│   │   │   ├── doc
+│   │   │   │   ├── i
+│   │   │   │   │   ├── free
+│   │   │   │   │   └── non-free
+│   │   │   │   └── tmp
+│   │   │   ├── log
+│   │   │   ├── sc
+│   │   │   │   └── Extensions
+│   │   │   │       └── Classes
+│   │   │   ├── scripts
+│   │   │   ├── snd
+│   │   │   └── tmp
+│   │   └── nimk
+│   ├── r+w
+│   │   ├── doc
+│   │   │   ├── free
+│   │   │   │   ├── logo
+│   │   │   │   ├── mockups
+│   │   │   │   ├── process
+│   │   │   │   ├── produced
+│   │   │   │   └── production
+│   │   │   └── non-free
+│   │   │       └── posterevolution
+│   │   ├── i
+│   │   │   └── free
+│   │   │       ├── fonts
+│   │   │       ├── png
+│   │   │       │   ├── interface
+│   │   │       │   └── people
+│   │   │       ├── svg
+│   │   │       │   ├── made
+│   │   │       │   ├── people
+│   │   │       │   └── src
+│   │   │       └── voice -> ../../o/free/voice/
+│   │   ├── o
+│   │   │   ├── __
+│   │   │   ├── free
+│   │   │   │   ├── pdf
+│   │   │   │   │   └── people
+│   │   │   │   ├── sla
+│   │   │   │   └── voice
+│   │   │   └── press
+│   │   │       ├── cmyk
+│   │   │       ├── fonts
+│   │   │       ├── monochrome
+│   │   │       └── rgb
+│   │   ├── src
+│   │   │   └── fontplate_1_00
+│   │   │       ├── application.linux
+│   │   │       │   ├── lib
+│   │   │       │   └── source
+│   │   │       └── i -> ../../i/
+│   │   └── tmp
+│   ├── swaperex
+│   │   ├── i
+│   │   │   ├── free
+│   │   │   │   └── bash
+│   │   │   └── non-free
+│   │   │       ├── pdf
+│   │   │       └── svg
+│   │   ├── o
+│   │   │   ├── A2
+│   │   │   └── A3
+│   │   └── tmp
+│   │       └── combinations
+│   ├── va300
+│   │   ├── LIVE
+│   │   │   ├── berlin
+│   │   │   │   └── i
+│   │   │   │       └── non-free
+│   │   │   │           └── v
+│   │   │   │               ├── artists
+│   │   │   │               ├── info
+│   │   │   │               └── logos
+│   │   │   └── i
+│   │   │       └── non-free
+│   │   │           └── v
+│   │   │               ├── artists
+│   │   │               ├── info
+│   │   │               └── logos
+│   │   └── PRINT
+│   │       ├── i
+│   │       │   ├── free
+│   │       │   │   └── v
+│   │       │   ├── lib -> ../../../../utils/processing/libraries/
+│   │       │   └── non-free
+│   │       │       └── v
+│   │       │           ├── artists
+│   │       │           ├── info
+│   │       │           └── logos
+│   │       ├── o
+│   │       │   ├── free
+│   │       │   │   ├── A3
+│   │       │   │   └── A4
+│   │       │   └── non-free
+│   │       │       ├── 70100
+│   │       │       ├── A2
+│   │       │       ├── A3
+│   │       │       ├── A4
+│   │       │       └── STICKERSHEET
+│   │       └── src
+│   │           └── geofisic_1_13
+│   │               ├── application.linux
+│   │               │   ├── lib
+│   │               │   └── source
+│   │               ├── i -> ../../i/
+│   │               └── o
+│   │                   └── non-free
+│   │                       ├── 70100
+│   │                       ├── A2
+│   │                       ├── A3
+│   │                       └── A4
+│   ├── vj14
+│   │   ├── i
+│   │   │   ├── free
+│   │   │   │   ├── jpg
+│   │   │   │   ├── png
+│   │   │   │   ├── svg
+│   │   │   │   └── var
+│   │   │   └── non-free
+│   │   │       └── svg
+│   │   └── o
+│   │       ├── free
+│   │       │   ├── PRINT
+│   │       │   ├── svg
+│   │       │   └── var
+│   │       └── non-free
+│   │           └── var
+│   └── wtf
+│       ├── doc
+│       │   └── i
+│       │       ├── free
+│       │       │   ├── p
+│       │       │   └── v
+│       │       │       └── lsheadheadtail
+│       │       └── non-free
+│       │           ├── p
+│       │           └── v
+│       │               ├── breakthegrid
+│       │               ├── logodropouts
+│       │               └── posterevolution
+│       │                   ├── 090729
+│       │                   │   └── A2
+│       │                   ├── 090802
+│       │                   │   └── A2
+│       │                   ├── 090805
+│       │                   │   ├── A0
+│       │                   │   └── A3
+│       │                   ├── 090806
+│       │                   │   ├── A0
+│       │                   │   ├── A1
+│       │                   │   ├── A2
+│       │                   │   └── A3
+│       │                   ├── 090810
+│       │                   │   └── A1
+│       │                   ├── 090811
+│       │                   │   └── A3
+│       │                   ├── 090820
+│       │                   │   └── A3
+│       │                   ├── 090902
+│       │                   │   └── A3
+│       │                   ├── 090904
+│       │                   │   └── A3
+│       │                   ├── 090907
+│       │                   │   └── A3
+│       │                   ├── 090909
+│       │                   │   └── A3
+│       │                   ├── 090910
+│       │                   │   └── A3
+│       │                   ├── 090911
+│       │                   │   └── A3
+│       │                   ├── 090912
+│       │                   │   └── A3
+│       │                   └── 090915
+│       │                       ├── A1
+│       │                       └── A3
+│       ├── i
+│       │   ├── a -> ../../../
+│       │   ├── free
+│       │   │   └── logos
+│       │   │       ├── en
+│       │   │       └── fr
+│       │   ├── lib -> ../../../utils/processing/libraries/
+│       │   ├── locale
+│       │   ├── non-free
+│       │   │   └── logos
+│       │   │       ├── en
+│       │   │       └── fr
+│       │   ├── p
+│       │   ├── src
+│       │   │   ├── are
+│       │   │   ├── aut
+│       │   │   ├── bib
+│       │   │   ├── box
+│       │   │   ├── che
+│       │   │   ├── crc
+│       │   │   ├── esp
+│       │   │   ├── flg
+│       │   │   ├── geo
+│       │   │   ├── iro
+│       │   │   ├── mem
+│       │   │   ├── naz
+│       │   │   ├── pgs
+│       │   │   ├── see
+│       │   │   ├── sho
+│       │   │   ├── sub
+│       │   │   ├── tra
+│       │   │   └── typ
+│       │   └── tmp
+│       └── o
+│           ├── free
+│           │   ├── en
+│           │   │   ├── A1
+│           │   │   ├── A2
+│           │   │   └── A3
+│           │   └── fr
+│           │       ├── A1
+│           │       ├── A2
+│           │       └── A3
+│           └── non-free
+│               ├── en
+│               │   ├── A1
+│               │   ├── A2
+│               │   ├── A3
+│               │   └── flyer
+│               │       └── recto
+│               └── fr
+│                   ├── A1
+│                   ├── A2
+│                   ├── A3
+│                   ├── flyer
+│                   │   └── recto
+│                   └── panel
+├── stock
+│   ├── 2001
+│   │   ├── abacost
+│   │   └── dreamstar
+│   ├── 2002
+│   ├── 2003
+│   ├── 2005
+│   │   ├── boppel
+│   │   ├── celebs
+│   │   ├── microparts
+│   │   │   ├── micropaa
+│   │   │   ├── micropab
+│   │   │   ├── micropac
+│   │   │   ├── micropad
+│   │   │   ├── micropae
+│   │   │   ├── micropaf
+│   │   │   ├── micropag
+│   │   │   ├── micropah
+│   │   │   ├── micropai
+│   │   │   ├── micropaj
+│   │   │   ├── micropak
+│   │   │   ├── micropal
+│   │   │   ├── micropam
+│   │   │   ├── micropan
+│   │   │   ├── micropao
+│   │   │   ├── micropap
+│   │   │   ├── micropaq
+│   │   │   ├── micropar
+│   │   │   └── micropas
+│   │   └── xurlandps
+│   ├── 2006
+│   ├── 2007
+│   │   ├── beletons
+│   │   ├── brehmx
+│   │   ├── featherlight
+│   │   ├── floris
+│   │   ├── minimarticls
+│   │   └── pipemusic
+│   │       └── non-free
+│   ├── 2008
+│   │   ├── brd
+│   │   ├── elytrigia
+│   │   ├── hoffmann
+│   │   ├── lac2008
+│   │   │   └── encyclopedia
+│   │   ├── micro
+│   │   └── sldd
+│   ├── 2009
+│   │   ├── 191pages
+│   │   ├── chapel
+│   │   ├── eatoy
+│   │   ├── fance
+│   │   ├── lac2009
+│   │   ├── laclines
+│   │   │   ├── laap
+│   │   │   └── tttoem
+│   │   ├── lacouts
+│   │   ├── liikennemerkki
+│   │   │   ├── additional
+│   │   │   ├── informatory
+│   │   │   ├── mandatory
+│   │   │   ├── obsolete
+│   │   │   ├── priority
+│   │   │   ├── prohibitory
+│   │   │   ├── special
+│   │   │   └── warning
+│   │   ├── npsb
+│   │   ├── npsw
+│   │   ├── strisone
+│   │   └── stvo
+│   ├── 2010
+│   │   ├── dit
+│   │   └── hausen
+│   ├── 2011
+│   └── 2012
+├── utils
+│   ├── fonts
+│   │   └── figlet
+│   ├── graphics
+│   │   ├── blank
+│   │   ├── logos
+│   │   │   ├── free
+│   │   │   └── non-free
+│   │   ├── signs
+│   │   └── watermarks
+│   ├── hardware
+│   │   ├── anausan
+│   │   ├── DraftPro-DXL
+│   │   ├── piccolo
+│   │   └── QL-570
+│   ├── latex
+│   │   ├── commands
+│   │   │   └── JUNK
+│   │   ├── documentation
+│   │   │   └── metafont-tutorial
+│   │   └── sty
+│   │       ├── bst
+│   │       ├── i
+│   │       ├── JUNK
+│   │       ├── LAC2008-LaTeX-template
+│   │       │   ├── latex
+│   │       │   └── openoffice
+│   │       └── PDConv07-LaTeX-template
+│   ├── licenses
+│   │   ├── fal
+│   │   ├── gfdl
+│   │   ├── gpl
+│   │   └── ocl
+│   ├── list
+│   │   ├── creatures
+│   │   ├── definitions
+│   │   ├── fav
+│   │   ├── headlessMouse
+│   │   │   └── A4
+│   │   ├── names
+│   │   ├── nouns
+│   │   ├── surroundings
+│   │   ├── svg
+│   │   │   ├── 2008
+│   │   │   ├── 2009
+│   │   │   └── 2010
+│   │   ├── tools
+│   │   ├── var
+│   │   ├── verbs
+│   │   └── words
+│   ├── man
+│   ├── processing
+│   │   ├── documentation
+│   │   │   ├── geomerative
+│   │   │   │   └── images
+│   │   │   └── rita
+│   │   ├── libraries
+│   │   │   ├── 0123
+│   │   │   ├── 0135
+│   │   │   ├── 1030
+│   │   │   └── 1050
+│   │   └── sketches
+│   │       ├── generative-gestaltung
+│   │       │   ├── M_1_5_01
+│   │       │   │   ├── i
+│   │       │   │   └── tmp
+│   │       │   ├── M_1_5_03_TOOL
+│   │       │   │   └── tmp
+│   │       │   ├── M_5_3_01
+│   │       │   │   └── tmp
+│   │       │   ├── P_2_0_01
+│   │       │   │   └── tmp
+│   │       │   ├── P_2_0_02
+│   │       │   │   └── tmp
+│   │       │   ├── P_2_1_1_01
+│   │       │   │   └── tmp
+│   │       │   ├── P_2_1_1_03
+│   │       │   │   └── tmp
+│   │       │   ├── P_2_1_1_04
+│   │       │   │   ├── i
+│   │       │   │   └── tmp
+│   │       │   ├── P_2_1_3_01
+│   │       │   │   └── tmp
+│   │       │   ├── P_2_1_3_02
+│   │       │   │   └── tmp
+│   │       │   ├── P_2_2_1_01
+│   │       │   │   └── tmp
+│   │       │   ├── P_2_2_2_01
+│   │       │   │   └── tmp
+│   │       │   └── P_2_2_5_01
+│   │       │       └── tmp
+│   │       └── processing-book-001
+│   │           ├── Appendixes
+│   │           │   ├── Appendix_A
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   └── _04
+│   │           │   ├── Appendix_B
+│   │           │   │   ├── _01
+│   │           │   │   └── _02
+│   │           │   ├── Appendix_D
+│   │           │   │   └── _01
+│   │           │   └── Appendix_E
+│   │           │       ├── _01
+│   │           │       ├── _02
+│   │           │       ├── _03
+│   │           │       ├── _04
+│   │           │       ├── _05
+│   │           │       ├── _06
+│   │           │       ├── _07
+│   │           │       ├── _08
+│   │           │       ├── _09
+│   │           │       └── _10
+│   │           ├── Extensions
+│   │           │   ├── 3D
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   │   └── data
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   └── _09
+│   │           │   │       └── data
+│   │           │   ├── Electronics
+│   │           │   │   ├── _01A
+│   │           │   │   ├── _01B
+│   │           │   │   ├── _02A
+│   │           │   │   ├── _02B
+│   │           │   │   ├── _03A
+│   │           │   │   ├── _03B
+│   │           │   │   ├── _04A
+│   │           │   │   ├── _04B
+│   │           │   │   ├── _05A
+│   │           │   │   └── _05B
+│   │           │   ├── Mobile
+│   │           │   │   ├── _01
+│   │           │   │   │   └── data
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   └── _08
+│   │           │   ├── Network
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02A
+│   │           │   │   ├── _02B
+│   │           │   │   ├── _03
+│   │           │   │   └── _04
+│   │           │   │       └── data
+│   │           │   ├── Print
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   └── _06
+│   │           │   ├── Sound
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   │   └── data
+│   │           │   │   ├── _04
+│   │           │   │   │   └── data
+│   │           │   │   └── _05
+│   │           │   │       └── data
+│   │           │   └── Vision
+│   │           │       ├── _01
+│   │           │       ├── _02
+│   │           │       ├── _03
+│   │           │       └── _04
+│   │           ├── Illustrations
+│   │           │   ├── page_022
+│   │           │   │   └── tmp
+│   │           │   ├── page_042
+│   │           │   │   └── tmp
+│   │           │   ├── page_060
+│   │           │   │   └── tmp
+│   │           │   ├── page_078
+│   │           │   │   └── tmp
+│   │           │   ├── page_094
+│   │           │   │   └── data
+│   │           │   ├── page_100
+│   │           │   ├── page_110
+│   │           │   ├── page_126
+│   │           │   ├── page_136
+│   │           │   ├── page_144
+│   │           │   │   └── tmp
+│   │           │   ├── page_148
+│   │           │   │   └── data
+│   │           │   ├── page_172
+│   │           │   │   └── tmp
+│   │           │   ├── page_216
+│   │           │   │   └── data
+│   │           │   ├── page_222
+│   │           │   ├── page_228
+│   │           │   ├── page_250
+│   │           │   ├── page_254
+│   │           │   │   └── tmp
+│   │           │   ├── page_278
+│   │           │   ├── page_290
+│   │           │   │   └── tmp
+│   │           │   ├── page_300
+│   │           │   │   └── tmp
+│   │           │   ├── page_314
+│   │           │   │   └── data
+│   │           │   ├── page_326
+│   │           │   ├── page_346
+│   │           │   ├── page_366
+│   │           │   ├── page_394
+│   │           │   │   └── tmp
+│   │           │   ├── page_412
+│   │           │   ├── page_420
+│   │           │   ├── page_476
+│   │           │   │   └── tmp
+│   │           │   └── page_xx
+│   │           ├── Synthesis
+│   │           │   ├── _01_collage
+│   │           │   │   ├── _01_collage
+│   │           │   │   │   └── data
+│   │           │   │   └── _02_collage
+│   │           │   │       └── data
+│   │           │   ├── _02_waves
+│   │           │   │   ├── _01_waves
+│   │           │   │   ├── _02_waves
+│   │           │   │   ├── _03_waves
+│   │           │   │   ├── _04_waves
+│   │           │   │   └── _05_waves
+│   │           │   ├── _03_grids
+│   │           │   │   ├── _01_grids
+│   │           │   │   ├── _02_grids
+│   │           │   │   ├── _03_grids
+│   │           │   │   ├── _04_grids
+│   │           │   │   └── _05_grids
+│   │           │   ├── _04_mandelbrot
+│   │           │   ├── _05_tennis
+│   │           │   ├── _06_cursor
+│   │           │   │   └── data
+│   │           │   ├── _07_typing
+│   │           │   │   └── data
+│   │           │   ├── _08_clock
+│   │           │   ├── _09_centipede
+│   │           │   ├── _10_chronodraw
+│   │           │   ├── _11_amoebaAbstract
+│   │           │   ├── _12_robot
+│   │           │   │   └── data
+│   │           │   ├── _13_withoutTitle
+│   │           │   │   └── data
+│   │           │   ├── _14_pond
+│   │           │   ├── _15_tree
+│   │           │   │   └── data
+│   │           │   └── _16_sodaprocessing
+│   │           │       └── data
+│   │           ├── Units_00-17
+│   │           │   ├── 00_Using_Processing
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   └── _08
+│   │           │   ├── 01_Structure_1
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   └── _07
+│   │           │   ├── 02_Shape_1
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   ├── _13
+│   │           │   │   ├── _14
+│   │           │   │   ├── _15
+│   │           │   │   ├── _16
+│   │           │   │   ├── _17
+│   │           │   │   ├── _18
+│   │           │   │   ├── _19
+│   │           │   │   ├── _20
+│   │           │   │   ├── _21
+│   │           │   │   ├── _22
+│   │           │   │   ├── _23
+│   │           │   │   ├── _24
+│   │           │   │   ├── _25
+│   │           │   │   ├── _26
+│   │           │   │   ├── _27
+│   │           │   │   ├── _28
+│   │           │   │   ├── _29
+│   │           │   │   ├── _30
+│   │           │   │   ├── _31
+│   │           │   │   ├── _32
+│   │           │   │   ├── _33
+│   │           │   │   ├── _34
+│   │           │   │   ├── _35
+│   │           │   │   ├── _36
+│   │           │   │   ├── _37
+│   │           │   │   ├── _38
+│   │           │   │   ├── _39
+│   │           │   │   ├── _40
+│   │           │   │   └── _41
+│   │           │   ├── 03_Data_1
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   └── _11
+│   │           │   ├── 04_Math_1
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   ├── _13
+│   │           │   │   ├── _14
+│   │           │   │   ├── _15
+│   │           │   │   ├── _16
+│   │           │   │   ├── _17
+│   │           │   │   ├── _18
+│   │           │   │   ├── _19
+│   │           │   │   ├── _20
+│   │           │   │   ├── _21
+│   │           │   │   ├── _22
+│   │           │   │   ├── _23
+│   │           │   │   ├── _24
+│   │           │   │   ├── _25
+│   │           │   │   └── _26
+│   │           │   ├── 05_Control_1
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   └── _13
+│   │           │   ├── 06_Control_2
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   └── _13
+│   │           │   ├── 07_Shape_2
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   ├── _13
+│   │           │   │   ├── _14
+│   │           │   │   ├── _15
+│   │           │   │   ├── _16
+│   │           │   │   ├── _17
+│   │           │   │   └── _18
+│   │           │   ├── 08_Math_2
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   └── _12
+│   │           │   ├── 09_Color_1
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   ├── _13
+│   │           │   │   ├── _14
+│   │           │   │   ├── _15
+│   │           │   │   ├── _16
+│   │           │   │   ├── _17
+│   │           │   │   ├── _18
+│   │           │   │   ├── _19
+│   │           │   │   ├── _20
+│   │           │   │   └── _21
+│   │           │   ├── 10_Image_1
+│   │           │   │   ├── _01
+│   │           │   │   │   └── data
+│   │           │   │   ├── _02
+│   │           │   │   │   └── data
+│   │           │   │   ├── _03
+│   │           │   │   │   └── data
+│   │           │   │   ├── _04
+│   │           │   │   │   └── data
+│   │           │   │   ├── _05
+│   │           │   │   │   └── data
+│   │           │   │   ├── _06
+│   │           │   │   │   └── data
+│   │           │   │   ├── _07
+│   │           │   │   │   └── data
+│   │           │   │   ├── _08
+│   │           │   │   │   └── data
+│   │           │   │   └── _09
+│   │           │   │       └── data
+│   │           │   ├── 11_Data_2
+│   │           │   │   ├── _01
+│   │           │   │   │   └── data
+│   │           │   │   ├── _02
+│   │           │   │   │   └── data
+│   │           │   │   ├── _03
+│   │           │   │   │   └── data
+│   │           │   │   ├── _04
+│   │           │   │   │   └── data
+│   │           │   │   ├── _05
+│   │           │   │   │   └── data
+│   │           │   │   └── _06
+│   │           │   │       └── data
+│   │           │   ├── 12_Data_3
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   │   └── data
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   ├── _13
+│   │           │   │   ├── _14
+│   │           │   │   └── _15
+│   │           │   ├── 13_Typography_1
+│   │           │   │   ├── _01
+│   │           │   │   │   └── data
+│   │           │   │   ├── _02
+│   │           │   │   │   └── data
+│   │           │   │   ├── _03
+│   │           │   │   │   └── data
+│   │           │   │   ├── _04
+│   │           │   │   │   └── data
+│   │           │   │   ├── _05
+│   │           │   │   │   └── data
+│   │           │   │   ├── _06
+│   │           │   │   │   └── data
+│   │           │   │   ├── _07
+│   │           │   │   │   └── data
+│   │           │   │   ├── _08
+│   │           │   │   │   └── data
+│   │           │   │   ├── _09
+│   │           │   │   │   └── data
+│   │           │   │   ├── _10
+│   │           │   │   │   └── data
+│   │           │   │   └── _11
+│   │           │   │       └── data
+│   │           │   ├── 14_Math_3
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   ├── _13
+│   │           │   │   ├── _14
+│   │           │   │   ├── _15
+│   │           │   │   ├── _16
+│   │           │   │   └── _17
+│   │           │   ├── 15_Math_4
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   └── _10
+│   │           │   ├── 16_Transform_1
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   └── _06
+│   │           │   └── 17_Transform_2
+│   │           │       ├── _01
+│   │           │       ├── _02
+│   │           │       ├── _03
+│   │           │       ├── _04
+│   │           │       ├── _05
+│   │           │       ├── _06
+│   │           │       ├── _07
+│   │           │       ├── _08
+│   │           │       ├── _09
+│   │           │       ├── _10
+│   │           │       ├── _11
+│   │           │       ├── _12
+│   │           │       ├── _13
+│   │           │       ├── _14
+│   │           │       ├── _15
+│   │           │       ├── _16
+│   │           │       └── _17
+│   │           ├── Units_20-29
+│   │           │   ├── 20_Structure_2
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   └── _13
+│   │           │   ├── 21_Structure_3
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   ├── _13
+│   │           │   │   ├── _14
+│   │           │   │   ├── _15
+│   │           │   │   ├── _16
+│   │           │   │   ├── _17
+│   │           │   │   ├── _18
+│   │           │   │   ├── _19
+│   │           │   │   └── _20
+│   │           │   ├── 22_Shape_3
+│   │           │   │   ├── _01
+│   │           │   │   │   └── data
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   └── _11
+│   │           │   ├── 23_Input_1
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   ├── _13
+│   │           │   │   ├── _14
+│   │           │   │   ├── _15
+│   │           │   │   ├── _16
+│   │           │   │   ├── _17
+│   │           │   │   ├── _18
+│   │           │   │   ├── _19
+│   │           │   │   └── _20
+│   │           │   ├── 24_Drawing_1
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   │   └── data
+│   │           │   │   └── _09
+│   │           │   │       └── data
+│   │           │   ├── 25_Input_2
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   │   └── data
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   └── _07
+│   │           │   ├── 26_Input_3
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   │   └── data
+│   │           │   │   ├── _08
+│   │           │   │   │   └── data
+│   │           │   │   ├── _09
+│   │           │   │   └── _10
+│   │           │   ├── 27_Input_4
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   └── _12
+│   │           │   └── 28_Input_5
+│   │           │       ├── _01
+│   │           │       ├── _02
+│   │           │       ├── _03
+│   │           │       │   └── data
+│   │           │       ├── _04
+│   │           │       ├── _05
+│   │           │       ├── _06
+│   │           │       ├── _07
+│   │           │       ├── _08
+│   │           │       ├── _09
+│   │           │       └── _10
+│   │           ├── Units_31-42
+│   │           │   ├── 31_Motion_1
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   └── _13
+│   │           │   ├── 32_Motion_2
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   └── _09
+│   │           │   ├── 33_Data_4
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   ├── _12
+│   │           │   │   ├── _13
+│   │           │   │   ├── _14
+│   │           │   │   ├── _15
+│   │           │   │   ├── _16
+│   │           │   │   ├── _17
+│   │           │   │   ├── _18
+│   │           │   │   ├── _19
+│   │           │   │   ├── _20
+│   │           │   │   ├── _21
+│   │           │   │   ├── _22
+│   │           │   │   ├── _23
+│   │           │   │   └── _24
+│   │           │   ├── 34_Image_2
+│   │           │   │   ├── _01
+│   │           │   │   │   └── data
+│   │           │   │   ├── _02
+│   │           │   │   │   └── data
+│   │           │   │   ├── _03
+│   │           │   │   │   └── data
+│   │           │   │   ├── _04
+│   │           │   │   │   └── data
+│   │           │   │   ├── _05
+│   │           │   │   │   └── data
+│   │           │   │   ├── _06
+│   │           │   │   │   └── data
+│   │           │   │   └── _07
+│   │           │   │       └── data
+│   │           │   ├── 35_Image_3
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   │   └── data
+│   │           │   │   ├── _05
+│   │           │   │   │   └── data
+│   │           │   │   ├── _06
+│   │           │   │   │   └── data
+│   │           │   │   ├── _07
+│   │           │   │   │   └── data
+│   │           │   │   ├── _08
+│   │           │   │   │   └── data
+│   │           │   │   ├── _09
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   │   └── data
+│   │           │   │   └── _12
+│   │           │   │       └── data
+│   │           │   ├── 36_Typography_2
+│   │           │   │   ├── _01
+│   │           │   │   │   └── data
+│   │           │   │   ├── _02
+│   │           │   │   │   └── data
+│   │           │   │   ├── _03
+│   │           │   │   │   └── data
+│   │           │   │   ├── _04
+│   │           │   │   │   └── data
+│   │           │   │   ├── _05
+│   │           │   │   │   └── data
+│   │           │   │   ├── _06
+│   │           │   │   │   └── data
+│   │           │   │   ├── _07
+│   │           │   │   │   └── data
+│   │           │   │   └── _08
+│   │           │   │       └── data
+│   │           │   ├── 37_Typography_3
+│   │           │   │   ├── _01
+│   │           │   │   │   └── data
+│   │           │   │   ├── _02
+│   │           │   │   │   └── data
+│   │           │   │   ├── _03
+│   │           │   │   │   └── data
+│   │           │   │   └── _04
+│   │           │   │       └── data
+│   │           │   ├── 38_Color_2
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   ├── _07
+│   │           │   │   ├── _08
+│   │           │   │   │   └── data
+│   │           │   │   ├── _09
+│   │           │   │   │   └── data
+│   │           │   │   ├── _10
+│   │           │   │   ├── _11
+│   │           │   │   │   └── data
+│   │           │   │   ├── _12
+│   │           │   │   │   └── data
+│   │           │   │   └── _13
+│   │           │   │       └── data
+│   │           │   ├── 39_Image_4
+│   │           │   │   ├── _01
+│   │           │   │   │   └── data
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   │   └── data
+│   │           │   │   ├── _05
+│   │           │   │   ├── _06
+│   │           │   │   │   └── data
+│   │           │   │   ├── _07
+│   │           │   │   │   └── data
+│   │           │   │   ├── _08
+│   │           │   │   ├── _09
+│   │           │   │   │   └── data
+│   │           │   │   ├── _10
+│   │           │   │   │   └── data
+│   │           │   │   ├── _11
+│   │           │   │   │   └── data
+│   │           │   │   └── _12
+│   │           │   │       └── data
+│   │           │   ├── 40_Image_5
+│   │           │   │   ├── _01
+│   │           │   │   ├── _02
+│   │           │   │   ├── _03
+│   │           │   │   ├── _04
+│   │           │   │   ├── _05
+│   │           │   │   │   └── data
+│   │           │   │   ├── _06
+│   │           │   │   │   └── data
+│   │           │   │   ├── _07
+│   │           │   │   │   └── data
+│   │           │   │   ├── _08
+│   │           │   │   │   └── data
+│   │           │   │   ├── _09
+│   │           │   │   │   └── data
+│   │           │   │   ├── _10
+│   │           │   │   │   └── data
+│   │           │   │   ├── _11
+│   │           │   │   │   └── data
+│   │           │   │   ├── _12
+│   │           │   │   │   └── data
+│   │           │   │   ├── _13
+│   │           │   │   │   └── data
+│   │           │   │   ├── _14
+│   │           │   │   │   └── data
+│   │           │   │   ├── _15
+│   │           │   │   │   └── data
+│   │           │   │   └── _16
+│   │           │   │       └── data
+│   │           │   └── 41_Output_1
+│   │           │       ├── _01
+│   │           │       ├── _02
+│   │           │       ├── _03
+│   │           │       ├── _04
+│   │           │       ├── _05
+│   │           │       └── _06
+│   │           └── Units_43-51
+│   │               ├── 43_Structure_4
+│   │               │   ├── _01
+│   │               │   ├── _02
+│   │               │   ├── _03
+│   │               │   ├── _04
+│   │               │   ├── _05
+│   │               │   ├── _06
+│   │               │   ├── _07
+│   │               │   ├── _08
+│   │               │   ├── _09
+│   │               │   ├── _10
+│   │               │   ├── _11
+│   │               │   └── _12
+│   │               ├── 44_Drawing_2
+│   │               │   ├── _01
+│   │               │   ├── _02
+│   │               │   ├── _03
+│   │               │   ├── _04
+│   │               │   ├── _05
+│   │               │   └── _06
+│   │               ├── 45_Output_2
+│   │               │   ├── _01
+│   │               │   ├── _02
+│   │               │   ├── _03
+│   │               │   ├── _04
+│   │               │   └── _05
+│   │               │       └── data
+│   │               ├── 46_Input_6
+│   │               │   ├── _01
+│   │               │   │   └── data
+│   │               │   ├── _02
+│   │               │   ├── _03
+│   │               │   ├── _04
+│   │               │   ├── _05
+│   │               │   │   └── data
+│   │               │   ├── _06
+│   │               │   │   └── data
+│   │               │   └── _07
+│   │               │       └── data
+│   │               ├── 47_Input_7
+│   │               │   ├── _01
+│   │               │   ├── _02
+│   │               │   ├── _03
+│   │               │   ├── _04
+│   │               │   ├── _05
+│   │               │   ├── _06
+│   │               │   ├── _07
+│   │               │   ├── _08
+│   │               │   ├── _09
+│   │               │   ├── _10
+│   │               │   ├── _11
+│   │               │   ├── _12
+│   │               │   ├── _13
+│   │               │   ├── _14
+│   │               │   ├── _15
+│   │               │   │   └── data
+│   │               │   └── _16
+│   │               │       └── data
+│   │               ├── 48_Structure_5
+│   │               │   ├── _01
+│   │               │   ├── _02
+│   │               │   ├── _03
+│   │               │   ├── _04
+│   │               │   ├── _05
+│   │               │   ├── _06
+│   │               │   ├── _07
+│   │               │   ├── _08
+│   │               │   ├── _09
+│   │               │   └── _10
+│   │               ├── 49_Simulate_1
+│   │               │   ├── _01
+│   │               │   ├── _02
+│   │               │   ├── _03
+│   │               │   ├── _04
+│   │               │   └── _05
+│   │               └── 50_Simulate_2
+│   │                   ├── _01
+│   │                   ├── _02
+│   │                   ├── _03
+│   │                   ├── _04
+│   │                   ├── _05
+│   │                   ├── _06
+│   │                   ├── _07
+│   │                   ├── _08
+│   │                   ├── _09
+│   │                   ├── _10
+│   │                   ├── _11
+│   │                   ├── _12
+│   │                   ├── _13
+│   │                   ├── _14
+│   │                   ├── _15
+│   │                   ├── _16
+│   │                   ├── _17
+│   │                   ├── _18
+│   │                   ├── _19
+│   │                   └── _20
+│   ├── random
+│   │   ├── blog
+│   │   ├── directory
+│   │   ├── i
+│   │   ├── man
+│   │   ├── o
+│   │   ├── readme
+│   │   └── seeme
+│   ├── sound
+│   ├── statistics
+│   ├── talks+papers
+│   │   ├── crosslab-2010
+│   │   │   └── i
+│   │   │       ├── a -> ../../../../
+│   │   │       ├── free
+│   │   │       └── non-free
+│   │   ├── lisl-2011
+│   │   │   ├── i
+│   │   │   │   ├── free
+│   │   │   │   │   └── bitmaps
+│   │   │   │   └── non-free
+│   │   │   ├── o
+│   │   │   │   └── slides
+│   │   │   └── tmp
+│   │   ├── liwoli-2009
+│   │   │   ├── i
+│   │   │   │   ├── a -> ../../../../
+│   │   │   │   ├── free
+│   │   │   │   │   ├── p
+│   │   │   │   │   │   ├── derivatives
+│   │   │   │   │   │   └── use_vdb
+│   │   │   │   │   └── v
+│   │   │   │   │       └── derivatives
+│   │   │   │   └── non-free
+│   │   │   │       ├── p
+│   │   │   │       └── v
+│   │   │   └── o
+│   │   │       └── download
+│   │   └── makeart-2009
+│   │       └── i
+│   │           ├── a -> ../../../../
+│   │           ├── free
+│   │           │   ├── p
+│   │           │   │   ├── 0000--VJ
+│   │           │   │   └── screenshots
+│   │           │   └── v
+│   │           └── non-free
+│   │               ├── p
+│   │               └── v
+│   │                   └── khmvv
+│   ├── texts
+│   │   ├── 0NLINE-BUT-NOT-FREE
+│   │   │   ├── craphound.com
+│   │   │   │   └── printcrime
+│   │   │   ├── digitalartistshandbook.org
+│   │   │   │   ├── commandlinepoetics
+│   │   │   │   │   └── i
+│   │   │   │   │       └── a -> ../../../../../../
+│   │   │   │   └── puredataflow
+│   │   │   │       └── i
+│   │   │   │           └── a -> ../../../../../../
+│   │   │   ├── manovich.net
+│   │   │   ├── rejon.org
+│   │   │   ├── ubu.wfmu.org
+│   │   │   └── wall.org
+│   │   │       └── the_first_postmodern_computer_language
+│   │   ├── cramer.plaintext.cc
+│   │   │   ├── executable_statements
+│   │   │   ├── open_content
+│   │   │   └── what_does_open_mean_in_digital_arts
+│   │   ├── freebeer.org
+│   │   │   ├── appendix
+│   │   │   ├── bibtex
+│   │   │   ├── chapters
+│   │   │   ├── media
+│   │   │   └── pdf
+│   │   ├── gnu.org
+│   │   ├── goto10.org
+│   │   │   └── FLOSS+Art.v1.1.eBook-GOTO10
+│   │   │       ├── chapters
+│   │   │       ├── cover
+│   │   │       ├── fonts
+│   │   │       │   ├── Gentium102
+│   │   │       │   ├── liberation-fonts-1.04
+│   │   │       │   ├── Libertinage-ofl
+│   │   │       │   ├── LinLibertineFont
+│   │   │       │   └── NotCourier-sans-package
+│   │   │       ├── images
+│   │   │       ├── logos
+│   │   │       └── pdf
+│   │   ├── gutenberg.org
+│   │   └── opensource.mit.edu
+│   └── vektorconverter
+└── workshop
+    ├── badcon
+    │   └── doc
+    │       └── 130219
+    ├── bag
+    │   ├── i
+    │   │   ├── a -> ../../../
+    │   │   ├── free
+    │   │   │   ├── p
+    │   │   │   └── v
+    │   │   ├── non-free
+    │   │   │   ├── p
+    │   │   │   │   └── font_preparation
+    │   │   │   └── v
+    │   │   └── tmp
+    │   ├── o
+    │   └── participants
+    │       ├── albert
+    │       │   ├── i
+    │       │   │   ├── a -> ../../../../../
+    │       │   │   ├── free
+    │       │   │   ├── non-free
+    │       │   │   └── tmp
+    │       │   └── o
+    │       ├── aymeric
+    │       │   ├── i
+    │       │   │   ├── a -> ../../../../../
+    │       │   │   ├── free
+    │       │   │   ├── non-free
+    │       │   │   └── tmp
+    │       │   └── o
+    │       ├── birgit
+    │       │   ├── i
+    │       │   │   ├── a -> ../../../../../
+    │       │   │   ├── free
+    │       │   │   ├── non-free
+    │       │   │   └── tmp
+    │       │   └── o
+    │       ├── christoph
+    │       │   ├── i
+    │       │   │   ├── a -> ../../../../../
+    │       │   │   ├── free
+    │       │   │   │   ├── p
+    │       │   │   │   └── v
+    │       │   │   ├── metapost
+    │       │   │   ├── non-free
+    │       │   │   ├── testing
+    │       │   │   └── tmp
+    │       │   └── o
+    │       │       └── free
+    │       │           └── v
+    │       │               └── differentdithers
+    │       ├── dar
+    │       │   ├── i
+    │       │   │   ├── a -> ../../../../../
+    │       │   │   ├── free
+    │       │   │   ├── non-free
+    │       │   │   └── tmp
+    │       │   └── o
+    │       ├── emanuele
+    │       │   ├── i
+    │       │   │   ├── a -> ../../../../../
+    │       │   │   ├── free
+    │       │   │   ├── non-free
+    │       │   │   └── tmp
+    │       │   └── o
+    │       ├── krhenry
+    │       │   ├── i
+    │       │   │   ├── a -> ../../../../../
+    │       │   │   ├── free
+    │       │   │   ├── non-free
+    │       │   │   └── tmp
+    │       │   └── o
+    │       ├── loredana
+    │       │   ├── i
+    │       │   │   ├── a -> ../../../../../
+    │       │   │   ├── free
+    │       │   │   ├── non-free
+    │       │   │   └── tmp
+    │       │   ├── lo
+    │       │   ├── lo1
+    │       │   ├── lo2
+    │       │   └── o
+    │       ├── maxmustermann
+    │       │   ├── i
+    │       │   │   ├── a -> ../../../../../
+    │       │   │   ├── free
+    │       │   │   ├── non-free
+    │       │   │   └── tmp
+    │       │   └── o
+    │       ├── megan
+    │       │   ├── i
+    │       │   │   ├── a -> ../../../../../
+    │       │   │   ├── free
+    │       │   │   ├── non-free
+    │       │   │   └── tmp
+    │       │   └── o
+    │       └── reneeom
+    │           ├── i
+    │           │   ├── a -> ../../../../../
+    │           │   ├── free
+    │           │   ├── non-free
+    │           │   └── tmp
+    │           └── o
+    └── lisl
+        ├── i
+        │   ├── pdf
+        │   │   ├── alphabets
+        │   │   │   ├── _cmsy10________
+        │   │   │   ├── _Courier_New___
+        │   │   │   ├── _eufm10________
+        │   │   │   ├── _League_Gothic_
+        │   │   │   ├── _Nimbus_Sans_L_
+        │   │   │   └── _Webdings______
+        │   │   ├── circlefill
+        │   │   ├── circlerandomtransparency
+        │   │   ├── circlestroke
+        │   │   ├── points
+        │   │   ├── polyline
+        │   │   ├── src
+        │   │   │   ├── circlefill
+        │   │   │   │   ├── application.linux
+        │   │   │   │   │   ├── lib
+        │   │   │   │   │   └── source
+        │   │   │   │   └── circlefill -> ../../circlefill
+        │   │   │   ├── circlerandomtransparency
+        │   │   │   │   ├── application.linux
+        │   │   │   │   │   ├── lib
+        │   │   │   │   │   └── source
+        │   │   │   │   └── circlerandomtransparency -> ../../circlerandomtransparency/
+        │   │   │   ├── circlestroke
+        │   │   │   │   ├── application.linux
+        │   │   │   │   │   ├── lib
+        │   │   │   │   │   └── source
+        │   │   │   │   └── circlestroke -> ../../circlestroke
+        │   │   │   ├── points
+        │   │   │   │   ├── application.linux
+        │   │   │   │   │   ├── lib
+        │   │   │   │   │   └── source
+        │   │   │   │   └── points -> ../../points
+        │   │   │   └── polyline
+        │   │   │       ├── application.linux
+        │   │   │       │   ├── lib
+        │   │   │       │   └── source
+        │   │   │       └── polyline -> ../../polyline
+        │   │   ├── var
+        │   │   └── words
+        │   │       ├── _cmsy10________
+        │   │       ├── _Courier_New___
+        │   │       ├── _eufm10________
+        │   │       ├── _League_Gothic_
+        │   │       ├── _Nimbus_Sans_L_
+        │   │       └── _Webdings______
+        │   └── svg
+        ├── o
+        ├── participants
+        │   └── maex
+        │       ├── autotrace_variant
+        │       ├── i
+        │       │   ├── pdf
+        │       │   ├── pdf_gfx
+        │       │   └── pdf_lynx
+        │       ├── o
+        │       │   ├── pdf
+        │       │   ├── png
+        │       │   ├── png_lynx
+        │       │   └── poster
+        │       ├── source
+        │       ├── src_old
+        │       └── tmp
+        └── tmp
 
 
