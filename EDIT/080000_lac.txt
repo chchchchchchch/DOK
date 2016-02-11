@@ -59,73 +59,6 @@
 > of the transparent tool and the romantic creative genius, and also against
 > the machine as an autonomous entity.
 
-
-% ============================================================================= %
-% EMAIL COMMUNICATION
-% ============================================================================= %
-
-
-% ----------------------------------------------------------------------------- %
-% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
-% ----------------------------------------------------------------------------- %
-
-  In 2008 the *visual key element* for the Linux Audio Conference
-  was an absurd and highly interconnected musical instrument,
-  invented and plugged together by _LAFKON_. We wrote some code for
-  the bash and Processing that generates a multitude of the so called
-  _LAC Machine_ from a pool of [micro illustrations](http://vektordb.lafkon.net/2007/pipemusic/).
-
-  [The Edition](http://www.forkable.eu/generators/lacmachine/SELFPRINT)
-  [Follow Research & Development](http://www.forkable.eu/memo/2008/lac/)
-  [Explore Development and Production Tree](http://www.forkable.eu/generators/lacmachine)
-
-% ----------------------------------------------------------------------------- %
-% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
-% ----------------------------------------------------------------------------- %
-
-
-% FROM: http://stdin.fr/uploads/Main.Writings/BC04-Stdin-ENG.pdf 
-% LICENSE: FAL (1.3) 
-
-> Created, edited and stored on a computer, printed matter is above all digital.
-> Mainstream software still conceals this fact through the emulation of
-> traditional creative methods.
-> [...]
-
-> We again find this recognition of the tool in the work of LAFKON, a German
-> design studio that likes to apply the Unix philosophy notably by combining
-> various software. The "Linux Audio Conference 2008" posters are evidence of
-> this. They chiefly involve multiple vector illustrations arranged on a grid.
-> They have one or more "connection points" enabling them to be connected to
-> each other. These drawings were done by hand with the Inkscape graphic
-> software. The files were named following a nomenclature describing their
-> connection points (for instance, the drawing called `FILENAME_1_0_1_0_.svg`
-> has a connection at the top and at the bottom). Command line programmes,
-> usually used by systems administrators, were used to calculate multiple
-> arrangements of drawings in function of these points. The results, saved in
-> the form of lists containing the filenames, were imported into the Processing
-> software to create multiple posters, all different. Each of the programmes
-> used was chosen for its intrinsic qualities: visual design with Inkscape,
-> design by text with the command line and design by numbers with Processing.
-> LAFKON takes over and utilizes the materiality of the code -- or rather codes
-> -- but also the materiality of what may be termed the "paracode" (filenames,
-> tree structures, comments, error logs...). This approach is a radical break
-> with the idea of a unified design environment as offered in applications
-> suites.
-
-> If through its expansive combinatory nature this work can be likened to the
-> work of Conditional Design or Lust, it shows a rather different understanding
-> of the design/code relation, seen notably in the way the process is explained
-> and documented. While the work of the abovementioned designers generally
-> comes with an explanation of the method and a commentary on the forms
-> produced, with LAFKON we get to see the source itself. The creation code,
-> available on its site, is commented on in order to explain how the programme
-> works. Distributed as free software, it is also an invitation to the reader
-> to make the design his own and use it to construct things upon. By disclosing
-> the technique like this, LAFKON is adopting a stance at once against the idea
-> of the transparent tool and the romantic creative genius, and also against
-> the machine as an autonomous entity.
-
 % ----------------------------------------------------------------------------- %
 % ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
 % ----------------------------------------------------------------------------- %
@@ -2282,8 +2215,8 @@ for generally being extremely nice people to know.
   On Sun, Sep 09, 2007 at 07:30:51PM +0200, Christoph Haag wrote:
   > anrufen: 0821 346328
 
-  die nummer funktioniert irgendwie nicht.  skype auch nicht.  schick
-  mal eine tel-nummer...
+  die nummer funktioniert irgendwie nicht. skype auch nicht. 
+  schick mal eine tel-nummer...
 
   m
 
