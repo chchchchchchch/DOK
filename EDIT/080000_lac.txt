@@ -126,6 +126,61 @@
 > of the transparent tool and the romantic creative genius, and also against
 > the machine as an autonomous entity.
 
+% ----------------------------------------------------------------------------- %
+% ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: %
+% ----------------------------------------------------------------------------- %
+
+% ...
+apt-get install and
+start samba on the laptop
+smb-client over ethernet for the daw to get to the laptop to get to
+exchange some files,
+open two or three more terminal windows for mutt, iceweasel,
+the latter for the ardour manual.
+ardour now running on the daw,
+monitor the microphone input and
+in another terminal updatedb to
+locate some old audiofiles, for importing.
+open skype, ah, i know,
+ideologically dubious,
+but at least some telecom giant is not getting my moola.
+make voice-over-internet call,
+send email,
+read manual,
+record a poem.
+transfer files,
+strum guitar,
+actually all this running simultaneously
+on two linked machines with 5 or 6 open terminals.
+now this,
+for me,
+is linux.
+if not alan turings universal machine.
+this is the possibility
+to think through the local area network,
+make music,
+take notes,
+do research,
+learn and experience.
+but, and i realize, perhaps beyond the linux effect,
+or maybe another part of it,
+is the fact that
+all this is made possible
+through a social context, where friendship and help can be found.
+and interestingly the very two people who made so much of
+what i just described doable for me
+are the same two people
+who have taken the responsibility for putting together this conference.
+therefore i owe more than a special thanks
+for martin rumori and frank barknecht,
+for keeping me on the path,
+for putting together this wonderfull gathering and
+for generally being extremely nice people to know.
+% ...
+
+% Transcription (extract) of Anthony Moore's Keynote at the Linux Audio Conference 2008
+% http://lac.linuxaudio.org/2008/khm/rough_cuts/2008-02-28/2008-0228-1059-Martin_Rumori-Frank_Barknecht-LAC2008_Opening.ogv
+
 
 % ============================================================================= %
 % EMAIL COMMUNICATION
