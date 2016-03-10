@@ -221,6 +221,7 @@
 
 
 
+
 <path
    d="m 78.807421,36.295005 338.312509,0"
    style="fill:none;stroke:#ff00ff;stroke-width:0.24875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
@@ -264,6 +265,7 @@
      id="tspan3137">2</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path68"
@@ -279,7 +281,6 @@
    inkscape:label="XX_20110904203039"
    style="display:none">
     <image
-   
    xlink:href="../src/screenshot/20110904203039.png"
    x="0"
    y="-820"
@@ -293,7 +294,6 @@
    inkscape:label="XX_20110904203049"
    style="display:none">
     <image
-   
    xlink:href="../src/screenshot/20110904203049.png"
    x="0"
    y="-820"
@@ -307,7 +307,6 @@
    inkscape:label="XX_20110904203056"
    style="display:none">
     <image
-   
    xlink:href="../src/screenshot/20110904203056.png"
    x="0"
    y="-820"
@@ -321,7 +320,6 @@
    inkscape:label="XX_20110904203105"
    style="display:none">
     <image
-   
    xlink:href="../src/screenshot/20110904203105.png"
    x="0"
    y="-820"
@@ -335,7 +333,6 @@
    inkscape:label="XX_20110904203112"
    style="display:none">
     <image
-   
    xlink:href="../src/screenshot/20110904203112.png"
    x="0"
    y="-820"
@@ -349,7 +346,6 @@
    inkscape:label="XX_20110904203120"
    style="display:none">
     <image
-   
    xlink:href="../src/screenshot/20110904203120.png"
    x="0"
    y="-820"
@@ -375,6 +371,7 @@
      id="tspan3056"
      x="560.28223"
      y="399.95334">chmod +x screenshots 3</tspan></text>
+
 
 </g>
 </svg>
