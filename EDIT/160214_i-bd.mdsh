@@ -37,12 +37,11 @@
 
 % THE SETUP
 % ---------
-% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/151126_A5x2-i-bd.svg class:v full
+% SPREAD: http://github.com/christop/DOK/raw/5c27d8a/EDIT/151126_A5x2-i-bd.svg class:v full
 
 % WHITESPACE: 20
 
-% S!OFTWAREUSED: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/100000_i-bd-software.list
-% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/160310_A5x2-i-bd-softwareused.svg 1-3
+% SPREAD: http://github.com/christop/DOK/raw/5c27d8a/EDIT/160310_A5x2-i-bd-softwareused.svg 1-3
 
 
 % HREF: OFF
