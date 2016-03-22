@@ -1,0 +1,190 @@
+%  L I N U X   A U D I O   C O N F E R E N C E   2 0 0 8
+% =========================================================================== %
+
+% HREF: OFF
+% CLEARTOLEFT:
+
+% --------------------------- 
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_37.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_96.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_09.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_40.pdf
+% PP:
+
+% Anthony's Keynote
+% -----------------
+% INCLUDE: https://github.com/christop/DOK/raw/a34c29b/EDIT/080000_lac.txt 67-111
+
+% TEXIN: \urlf{http://lac.linuxaudio.org/2008/khm/rough_cuts/2008-02-28/2008-0228-1059-Martin_Rumori-Frank_Barknecht-LAC2008_Opening.ogv}
+
+% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/151116_A5x2-lac08.svg 7-8
+% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/151116_A5x2-lac08.svg 9-10
+% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/151116_A5x2-lac08.svg 11-12
+
+% Making connections,
+% somehow structured, 
+% yet surprising,
+% maybe ambitious.
+%
+% Modular approach as way of thinking,
+% not as question of your favourite software application.
+% Development in terms of relations and connections,
+% talk-to rather than plug-in?
+% Practise of alternative software at the Klanglabor
+% discoursive practise in and around software
+
+
+% TODO: SOFTWAREUSED -> TeX \index{}
+% S!OFTWAREUSED: https://raw.githubusercontent.com/christop/DOK/9dedaa3/EDIT/080000_lac-software.list
+
+% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/160310_A5x2-lac08-softwareused.svg
+% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/160110_A5x2-lac08-setup.svg 1-2
+
+
+% --------------------------------------------------------------------------- %
+% POSTER SELECTION
+% --------------------------------------------------------------------------- %
+
+% HREF: ON
+% --------------------------- 
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_59.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_22.pdf
+% PP:
+
+% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/151116_A5x2-lac08.svg 2-4
+
+% ANCHOR: lac08 parts and pieces
+% HREF: OFF
+% --------------------------- 
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_28.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_80.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_42.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_54.pdf
+% PP:
+
+% --------------------------------------------------------------------------- %
+% PARTS
+% --------------------------------------------------------------------------- %
+% --------------------------- 
+% http://www.forkable.eu/stock/2007/pipemusic/CLARINETT_1_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/CLARINE_1_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/CLARINETTE_0_1_0_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/CLARINETT_0_1_0_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/DHOLLYOW_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/DHOLL_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/DHOL_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/DHOLLY_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/DHOLLYOWO_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/DHOLLYO_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/KILL_0_1_0_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/KIL_0_1_0_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/MAGICB_0_1_0_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/HOLLYWOOD_0_1_0_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/HOLLYWOOD_0_0_0_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/HORN_1_0_0_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/HOLLYWOOD_0_1_1_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/PUREDAT_1_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/PUREDATA_1_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/KEYSCRMTRX_1_1_1_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/KEYSCRMTRXL_1_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/KEYSCRMTR_1_1_1_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/PUREDATA_0_1_0_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/KEYSCRMTRXL_1_0_1_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/KEYSCRMTRXL_1_1_1_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/KEYSCRTEMPO_1_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/KEYSCRVO_1_0_0_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/KEYSCRVOL_1_0_0_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/PELIKAN_1_1_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/PELIKAN_0_0_1_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/HAN_0_1_0_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/JOYSTICK_1_0_0_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/POSAUNE_1_1_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/POSAUNE_0_1_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/POSAUNE_1_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/POSAUNE_1_1_0_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/SPACESTATIO_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/SPACESTATION_0_1_1_1_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/SPACESTATION_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/TROETE_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/TROE_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/TR_0_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/US_1_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/USB_1_1_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/USB_1_0_1_0_.pdf
+% http://www.forkable.eu/stock/2007/pipemusic/USB_0_1_0_1_.pdf
+% http://vektordb.lafkon.net/2007/pipemusic/HOLLY_0_0_0_0_.pdf
+% http://vektordb.lafkon.net/2007/pipemusic/CLOCK_1_0_1_0_.pdf
+% PP: OPTIONS: delta=20 20,nup=4x6,scale=.7,offset=25 20
+
+% HREF: ON
+% --------------------------- 
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_78.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_95.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_89.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_16.pdf
+% PP:
+
+% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/151116_A5x2-lac08.svg 5-6
+
+% HREF: OFF
+% --------------------------- 
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_70.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_15.pdf
+% PP:
+
+% --------------------------- 
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_67.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_02.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_82.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_75.pdf
+% PP:
+
+% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/151116_A5x2-lac08.svg 13-20
+
+% --------------------------- 
+% http://forkable.eu/g/lacmachine/o/non-free/A3_Stadtgarten/plakatlac@stadtgarten_A3_34.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3_Stadtgarten/plakatlac@stadtgarten_A3_71.pdf
+% PP:
+
+% --------------------------- 
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_14.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_20.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_98.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_77.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_56.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_73.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_26.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_91.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_75.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_55.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_84.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_57.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_60.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_28.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_03.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_79.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_89.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_95.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_87.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_15.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_34.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_43.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_09.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_70.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_80.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_78.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_38.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_24.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_29.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_86.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_63.pdf
+% http://forkable.eu/g/lacmachine/o/non-free/A3/plakatlac2008_A3_67.pdf
+% PP:
+
+% --------------------------- 
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_52.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_94.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_14.pdf
+% http://www.forkable.eu/generators/lacmachine/o/non-free/A3/plakatlac2008_A3_24.pdf
+% PP:
+
