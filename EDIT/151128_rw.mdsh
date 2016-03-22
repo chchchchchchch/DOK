@@ -1,26 +1,8 @@
 
-% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/160110_A5x2-rw-setup.svg
-% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/160309_A5x2-rw-softwareused.svg
+% SPREAD:  https://gitlab.com/christophh/DOK/raw/5e37782/EDIT/160110_A5x2-rw-setup.svg 2-6
+% SPREAD:  https://gitlab.com/christophh/DOK/raw/5e37782/EDIT/160309_A5x2-rw-softwareused.svg
 
-% INCLUDE: 160306_rw-qa.mdsh
+% HREF: OFF
+% INCLUDE: https://gitlab.com/christophh/DOK/raw/02a3131/EDIT/160306_rw-qa.mdsh
+% SPREAD:  https://gitlab.com/christophh/DOK/raw/be39a30/EDIT/160306_A5x2-rw-people.svg
 
-% SPREAD: /home/christoph/0000_GIT/ch/000000_CURRENT/DOK/EDIT/160306_A5x2-rw-people.svg
-
-
-
-% HTMLIN: iframe part
-
-
-
-%x % ???? -->
-%x % S!HUFFLEPDF: /home/christoph/_owncloud/LFKN_Freeze+Press/Artwork/2015/151025--dok-projekte/2013_r+w/free/svg/people/R-004.pdf 004.pdf
-%x % P!DF: 004.pdf # scale=.65,nup=4x4,delta=0 20,offset=28 40
-
-%x % PDF: /home/christoph/_owncloud/LFKN_Freeze+Press/Artwork/2015/151025--dok-projekte/2013_r+w/free/svg/people/R-004.pdf - # scale=.65,nup=4x4,delta=0 20,offset=28 40
-%x % PDF: /home/christoph/_owncloud/LFKN_Freeze+Press/Artwork/2015/151025--dok-projekte/2013_r+w/free/svg/people/R-003.pdf - # scale=.65,nup=2x3,delta=20 20,offset=28 30
-%x % PDF: /home/christoph/_owncloud/LFKN_Freeze+Press/Artwork/2015/151025--dok-projekte/2013_r+w/free/svg/people/L-004.pdf - # scale=.65,nup=4x4,delta=0 20,offset=28 40
-%x % PDF: /home/christoph/_owncloud/LFKN_Freeze+Press/Artwork/2015/151025--dok-projekte/2013_r+w/free/svg/people/L-003.pdf - # scale=.75,nup=5x12,delta=15 8,offset=28 15
-%x % PDF: /home/christoph/_owncloud/LFKN_Freeze+Press/Artwork/2015/151025--dok-projekte/2013_r+w/free/svg/people/L-002.pdf - # scale=.75,nup=10x8,delta=11 8,offset=28 15
-%x % PDF: /home/christoph/_owncloud/LFKN_Freeze+Press/Artwork/2015/151025--dok-projekte/2013_r+w/free/svg/people/R-002.pdf - # scale=.75,nup=10x8,delta=9 8,offset=28 15
-%x % PDF: /home/christoph/_owncloud/LFKN_Freeze+Press/Artwork/2015/151025--dok-projekte/2013_r+w/free/svg/people/L-002.pdf - # scale=.8,nup=6x4,delta=10 10,offset=30 15
-%x % PDF: /home/christoph/_owncloud/LFKN_Freeze+Press/Artwork/2015/151025--dok-projekte/2013_r+w/free/svg/people/R-002.pdf - # scale=.8,nup=6x4,delta=5 10,offset=30 15
