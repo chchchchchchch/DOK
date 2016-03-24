@@ -1,3 +1,5 @@
+% CLEARTORIGHT:
+
 % HREF: OFF
 % --------------------------- 
 % http://forkable.eu/g/dit/doc/i/free/v/earlybirds/100201-1123.pdf
@@ -27,7 +29,7 @@
 % PP:
 
 % SPREAD: http://github.com/christop/DOK/raw/8823910/EDIT/160216_A5x2-ditails.svg 10
-% SPREAD: http://github.com/christop/DOK/raw/8823910/EDIT/160216_A5x2-ditails.svg 5-8
+% SPREAD: http://github.com/christop/DOK/raw/8823910/EDIT/160216_A5x2-ditails.svg 5-6
 
 % --------------------------- 
 % http://forkable.eu/g/dit/doc/i/free/v/1002XX/100222-2158_test.pdf
@@ -36,12 +38,16 @@
 % http://forkable.eu/g/dit/doc/i/free/v/1002XX/100224-0146_test.pdf
 % PP:
 
+% SPREAD: http://github.com/christop/DOK/raw/8823910/EDIT/160216_A5x2-ditails.svg 8
+
 % SPREAD: http://github.com/christop/DOK/raw/8823910/EDIT/160216_A5x2-ditails.svg 9
 
 % --------------------------- 
 % http://forkable.eu/g/dit/o/non-free/A3/dit-A3-001.pdf
 % http://forkable.eu/g/dit/o/non-free/A3/dit-A3-005.pdf
 % PP:
+
+% SPREAD: http://github.com/christop/DOK/raw/8823910/EDIT/160216_A5x2-ditails.svg 7
 
 % --------------------------- 
 % http://forkable.eu/g/dit/o/non-free/A3/dit-A3-008.pdf
