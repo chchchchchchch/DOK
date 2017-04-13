@@ -17,4 +17,5 @@ http://savannah.gnu.org/projects/teximpatient
 impatient.pdf ->
 http://mirror.ctan.org/info/impatient/book.pdf
 
-
+texbytopic.pdf ->
+http://mirrors.ctan.org/info/texbytopic/TeXbyTopic.pdf
